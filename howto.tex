@@ -1,0 +1,131 @@
+
+\font\chant opusg20
+
+\centerline{\bigtype How To Sing Chant}
+
+\doubleline
+
+\bigskip
+
+Like books on how to speak French, it is best if you can learn by 
+listening.  Since that is not always possible here are a few pointers
+to help you get started.
+
+\bigskip
+
+Chant is written on a four line staff.  That gives enough room for a 
+comfortable vocal range.  The melodies can be sung at whatever pitch
+suits the choir, usually around speaking pitch or higher.
+
+The \kern2pt\raise.3em\hbox{\chant\char8}\kern-2pt clef marks the line for the `Do' note.  
+The \kern2pt\raise1.8em\hbox{\chant\char9}\kern-2pt clef 
+marks the line for the `Fa' note.  The notes are read left to right
+with a steady rhythm following the natural rise and fall of the text.
+
+\bigskip
+
+Here is an example.
+
+\setgregorian1
+\setclef12
+\musicindent14mm
+\raisesong3\Internote
+\initiumgregorianum
+\musicinitial{}{A}%
+\sgn {}{-}{S}\pes Na\egn
+\sgn p{\'e}{r-}\climacus cba\egn
+\sgn ges\pes bc\egn
+\spatium
+\sgn me,\punctum d\augmentum d\egn
+\spatium
+\Finisgregoriana
+
+\bigskip
+
+This neat, compact excerpt could be written like this:
+
+{
+\resetlayout
+
+\def\Notes{\vnotes4}
+\def\NOtes{\vnotes5}
+\def\NOTes{\vnotes6}
+
+
+%\generalmeter\meterC
+%\belowsystem{6}
+\smallmusicsize
+\setclef1{\treble}
+\startpiece
+\Notes\cchar{-6}{As-}\ibu1{g}{2}\qb1{g}\en
+\Notes\tb1\qb1{'a}\en
+\Notes\cchar{-6}{p\'er-}\ibu1{'c}{-1}\qb1{'c}\en
+\Notes\qb1{'b}\en
+\Notes\tb1\qb1{'a}\en
+\Notes\cchar{-6}{ges}\ibu1{'b}{2}\qb1{'b}\en
+\Notes\tb1\qb1{'c}\en
+\NOtes\cchar{-6}{me,}\ha{'d}\en
+\endpiece
+
+\bigskip
+
+Or a little lower like this:
+
+%\generalmeter\meterC
+%\belowsystem{6}
+\generalsignature{+1}
+\smallmusicsize
+\setclef1{\treble}
+\startpiece
+\Notes\cchar{-6}{As-}\ibu1{d}{2}\qb1{d}\en
+\Notes\tb1\qb1{e}\en
+\Notes\cchar{-6}{p\'er-}\ibu1{g}{-1}\qb1{g}\en
+\Notes\qb1{f}\en
+\Notes\tb1\qb1{e}\en
+\Notes\cchar{-6}{ges}\ibu1{f}{2}\qb1{f}\en
+\Notes\tb1\qb1{g}\en
+\NOtes\cchar{-6}{me,}\ha{'a}\en
+\endpiece
+
+
+}
+
+\bigskip
+
+Can you see the advantage of the first notation?  The text gives the
+spacing of the notes rather than being chopped into syllables and
+spread according to time.
+
+\bigskip
+
+A few notes are a bit puzzling.  The {\chant\char16\raise2em\hbox{\char15}}
+~is a pair of notes sung bottom to top.  
+The {\chant\raise1em\hbox{\char30}\kern2em\raise2em\hbox{\char15}}
+~is a trio of three notes, the first two at either end of the swoosh and
+finishing with the last note up on the stick.
+
+\bigskip
+
+Dots and dashes roughly double the time the note is held.
+The volume swells according to the words.  Accent marks show
+where to stress the syllable.  Latin never stresses the last 
+syllable so two syllable words are not marked to save ink.
+The voice dies down at the end of a phrase.  
+
+\bigskip
+
+The different barlines
+indicate different separations or pauses.  The bigger the line the
+bigger the pause.  The smaller divisions do not warrant a breath.
+Try to get a whole sentence in one breath, or at least avoid taking
+a breath in the middle of a word.
+
+\bigskip
+
+There are a few unusual notes to look for.  Some say the  \kern1pt{\chant\raise1em\hbox{\char17}}
+~ was once sung with a wobble.  It is tricky
+to get a choir to wobble all together so now most agree to emphasize the
+previous note and skip lightly over the \kern1pt{\chant\raise1em\hbox{\char17}}~.
+Sometimes notes at the end of a bunch are shrunk to show how the sound 
+diminishes.
+

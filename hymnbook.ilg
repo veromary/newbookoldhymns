@@ -1,0 +1,6 @@
+This is makeindex, version 2.14 [02-Oct-2002] (kpathsea + Thai support).
+Scanning input file hymnbook.idx....done (107 entries accepted, 0 rejected).
+Sorting entries....done (800 comparisons).
+Generating output file hymnbook.ind....done (167 lines written, 0 warnings).
+Output written in hymnbook.ind.
+Transcript written in hymnbook.ilg.

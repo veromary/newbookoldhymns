@@ -1,0 +1,39 @@
+This is TeX, Version 3.1415926 (TeX Live 2010) (format=tex 2011.6.15)  22 AUG 2011 09:08
+**hymnbook.tex
+(./hymnbook.tex (./macros.tex (/home/veronica/texmf/tex/opustex/opustex.tex
+OpusTeX(c) 0.93 <2000/02/02>
+)
+! I can't find file `opusgreg'.
+l.2 \input opusgreg
+                   
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find file `opusgreg'.
+l.2 \input opusgreg
+                   
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find file `opusgreg'.
+l.2 \input opusgreg
+                   
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find file `opusgreg'.
+l.2 \input opusgreg
+                   
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: opusgre.tex
+(/home/veronica/texmf/tex/opustex/opusgre.tex
+OPUSGREgorian 0.93 <2000/02/02>
+(/home/veronica/texmf/tex/opustex/opusbar.tex
+OPUSBARoque 0.93 <2000/02/02>
+)
+\g@nw=\dimen85
+) (/usr/local/texlive/2010/texmf-dist/tex/eplain/eplain.tex)
+! Font \numerical=cmb12 not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \par 
+l.22 
+     
+? x
+No pages of output.
