@@ -54,31 +54,6 @@
 \redlines
 
 
-
-\begin{center}
-
-\textsc{\huge A New Book}
-
-\textsc{\huge of Old Hymns}
-
-\textsc{\large in Latin and English}
-
-chant
-
-polyphony
-
-rounds
-
-a litany
-
-for all the seasons
-
-of the Church's year
-
-\end{center}
-
-
-
 \includescore{gabc/va--oremus_pro_pontifice--solesmes}
 
 \section{Advent}
@@ -122,6 +97,9 @@ Veni veni Emmanuel - need to type it up in Lilypond or something like that.
 
 \section{Passiontide}
 
+<<<<<<< HEAD
+\includescore{gabc/hy--vexilla_regis_prodeunt--solesmes}
+=======
 %Gloria Laus
 
 \includescore{gabc/hy--gloria_laus--solesmes.1}
@@ -141,8 +119,8 @@ Veni veni Emmanuel - need to type it up in Lilypond or something like that.
 
 \includescore{gabc/hy--gloria_laus--solesmes.6}
 
-\includescore{gabc/hy--vexilla_regis_prodeunt--solesmes.1verse}
 
+>>>>>>> 53b49dfc9374293ebeba8500002c6f43b80bc918
 
 \section{Easter}
 
