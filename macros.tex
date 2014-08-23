@@ -18,7 +18,7 @@
 \font\smalltt = cmtt8
 \font\smold = cmmi10 scaled 900
 \font\amssymbols = msam10
-\font\numerical = cmb12
+\font\numerical = cmbx12
 
 % Humanist Minuscule font
 
@@ -49,7 +49,8 @@
 %\def\beginhymn #1\par{\centerline{\title #1}\par\bigskip}
 
 %\def\beginhymn #1.{\writetocentry{subsection}{#1}\sidx{#1}
-\def\beginhymn #1.{\line{\numerical\the\hymnno . \hfil \bigtype \idx{#1} \hfil }\advance\hymnno by 1\par\bigskip}
+%\def\beginhymn #1.{\line{\numerical\the\hymnno . \hfil \bigtype \idx{#1} \hfil }\advance\hymnno by 1\par\bigskip}
+\def\beginhymn #1.{\line{ \hfil \bigtype \idx{#1} \hfil }\advance\hymnno by 1\par\bigskip}
 
 \def\endhymn{\vfill\eject}
 
