@@ -30,10 +30,11 @@
 %\let\augmentumduplex=\gobbletwo
 %\let\episem=\gobbletwo
 
+%%%
 %Lulu 6x9 version
-\special{papersize=5.95in,8.95in}
-\pdfpagewidth=6in
-\pdfpageheight=9in
+%\special{papersize=5.95in,8.95in}
+%\pdfpagewidth=6in
+%\pdfpageheight=9in
 
 
 %I had trouble getting lulu to recognise 6in*9in
@@ -48,10 +49,12 @@
 %\voffset-.25in
 
 %%a5 version 
-%\special{papersize=148mm,210mm}
+\special{papersize=148mm,210mm}
+\pdfpagewidth=148mm
+\pdfpageheight=210mm
 
-%\hoffset-1.5mm
-%\voffset-7mm
+\hoffset-1.5mm
+\voffset-7mm
 
 
 \hsize100mm
@@ -147,14 +150,24 @@
 %%% Here lies the edition, publisher, copyright info
 
 
+\ 
 
-{\rmlyrics
+\vfill
 
-\raggedright
+{\raggedright
 \pretolerance=10000
 
 \parindent=0mm
 \parskip=6pt
+
+Imprimatur
+\centerline{Very Rev Peter G Williams}
+\rightline{Vicar General}
+\rmlyrics
+
+Parramatta, 11 February, 2014
+
+\vfill
 
 First Edition July 2004
 
@@ -170,39 +183,33 @@ Designed and typeset by Veronica Brandt http://brandt.id.au.
 
 %No Microsoft(tm/r?) products were used in the
 %preparation of this book.  
-\TeX\ and \OpusTeX\ were used to typeset this book.  
-These are both free and open source software.
-
-The fonts used are also free, namely:
+\TeX\ and \OpusTeX\ were used to typeset this book using
+%These are both free and open source software.
+%The fonts used are also free, namely:
           Computer Modern Roman by Donald Knuth,
           Humanist Minuscule by Peter Wilson
 %	  and Dieter Steffmann's Romantik Initialen.
           and Priory by Paul Lloyd.
 
 
-This work is licensed under the Creative Commons 
-Attribution 2.5 Australia License. 
-To view a copy of this license, visit 
-http://creativecommons.org/licenses/by/2.5/au/ 
-or send a letter to 
-Creative Commons, \\
-171 Second Street, \\
-Suite 300, \\
-San Francisco,\\
-California, 94105, USA.
+%This work is licensed under the Creative Commons 
+%Attribution 2.5 Australia License. 
+%To view a copy of this license, visit 
+%http://creativecommons.org/licenses/by/2.5/au/ 
+%or send a letter to 
+%Creative Commons, \\
+%171 Second Street, \\
+%Suite 300, \\
+%San Francisco,\\
+%California, 94105, USA.
 
 You may freely photocopy pages.
 
-Most of the illustrations come from old books.
-One comes from Alex Clark http://alexeclark.blogspot.com.
-The portrait of Pope Benedict XVI is by
-Peter Brandt
-http://brandt.id.au.
+%Most of the illustrations come from old books.
+%One comes from Alex Clark http://alexeclark.blogspot.com.
 
-%Cover art by Alexandra Clark
-%http://alexeclark.blogspot.com.
-Cover pictures from Full-Color Medieval Ornament by
-Dover Publications
+%Cover pictures from Full-Color Medieval Ornament by
+%Dover Publications
 
 Acknowledgements:  Many, many people helped at different stages,
 translating, proofreading and giving ideas.  This book would not
@@ -215,9 +222,9 @@ to learn.
 There are free mp3 recordings of many of the chant hymns available
 on the internet.  For links see http://brandt.id.au/music/hymnbook/.
 
-Printed and bound in Australia by Artisan Printing Services, Springwood.
+%Printed and bound in Australia by Artisan Printing Services, Springwood.
 
-\vfill
+%\vfill
 
 }
 
@@ -258,7 +265,8 @@ Printed and bound in Australia by Artisan Printing Services, Springwood.
 
 %\bigskip
 
-\pdfximage width 50mm {papab16.pdf}
+%\pdfximage width 50mm {papab16.pdf}
+\pdfximage width 50mm {PopeFrancis.pdf}
 %\pdfrefximage \pdflastximage
 
 \centerline{\pdfrefximage \pdflastximage}
@@ -322,6 +330,7 @@ Printed and bound in Australia by Artisan Printing Services, Springwood.
 \eject
 %\paginaproxima
 
+\xrdef{nonnobis}
 \input nonnobis  %no accents
 
 \bigskip
@@ -712,7 +721,7 @@ Printed and bound in Australia by Artisan Printing Services, Springwood.
 
 \paginaproxima
 
-\input tedeum  %fixed accents
+\input tedeumroman  %fixed accents
 
 \paginaproxima
 
