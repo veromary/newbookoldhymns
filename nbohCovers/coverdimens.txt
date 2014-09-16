@@ -1,0 +1,8 @@
+One-piece cover requirements:
+
+    * Your file must be a PDF, JPG, GIF, or PNG
+    * Spine width: 14.92 Postscript points wide (0.526 cm) (62 px)
+    * Spine begins 441 Postscript points (15.56 cm) (1838 px) from the left.
+    * Total cover width: 896.92 X 666 Postscript points (31.64 cm X 23.49 cm) (3737px X 2775px)
+    * If using an image, its resolution should be set to 300dpi
+
