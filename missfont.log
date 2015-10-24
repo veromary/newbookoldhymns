@@ -44,3 +44,5 @@ mktextfm Priory
 mktextfm Priory
 mktextfm Priory
 mktextfm Priory
+mktexpk --mfmode / --bdpi 600 --mag 2+44/600 --dpi 1244 priory
+mktexpk --mfmode / --bdpi 600 --mag 2+44/600 --dpi 1244 priory
