@@ -20,7 +20,7 @@ Contents
 
 * Oremus pro Pontifice nostro / Prayer for our Pope
 * Advent
-   * Conditor alme siderum / Bright builder of the heav'nly poles,
+   * [Conditor alme siderum]({{ site.baseurl }}/hymns/conditor) / Bright builder of the heav'nly poles,
    * Veni, O Sapientia / O come, Thou Wisdom from on high (better known as O come, O come Emmanuel) in two part harmony
    * Rorate caeli / Drop down dew, ye heavens, from above 
 * Christmas

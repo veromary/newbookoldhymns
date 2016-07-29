@@ -9,43 +9,52 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 
 ### Term 1 - with a Lenten flavour
 
-* Attende Domine
-* Parce Domine
-* Ave Regina Caelorum
-* Ave Verum
-* Gloria, Laus
-* Vexilla Regis
-* Ubi Caritas
-* Stabat Mater
-* Pange Lingua (by Thomas Aquinas)
-* Crux Fidelis and the other Pange Lingua
+1. Attende Domine
+1. Parce Domine
+1. Ave Regina Caelorum
+1. Ave Verum
+1. Gloria, Laus
+1. Vexilla Regis
+1. Ubi Caritas
+1. Stabat Mater
+1. Pange Lingua (by Thomas Aquinas)
+1. Crux Fidelis and the other Pange Lingua
 
 ### Term 2 - with a Paschal feel
 
-* Regina Caeli
-* Haec Dies
-* Jubilate Deo
-* O Filii et Filiae
-* Victimae Paschali
-* Salve Festa Dies
-* Veni Sancte Spiritus
-* Veni Creator
-* Adoro Te
-* Sacris Solemnis
+1. Regina Caeli
+1. Haec Dies
+1. Jubilate Deo
+1. O Filii et Filiae
+1. Victimae Paschali
+1. Salve Festa Dies
+1. Veni Sancte Spiritus
+1. Veni Creator
+1. Adoro Te
+1. Sacris Solemnis
 
 ### Term 3 - mostly Marian
 
-* Salve Regina
-* Litany of Loreto
-* Ave Maris Stella
-* Jesu Dulcis
-* Virgo Dei Genetrix
-* Dona nobis pacem
-* Da pacem, Domine
-* Ave Maria
-* Sub tuum praesidium
-* Corda Pia
+1. Salve Regina
+1. Litany of Loreto
+1. Ave Maris Stella
+1. Jesu Dulcis
+1. Virgo Dei Genetrix
+1. Dona nobis pacem
+1. Da pacem, Domine
+1. Ave Maria
+1. Sub tuum praesidium
+1. Corda Pia
 
 ### Term 4 - Christ the King, Holy Souls, Advent, Christmas
 
-
+1. Christus vincit
+1. Requiem aeternam
+1. Dies Irae
+1. [Conditor alme siderum]({{ site.baseurl }}/hymns/conditor)
+1. Veni O Sapientia
+1. Rorate Caeli
+1. Alma Redemptoris
+1. Gaudete
+1. Adeste Fidelis
+1. Puer Natus
