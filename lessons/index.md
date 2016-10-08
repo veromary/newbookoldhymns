@@ -35,7 +35,7 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 
 ### Term 3 - mostly Marian
 
-1. Salve Regina
+1. <a href="{{ site.url }}{{ site.baseurl }}/hymns/salveregina.html">Salve Regina</a>
 1. Litany of Loreto
 1. Ave Maris Stella
 1. Jesu Dulcis
@@ -48,10 +48,10 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 
 ### Term 4 - Christ the King, Holy Souls, Advent, Christmas
 
-1. Christus vincit
+1. <a href="{{ site.url }}{{ site.baseurl }}/hymns/christusvincit.html">Christus vincit</a>
 1. Requiem aeternam
 1. Dies Irae
-1. [Conditor alme siderum]({{ site.baseurl }}/hymns/conditor)
+1. [Conditor alme siderum]({{ site.baseurl }}/hymns/conditor.html)
 1. Veni O Sapientia
 1. Rorate Caeli
 1. Alma Redemptoris
