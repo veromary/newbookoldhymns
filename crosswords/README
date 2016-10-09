@@ -1,0 +1,11 @@
+generating crosswords:
+
+cwg - outputs LaTeX, but doesn't order the box numbers
+
+genxword - doesn't output LaTeX, but does svg
+
+inkscape converts svg to pdf:
+
+ inkscape -z -D --file=input.svg --export-pdf=output.pdf
+
+
