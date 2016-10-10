@@ -1,8 +1,20 @@
 generating crosswords:
 
-cwg - outputs LaTeX, but doesn't order the box numbers
+cwg
+===
 
-genxword - doesn't output LaTeX, but does svg
+- outputs LaTeX, but doesn't order the box numbers
+- a bit fiddly fixing box numbers, but not impossible
+- 22 boxes is a good width for a standard A4 paper layout
+- would be good to magnify the output
+- editing the tex file, removing [small] option from usepackage{crossword} and adding usepackage[cm]{fullpage} helps
+- enlarge clues with \renewcommand\PuzzleClueFont{\rm\normalsize}
+
+genxword 
+========
+
+- doesn't output LaTeX, but does svg
+- pdf output tends to push Down clues on to page 2
 
 inkscape converts svg to pdf:
 
