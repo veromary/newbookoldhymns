@@ -9,7 +9,16 @@ So, here's the deal.
 
 I have this great little book. I compiled it over a decade ago and I still keep coming back to it as a handy little collection of chant and other Catholic sacred music.
 
-[Download here](https://github.com/veromary/newbookoldhymns/raw/opustex/hymnbook.pdf)
+<div style="max-width: 500px; margin: 0 auto">
+<script data-selz-a="modal" data-selz-cb="374fa1" data-selz-chbg="374fa1" data-selz-w="http://selz.co/VyRKtLLC$" data-text="Get it now">
+if (typeof _$elz === "undefined") { var _$elz = {}; }
+if (typeof _$elz.w === "undefined") { 
+_$elz.w = { e: document.createElement("script") }; 
+_$elz.w.e.src = "https://selz.com/embed/widget"; 
+document.body.appendChild(_$elz.w.e); }
+</script>
+<noscript><a href="http://selz.co/VyRKtLLC$" target="_blank">Get it now</a><a href="https://selz.com/info/sell-online" target="_blank">Sell online</a></noscript>
+</div>
 
 The thing is, people who read Gregorian chant already have a huge array of fantastic books available, many quite scholarly.  My book is more a handy collection of favourites, that could be great for families or catechism groups.  Each hymn has a translation - which isn't so important after years of singing these hymns but essential for newbies.
 
