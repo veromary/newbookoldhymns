@@ -18,3 +18,5 @@ Learning Vocabulary
 ===================
 
 [A Crossword Puzzle]({{ site.url}}{{ site.baseurl }}/crosswords/christusvincit.pdf)
+
+<iframe src="https://quizlet.com/158445254/flashcards/embed" height="410" width="100%" style="border:0"></iframe>
