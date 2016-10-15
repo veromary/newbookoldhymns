@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (prelo
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**christusvincit
-(./christusvincit.tex
+**requiem
+(./requiem.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 29 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -40,10 +40,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \PuzzleUnitlength=\dimen103
 \Puzzle@X=\count87
 \Puzzle@Y=\count88
-)
-(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
-Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip43
 )
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/libertine.sty
 Package: libertine 2014/02/19 (Bob Tennent) Supports Libertine and Biolinum fon
@@ -171,73 +167,73 @@ LaTeX Info: Redefining \scshape on input line 37.
 LaTeX Info: Redefining \oldstylenums on input line 477.
 
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_I.tex))
-(./christusvincit.aux)
-\openout1 = `christusvincit.aux'.
+(./requiem.aux)
+\openout1 = `requiem.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 7.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Try loading font information for OT1+LinuxLibertineT-TLF on
- input line 8.
+ input line 7.
+
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-TLF.fd
 File: OT1LinuxLibertineT-TLF.fd 2012/11/26 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 8.
+(Font)              scaled to size 12.0pt on input line 7.
 \c@mv@tabular=\count90
 \c@mv@boldtabular=\count91
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 14.
+(Font)              scaled to size 24.88pt on input line 11.
 LaTeX Font Info:    Try loading font information for OT1+LinuxBiolinumT-TLF on 
-input line 18.
+input line 15.
 
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/OT1LinuxBiolinumT-TLF.fd
 File: OT1LinuxBiolinumT-TLF.fd 2012/11/26 (autoinst) Font definitions for OT1/L
 inuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 18.
+(Font)              scaled to size 12.0pt on input line 15.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 18.
+(Font)              scaled to size 8.0pt on input line 15.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 43.
+(Font)              scaled to size 12.0pt on input line 30.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-(./christusvincit.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./requiem.aux) ) 
 Here is how much of TeX's memory you used:
- 2471 strings out of 494409
- 41336 string characters out of 6164777
- 106642 words of memory out of 5000000
- 5733 multiletter control sequences out of 15000+600000
+ 2451 strings out of 494409
+ 40916 string characters out of 6164777
+ 87583 words of memory out of 5000000
+ 5717 multiletter control sequences out of 15000+600000
  12039 words of font info for 25 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
- 32i,8n,33p,255b,205s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertin
-e/lbtn_lu7m2n.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn
-_c6xmqr.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_c7kyj
-5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.p
-fb>
-Output written on christusvincit.pdf (2 pages, 210158 bytes).
+ 32i,8n,33p,213b,203s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr
+/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_lu7m2n.enc}{/usr/share
+/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_c6xmqr.enc}{/usr/share/texli
+ve/texmf-dist/fonts/enc/dvips/libertine/lbtn_c7kyj5.enc}</usr/share/texlive/tex
+mf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/libertine/LinLibertineTB.pfb>
+Output written on requiem.pdf (2 pages, 205024 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream
