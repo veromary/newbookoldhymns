@@ -49,7 +49,7 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 ### Term 4 - Christ the King, Holy Souls, Advent, Christmas
 
 1. <a href="{{ site.url }}{{ site.baseurl }}/hymns/christusvincit.html">Christus vincit</a>
-1. Requiem aeternam
+1. <a href="{{ site.url }}{{ site.baseurl }}/hymns/requiem.html">Requiem aeternam</a>
 1. Dies Irae
 1. [Conditor alme siderum]({{ site.baseurl }}/hymns/conditor.html)
 1. Veni O Sapientia
