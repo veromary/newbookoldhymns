@@ -1,0 +1,354 @@
+%% This file is part of the OpusTeX system.
+%% You are not allowed to change this file. 
+%% For distribution see the copyright notice in 00readme.txt 
+
+%% Beda's version
+%% \varporrectus added for O Virgo Splendens
+
+\immediate\write16{OPUSGREgorian \oversion\space<\odate>} 
+
+\ifx\undefined\gregorianCclef \else \endinput \fi 
+
+\ifx\undefined\Shakel
+ \input opusbar
+\fi 
+
+\chardef\atcode=\catcode`\@ \catcode`\@=11 
+
+% allocate register 
+
+\newdimen\g@nw 
+
+% gregorian fonts 
+
+\font\sxtngreg=opusg16
+\font\twtygreg=opusg20
+\font\twfrgreg=opusg24 
+
+% initial fonts 
+
+\font\inft=\fontid r12 scaled \magstep5
+\font\Inft=\fontid r10 scaled \magstep5 
+
+\def\musicinitialfont{\def@it\i@ft}
+\musicinitialfont\inft 
+
+\def\textinitialfont{\def@it\I@ft}
+\textinitialfont\Inft 
+
+\def\modefont{\def@it\m@ft}
+\modefont\eightrm 
+
+\def\musicinitial#1#2{\llap{\C@tx
+ {\hbox to\musicindent{\hss\vbox{\baselineskip\@ight\p@ \let\\\cr \m@ft
+ \halign{\hfil##\hfil\cr#1\cr}}\hss}\vskip\Interline
+ \rlap{\lower\tw@\p@\hbox to\musicindent{\hss\i@ft#2\hss}}}\kern\cl@fskip
+ \kern\line@pos}} 
+
+\let\initiumgregorianum\startpiece
+\def\finisaequalis{\endpiece \clr@\@fit}
+\def\Finisaequalis{\setdoublebar \finisaequalis}
+\def\finisgregoriana{\n@wbar \hfill \end@line
+ \ifcase\p@ss \fil@ r\@end \fi \@nds \clr@\@fit}
+\def\Finisgregoriana{\setdoublebar\finisgregoriana} 
+
+\def\setgregorian#1{\n@iv#1\setlines\n@iv\f@ur \setstaffs\n@iv\@ne
+ \setsign\n@iv\z@ \@clr\Writ@meter \setclef\n@iv\alto \nobarmessages
+ \setclefsymbol\n@iv\gregorianCclef
+ \ifcase\@msz
+   \setsize\n@iv{1.75}\let\g@ft\sxtngreg \def\@fit{.8333\g@nw}\or
+   \setsize\n@iv{1.6}\let\g@ft\twtygreg \def\@fit{.8571\g@nw}\or
+   \setsize\n@iv{1.6666}\let\g@ft\twfrgreg \def\@fit{.8889\g@nw}\fi
+ \g@nw\fontdimen\si@\g@ft \afterruleskip\z@} 
+
+\let\@fit\z@ 
+
+% clefs 
+
+\def\gregorianCclef{\g@ft\@ight}
+\def\gregorianFclef{\g@ft\nin@} 
+
+% single symbols 
+
+\chardef\@lvi=56 
+
+\def\punctum{\g@gr\tw@lv@}
+\def\punctumparvum{\g@gr\eight@@n}
+\def\punctumcavum{\g@gr\tw@nty}
+\def\lineapunctum{\set@\h@gr \g@gr{22}}
+\def\lineapunctumcavum{\set@\h@gr \g@gr\fl@@}
+\def\punctumreversum{\g@gr\active}
+\def\oriscus{\g@gr{39}}
+\def\oriscusreversus{\g@gr\@xl}
+\def\virga{\g@gr\fivet@@n}
+\def\punctuminclinatum{\g@gr\ss}
+\def\punctuminclinatumparvum{\g@gr\ae}
+\def\stropha{\g@gr0}
+\def\lvirga{\g@gr\fourt@@n}
+\def\punctumauctumascendens{\g@gr\@tfr}
+\def\punctumauctumdescendens{\g@gr\sh@@}
+\def\quilisma{\g@gr\j}
+\def\punctumreversumparvum{\g@gr{19}}
+\def\semipunctum{\clr@\h@gr \g@gr{41}}
+\def\semipunctumreversum{\clr@\h@gr \g@gr{42}}
+\def\quadratum{\g@gr\sixt@@n}
+\def\strophaaucta{\g@gr\t@n}
+\def\punctuminclinatumauctum{\g@gr\@l@v@n}
+\def\augmentum{\let\h@gr\tw@ \g@gr\s@v@n} 
+
+\def\custos#1{\spatium \let\nxt\@anb \def\@anb{\nxt\CUSTOS{#1}}}
+\def\CUSTOS#1{\getn@i#1\relax \let\n@sy\AE \ifnum\n@i<\si@ \let\n@sy\o
+ \ifcase\so@c \ifodd\n@i \let\n@sy\oe \fi \fi \fi \n@v\z@
+ \ifnum\n@i<\m@ne \d@ln \else \ifnum\n@i>\si@ \u@ln \fi \fi
+ \raise\n@i\internote\hbox{\g@ft\n@sy}} 
+
+\def\solesmescustos{\clr@\so@c}
+\def\nosolesmescustos{\set@\so@c}
+\let\so@c\z@ 
+
+\let\h@gr\thr@@ 
+
+\def\g@gr#1#2{\y@iii\g@nw
+ \ifcase\h@gr \divide\y@iii\tw@ \or \advance\y@iii\si@\l@th
+   \or \divide\y@iii\si@ \fi
+ \let\h@gr\thr@@ \getn@i#2\relax \n@v\z@
+ \ifnum\n@i<\m@ne \d@ln \else \ifnum\n@i>\si@ \u@ln \fi \fi
+ \raise\n@i\internote\hbox{\g@ft\char#1}\advance\y@iii\@fit \off\y@iii} 
+
+\def\episem#1#2{\rcharnote{#1}{\n@v#2\advance\n@v33\g@ft\char\n@v}} 
+
+\def\bmolle{\C@yo2}
+\def\bdurum{\C@yo3}
+\def\crux{\C@yo4} 
+
+\def\C@yo#1#2{\rcharnote{#2}{\g@ft#1}} 
+
+\def\bgenerale{\ateverysystem{\hroff{\znotes\bmolle b\gen}}} 
+
+\def\ictus#1{\getn@i#1\relax \ifodd\n@i \advance\n@i\m@ne \fi
+ \raise\n@i\internote \hbox{\g@ft1}} 
+
+\def\circulus{\C@yn/}
+\def\semicirculus{\C@yn0}
+\def\accentus{\C@yn.} 
+
+\def\C@yn#1#2{\getn@i#2\relax \ifodd\n@i \else \advance\n@i\m@ne \fi
+ \raise\n@i\internote\hbox{\g@ft#1}} 
+
+\def\l@gs{\ifnum\n@i>\n@ii
+ \rchar\n@ii{\advance\n@i-\n@ii\g@ft\char\n@i}\else
+ \rchar\n@i{\advance\n@ii-\n@i\g@ft\char\n@ii}\fi} 
+
+% complex symbols 
+
+\def\augmentumduplex#1{\augmentum{#1}\moff\y@iii \augmentum} 
+
+\def\porrectus{\let\nxt\@lvi \C@ya\punctum}
+\def\porrectusdeminutus{\let\nxt\@lvi \C@ya\punctumparvum} 
+
+%This next one draws a porrectus ending with a #1
+\def\C@ya#1#2#3#4{\C@yb#2\@end#3\@end
+ \kernm\g@nw#1{#4}\kern\g@nw \l@gs \moff\g@nw} 
+
+\def\porrectusauctusdescendens#1#2#3{\let\nxt\@lvi \C@yb#1\@end#2\@end
+ \punctumauctumdescendens{#3}\l@gs}
+\def\porrectusflexus#1#2#3#4{\let\nxt\@lvi \C@yb#1\@end#2\@end
+ \punctum{#3}\l@gs \n@ii\n@i \nonspatium \punctum{#4}\l@gs} 
+%This next one is mine:
+% Not Needed for O Virgo Splendens
+\def\varporrectus#1#2#3{\let\nxt\@lvi \C@yb#1\@end#2\@end
+ \punctum{#3}\l@gs} 
+%This next one is mine:
+\def\porrectuspes#1#2#3#4{\let\nxt\@lvi \C@yb#1\@end#2\@end
+\pes{#3}{#4}}
+
+%This one makes the swoosh of the porrectus
+\def\C@yb#1\@end#2\@end{\getn@i#1\relax \n@v\n@i \getn@i#2\relax
+ \n@ii\n@i \advance\n@v-\n@i \minn@v\m@ne \maxn@v\f@ur \rcharnote
+ {#1}{\advance\n@v\nxt \g@ft\char\n@v}\advance\n@v\fiv@ \y@iii\n@v\g@nw
+ \divide\y@iii\tw@ \advance\y@iii\@fit \off\y@iii \nonspatium} 
+
+\def\quilismaporrectusflexusdeminutus#1#2#3#4{\let\nxt\AE \C@yl\quilisma
+ \C@yb{#1}{#2}\@end#3\@end \g@gr\@lvi{#4}\l@gs
+ \C@yc\empty\punctumreversumparvum\empty} 
+
+\def\torculusresupinus{\let\nxt\AE \C@yl\punctum{\C@ya\punctum}}
+\def\vartorculusresupinusdeminutus{\let\nxt\AE
+ \C@yl\punctum{\C@ya\punctumparvum}}
+\def\quilismaporrectus{\let\nxt\AE \C@yl\quilisma{\C@ya\punctum}}
+\def\porrectusinitiodebilis{\let\nxt\AE
+ \C@yl\semipunctumreversum{\C@ya\punctum}} 
+
+%This puts a #1{#3} something in front of a #2{#4}
+% like a punctum in front of a porrectus
+\def\C@yl#1#2#3#4{#1{#3}\n@ii\n@i \getn@i#4\relax
+ \groff\l@gs \nonspatium #2{#4}} 
+
+%This next one is mine:
+\def\torculusresupinusflexus#1#2#3#4#5{\let\nxt\AE \punctum#1\n@ii\n@i \getn@i#2\relax
+ \groff\l@gs \nonspatium \C@yb#2\@end#3\@end
+ \punctum{#4}\l@gs \n@ii\n@i \nonspatium \punctum{#5}\l@gs}
+%\def\torculusresupinusflexus{\let\nxt\AE \C@yl\punctum{\porrectusflexus}}
+
+\def\bivirga#1{\punctum{#1}\spatiumparvum \punctum{#1}}
+\def\varbivirga#1{\virga{#1}\spatiumparvum \virga{#1}}
+\def\distropha#1{\stropha{#1}\nonspatium\off{2\l@th}\stropha{#1}} 
+
+\def\trivirga#1{\bivirga{#1}\spatiumparvum\punctum{#1}}
+\def\vartrivirga#1{\varbivirga{#1}\spatiumparvum\virga{#1}}
+\def\tristropha#1{\distropha{#1}\nonspatium\off{2\l@th}\stropha{#1}} 
+
+\def\trigonus#1{\distropha{#1}\nonspatium\off{2\l@th}\stropha} 
+
+\def\pes{\C@yc\quadratum\punctum}
+\def\varpes{\C@yc\punctumreversum\punctum}
+\def\epiphonus{\C@yc{\g@gr{54}}\punctumparvum}
+\def\quilismapes{\C@yc\quilisma\punctum}
+\def\cephalicus{\C@yc{\g@gr{53}}\punctumreversumparvum} 
+% A cephalicus with a punctum instead of a lvirga
+\def\varcephalicus{\C@yc\punctum\punctumreversumparvum} 
+
+\def\C@yc#1#2#3#4{#1{#3}\moff\y@iii \n@ii\n@i #2{#4}\groff\l@gs} 
+
+\def\pesquassus{\C@ye\oriscus\virga}
+\def\pesinitiodebilis{\C@ye\semipunctumreversum\punctum}
+\def\pesauctusascendens{\C@ye\punctum\punctumauctumascendens}
+\def\pesauctusdescendens{\C@ye\punctum\punctumauctumdescendens}
+\def\pesquassusauctusdescendens{\C@ye\oriscus\punctumauctumdescendens}
+\def\quilismapesauctusdescendens{\C@ye\quilisma\punctumauctumdescendens}
+\def\Quilismapes{\C@ye\quilisma\virga}
+\def\pesauctusdescendensinitiodebilis{\C@ye\semipunctumreversum
+ \punctumauctumdescendens} 
+
+\def\C@ye#1#2#3#4{#1{#3}\n@ii\n@i \nonspatium #2{#4}\l@gs} 
+
+\def\clivis{\C@yf\punctum}
+\def\clivisauctaascendens{\C@yf\punctumauctumascendens}
+\def\clivisauctadescendens{\C@yf\punctumauctumdescendens} 
+
+\def\C@yf#1#2#3{\lvirga{#2}\n@ii\n@i \nonspatium #1{#3}\l@gs} 
+
+\def\torculus{\C@yg\punctum\punctum}
+\def\torculusinitiodebilis{\C@yg\semipunctumreversum\punctum}
+\def\torculusauctusdescendens{\C@yg\punctum\punctumauctumdescendens}
+\def\torculusauctusdescendensinitiodebilis{\C@yg\semipunctumreversum
+ \punctumauctumdescendens}
+\def\quilismatorculus{\C@yg\quilisma\punctum} 
+
+\def\C@yg#1#2#3#4#5{#1{#3}\n@ii\n@i \nonspatium \punctum{#4}\l@gs
+  \nonspatium \n@ii\n@i #2{#5}\l@gs} 
+
+\def\climacus{\C@yh\punctuminclinatum}
+\def\climacusdeminutus{\C@yh\punctuminclinatumparvum}
+\def\climacusauctus{\C@yh\punctuminclinatumauctum} 
+
+\def\C@yh#1#2#3{\virga{#2}\spatiumparvum\punctuminclinatum{#3}\nonspatium#1} 
+
+\def\Climacus#1#2#3{\climacus{#1}{#2}{#3}\nonspatium\punctuminclinatum}
+\def\CLimacus#1#2#3#4{\Climacus{#1}{#2}{#3}{#4}\nonspatium\punctuminclinatum 
+}
+%Changing this neume - \spatiumparvum instead of \Nonspatium
+\def\climacusresupinus#1#2#3{\climacus{#1}{#2}{#3}\spatiumparvum\punctum} 
+
+\def\torculusdeminutus{\C@yi\punctum}
+\def\torculusdeminutusinitiodebilis{\C@yi\semipunctumreversum} 
+
+\def\C@yi#1#2#3#4{#1{#2}\n@iii\n@i \nonspatium \C@yc\punctum
+ \punctumreversumparvum{#3}{#4}\n@i\n@iii \l@gs} 
+
+\def\pressus#1{\punctum{#1}\spatiumparvum \clivis{#1}}
+\def\cliviscumorisco#1#2{\clivis{#1}{#2}\spatiumparvum \oriscus{#2}}
+\def\cliviscumoriscodescendens#1#2{\clivis{#1}{#2}\spatiumparvum
+ \oriscusreversus{#2}} 
+
+\def\salicus{\C@yj\pesquassus}
+\def\Salicus{\C@yj\pes}
+\def\salicusauctusdescendens{\C@yj\pesquassusauctusdescendens} 
+
+\def\C@yj#1#2{\punctum{#2}\Nonspatium #1} 
+
+\def\scandicus#1#2{\pes{#1}{#2}\Nonspatium \virga}
+\def\scandicusflexus#1#2{\pes{#1}{#2}\spatiumparvum \clivis}
+\def\pesstratus#1#2{\pes{#1}{#2}\spatiumparvum \punctum{#2}} 
+
+\def\quilismascandicus#1{\punctum{#1}\nonspatium \quilismapes}
+\def\scandicusdeminutus#1#2#3{\punctum{#1}\n@iii\n@i \nonspatium \epiphonus
+ {#2}{#3}\n@i\n@iii \l@gs} 
+
+\def\pessubbipunctis#1#2#3{\pes{#1}{#2}\spatiumparvum
+ \punctuminclinatum{#3}\nonspatium \punctuminclinatum}
+\def\scandicussubbipunctis#1#2#3{\scandicus{#1}{#2}{#3}\spatiumparvum \C@yd}
+\def\quilismascandicussubbipunctis#1#2#3{\punctum{#1}\Nonspatium
+ \Quilismapes{#2}{#3}\spatiumparvum\C@yd} 
+
+\def\C@yd#1{\punctuminclinatum{#1}\nonspatium\punctuminclinatum} 
+
+\def\torculusresupinusdeminutus#1#2#3{\C@yg\punctum\punctumreversum
+ {#1}{#2}{#3}\C@yc\empty\punctumparvum\empty} 
+
+\def\scandicusauctusdescendens#1#2{\punctum{#1}\Nonspatium
+ \punctum{#2}\Nonspatium\punctumauctumdescendens} 
+
+% gregorian bar rules 
+
+\def\rul@char#1{{\g@ft\nxt}} 
+
+\def\virgula{\let\nxt-\let\writ@rul\rul@char \bar \stdbarrules}
+\def\divisiominima{\let\nxt+\let\writ@rul\rul@char \bar \stdbarrules}
+\def\divisiominor{\let\nxt,\let\writ@rul\rul@char \bar \stdbarrules}
+\let\divisiomaior\ba@r
+\let\divisiofinalis\doublebar
+\def\Divisiofinalis{\setdoublebar\nextline} 
+
+\def\lineaproxima{\setemptybar\nextline} 
+
+% text centered asteriscus 
+
+\let\p@st\@ne % pending asteriscus
+\let\po@s\z@  % h-pos asteriscus 
+
+\def\Asteriscus{\atnextbar{\sgn\empty\@ast\empty\nonspatium\egn}}
+\def\asteriscus{\ifcase\n@iii \advance\y@v\y@ii \xd@f\po@s\y@v
+ \global\clr@\p@st \fi}
+\def\setasteriscus{\def@it\@ast}
+\let\@ast* 
+
+% text defined spacing 
+
+\def\sgn#1#2#3{\g@tpos \n@iii\@ne
+ \t@bbox#1\egroup \y@i\@@wd\z@ \y@ii\y@i
+ \t@bbox#3\egroup \y@iii\@@wd\z@ \advance\y@ii\y@iii
+ \t@bbox#2\egroup \y@iv\@@wd\z@ \advance\y@ii\y@iv \advance\y@iv-\g@nw
+ \divide\y@iv\tw@ \off\y@iv \off\y@i \t@rmskip
+ \advance\y@iii\y@iv \advance\y@iii\g@nw \noteskip\y@iii \n@iii\z@
+ \C@tx{\rlap{\kern\g@nw\hss\llap{\ifcase\p@st \advance\y@v-\po@s
+   \lr@lap\@ast\kern\h@lf\y@v\global\set@\p@st \fi#1}\strut
+   #2\rlap{#3}}\vss}\nor@\transpose \no@ins\z@ \b@in} 
+
+\def\egn{\global\x@skip\x@skip \egroup \y@iv-\x@skip \advance\y@iv\@fit
+ \ifdim\noteskip>\x@skip \kernm\x@skip \kern\noteskip \x@skip\noteskip \fi
+ \t@rmskip} 
+
+\def\gen{\kernm\x@skip \en} 
+
+\def\spatiumaequale{\hardspace\y@iv \softspace\noteskip}
+\def\groff#1{\off\g@nw#1\moff\g@nw}
+\def\nonspatium{\moff\@fit}
+\def\Nonspatium{\nonspatium\off\l@th}
+\def\spatium{\softspace\elemskip}
+\def\spatiumparvum{\y@iii-1.2\g@nw \advance\y@iii\@fit \off\y@iii}
+\let\fissum\hardspace 
+
+% other 
+
+\ifx\undefined\documentstyle \def\\{\hfil\penalty-\@M}\fi 
+
+\def\textinitial#1{\noindent \t@bbox\I@ft#1\egroup \y@i\@@wd\z@ \advance\y@i
+ .25em\hangindent\y@i \hangafter-\tw@ \hskip-\y@i \setbox\z@\hbox
+ to\y@i{\lower\baselineskip\box\z@\hss}\dp\z@\z@ \ht\z@\z@ \box\z@} 
+
+\def\s#1{\leavevmode \t@bbox#1\egroup \y@v\ht\z@ \advance\y@v\h@lf\p@
+ \n@v\y@v \sp@@pt\@ne \advance\n@v\O \rlap{\if#1A\kern.3em\fi
+ \if#1V\kern.08em\fi \if#1R\kern.42em\fi \osps\char\n@v}#1} 
+
+\catcode`\@=\atcode \endinput 

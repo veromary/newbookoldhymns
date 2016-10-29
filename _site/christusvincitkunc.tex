@@ -1,0 +1,74 @@
+
+{\noindent \itlyrics Alternate setting :}
+
+\medskip
+
+
+%\beginhymn Christus vincit.
+
+\begingroup
+
+%\moveleft5mm\vbox{
+%\hsize100mm
+
+\resetlayout
+
+\def\notes{\vnotes2}%quavers
+\def\Notes{\vnotes3}%minims
+\def\NOtes{\vnotes5}%dotted minims
+\def\NOTes{\vnotes6}%semibreves
+
+%\rmlyrics
+
+\def\engl#1{\cchar{16}{\itlyrics #1}}
+\def\lati#1{\cchar{22}{\rmlyrics #1}}
+
+\def\vengl#1{\cchar{-13}{\itlyrics #1}}
+\def\vlati#1{\cchar{-7}{\rmlyrics #1}}
+
+\instrumentnumber2
+%\setstaffs1{2}
+\setclef1{\bass}
+\smallmusicsize
+\interstaff{16}
+\sepbarrules
+\group{12}
+\generalsignature{-1}
+\generalmeter{\meterfrac42}
+%\group{12} % don't know why I had this twice
+\startpiece
+\notes\en
+\NOtes\lati{Chri-}\hd{M}\hu{c}|\hd{f}\hu{'a}\en
+\NOtes\lati{stus}\hd{M}\hu{c}|\hd{f}\hu{'a}\en
+\NOtes\lati{vin-}\hd{L}\hu{c}|\hd{g}\hu{'c}\en
+\NOtes\lati{cit}\hd{L}\hu{c}|\hd{g}\hu{'c}\en
+\bar
+\NOtes\lati{Chri-}\hd{K}\hu{a}|\hd{d}\hu{f}\en
+\NOtes\lati{stus}\hd{K}\hu{a}|\hd{d}\hu{f}\en
+\NOtes\lati{re-}\hd{J}\hu{a}|\hd{e}\hu{'a}\en
+\NOtes\lati{gnat}\hd{J}\hu{a}|\hd{e}\hu{'a}\en
+\nextline
+\NOtes\lati{Chri-}\hd{I}\hu{b}|\hd{f}\hu{'d}\en
+\Notes\lati{stus}\qd{J}\hu{N}|\hd{e}\hu{g}\en
+\Notes\qd{I}|\en
+\NOtes\lati{Chri-}\hd{H}\hu{a}|\hd{e}\hu{'c}\en
+\Notes\lati{stus}\qd{I}\hu{M}|\hd{d}\qu{f}\imslur1\en
+\Notes\qd{G}|\qu{'b}\tmslur1\en
+\bar
+\Notes\lati{im-}\wa{J}\qu{M}|\qd{c}\hu{'a}\imslur0\en
+\Notes\qu{a}|\qd{f}\en
+\Notes\qu{c}|\hd{e}\qup{g}\tmslur0\en
+\notes\qu{b}|\en
+\notes\lati{pe-}|\cu{f}\en
+\NOTes\lati{rat}\wd{F}\wu{a}|\wd{c}\wu{f}\en
+\setdoublebar\endpiece
+
+%}
+
+\endgroup
+
+\interstaff9
+
+\source Aloys Kunc, {\smold 1832}--\smold 1895
+
+

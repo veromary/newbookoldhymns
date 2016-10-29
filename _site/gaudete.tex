@@ -1,0 +1,178 @@
+
+\beginhymn Gaudete, gaudete.
+
+\begingroup
+
+%\moveleft5mm\vbox{
+%\hsize100mm
+
+\resetlayout
+
+\def\notes{\vnotes3}%quavers
+\def\Notes{\vnotes4}%minims
+\def\NOtes{\vnotes5}%dotted minims
+\def\NOTes{\vnotes6}%semibreves
+
+%\rmlyrics
+
+\def\engl#1{\cchar{16}{\itlyrics #1}}
+\def\lati#1{\cchar{22}{\rmlyrics #1}}
+
+\def\vengl#1{\cchar{-13}{\itlyrics #1}}
+\def\vlati#1{\cchar{-7}{\rmlyrics #1}}
+
+\instrumentnumber2
+%\setstaffs1{2}
+\setclef1{\bass}
+\smallmusicsize
+\interstaff{16}
+\sepbarrules
+\group{12}
+%\generalmeter{\meterfrac42}
+%\group{12} % don't know why I had this twice
+\startpiece
+\notes\en
+\Notes\lati{Gau-}\hd{a}\hu{a}|\hd{e}\hu{'a}\en
+\Notes\lati{de-}\hd{a}\hu{c}|\hd{e}\hu{'a}\en
+\Notes\engl{\idx{Rejoice, rejoice!}}\lati{te,}\hd{`e}\hu{b}|\hd{e}\hu{g}\en
+\notes\lati{gau-}\qd{a}\qu{c}|\qd{e}\qu{'a}\en
+\notes\lati{de-}\qd{`g}\qu{d}|\qd{g}\qu{'b}\en
+\Notes\lati{te!}\hd{`c}\hu{e}|\hd{g}\hu{'c}\en
+\bar
+\notes\lati{}\qd{`c}\qu{e}|\qd{g}\qu{'c}\en
+\Notes\lati{Christus est~}\hd{`g}\hu{d}|\hd{g}\hu{'b}\en
+\notes\lati{}\engl{Christ is born,}\qd{a}\qu{c}|\qd{e}\qu{'a}\en
+\Notes\lati{na-}\hd{`e}\hu{b}|\hd{e}\hu{g}\en
+\Notes\lati{tus,}\hd{`e}\hu{b}|\hd{e}\hu{g}\en
+\nextline
+\Notes\lati{Ex}\hd{`e}\hu{b}|\hd{e}\hu{g}\en
+\Notes\lati{Ma-}\hd{a}\hu{c}|\hd{e}\hu{'a}\en
+\NOtes\lati{ri-}\engl{of the Virgin}\hdp{`g}\hup{d}|\hdp{g}\hup{'b}\en
+\notes\lati{a}\qd{a}\qu{c}|\qd{e}\qu{'a}\en
+\bar
+\Notes\lati{Vir-}\hd{`e}\hu{b}|\hd{e}\hu{g}\en
+\notes\lati{gi-}\qd{`f}\sh\qu{a}|\qd{d}\qu{'a}\en
+\Notes\lati{ne,}\engl{Mary, ~ rejoice!}\hd{`g}\hu{`g}|\hd{g}\hu{'b}\en
+\notes\lati{gau-}\qd{`f}\qu{a}|\qd{d}\qu{'a}\en
+\Notes\lati{de-}\hd{`e}\hu{b}|\hd{e}\hu{g}\en
+\NOTes\lati{te!}\hd{`a}\hu{a}|\hd{e}\hu{'a}\en%\wa gives semibreves
+\endpiece
+
+\setclef1{\treble}
+\instrumentnumber1
+\group{}
+\startpiece
+\notes\en
+\notes\qa{'a}\en
+\notes\vlati{~ 1.~Tempus ad ~ est}\qa{'a}\en
+\notes\qa{g}\en
+\notes\vengl{The time of grace has come}\qa{'a}\en
+\notes\qa{'c}\en
+\notes\vlati{gra-ti-\ae}\qa{'b}\en
+\Notes\ha{'a}\en
+\bar
+\notes\qa{'a}\en
+\notes\qa{f}\en
+\notes\qa{e}\en
+\notes\vlati{Hoc quod optabamus, ~}\vengl{For which we have prayed}\qa{f}\en
+\Notes\ha{d}\en
+\Notes\ha{d}\en
+\nextline
+\notes\vengl{}\qa{d}\en
+\notes\vlati{Carmina}\qa{d}\en
+\notes\qa{f}\en
+\notes\vengl{Let us devoutly}\qa{d}\en
+\notes\vlati{~ ~l\ae -ti-ti-\ae}\qa{f}\en
+\notes\qa{g}\en
+\Notes\ha{'a}\en
+\bar
+\notes\qa{'c}\en
+\notes\vlati{Devote}\qa{'a}\en
+\notes\qa{'b}\en
+\notes\vengl{Sing songs of joy.}\qa{'c}\en
+\Notes\vlati{reddamus.}\ha{'a}\en
+\Notes\ha{'a}\en
+\setdoublebar\endpiece
+
+%}
+
+\endgroup
+
+
+
+\bigskip
+
+%Pehaps get the tune for the verses
+
+%\medskip
+
+\hbox{
+\vtop{
+\hsize40mm
+
+\beginlyrics
+
+\rm%lyrics
+
+%\verse1. Tempus ad est grati\ae \\
+%Hoc quod optabamus,\\
+%Carmina l\ae titi\ae \\
+%Devote reddamus.
+
+\verse2. Deus homo factus est,\\
+Natura mirante,\\
+Mundus renovatus est\\
+A Christo regnante.
+
+\verse3. Ezechielis porta\\
+Clausa per transitur,\\
+Unde lux est orta\\
+Salus invenitur.
+
+\verse4. Ergo nostra contio\\
+Psallat jam in lustro,\\
+Benedicat Domino,\\
+Salus Regi nostro.
+
+\endlyrics
+
+}
+
+\hskip5mm
+
+\vtop{
+\hsize60mm
+
+\beginlyrics
+
+\it%lyrics
+
+%\verse1. The time of grace has come\\
+%For which we have prayed\\
+%Let us devoutly\\
+%Sing songs of joy.
+
+\verse2. God is made man,\\
+While nature wonders\\
+The world is renewed\\
+By Christ the King.
+
+\verse3. The closed gate of Ezekiel\\
+Has been passed through;\\
+Whence the light has risen,\\
+Salvation is found.
+
+\verse4. Therefore let our assembly\\
+Sing praises at this time of purification\\
+Let us bless the Lord:\\
+Greetings to our King.
+
+\endlyrics
+
+}
+
+}
+
+
+\interstaff9
+
