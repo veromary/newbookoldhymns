@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2016.7.24)  30 OCT 2016 07:27
+This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2016.7.24)  30 OCT 2016 10:09
  restricted \write18 enabled.
 **conditor
 (./conditor.tex
@@ -359,7 +359,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.133 seconds
+luaotfload | main : fontloader loaded in 0.122 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -1880,48 +1880,71 @@ ack to file:
 (/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip256
+)
+(/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count293
+\rotFPtop=\skip257
+\rotFPbot=\skip258
+\rot@float@box=\box256
+\rot@mess@toks=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip259
+\f@ncyO@elh=\skip260
+\f@ncyO@erh=\skip261
+\f@ncyO@olh=\skip262
+\f@ncyO@orh=\skip263
+\f@ncyO@elf=\skip264
+\f@ncyO@erf=\skip265
+\f@ncyO@olf=\skip266
+\f@ncyO@orf=\skip267
 ) (./conditor.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 11.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 9.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 9.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 11.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 11.
 
 (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    ... okay on input line 11.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count293
+\scratchcounter=\count294
 \scratchdimen=\dimen261
-\scratchbox=\box256
-\nofMPsegments=\count294
-\nofMParguments=\count295
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count296
+\scratchbox=\box257
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count297
 \MPscratchDim=\dimen262
-\MPnumerator=\count297
-\makeMPintoPDFobject=\count298
-\everyMPtoPDFconversion=\toks21
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks22
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1956,78 +1979,80 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 9.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 9.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 9.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 9.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 9.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 9.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 9.
-LaTeX Font Info:    Redeclaring math accent \check on input line 9.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 9.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 9.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 9.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 9.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 11.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 11.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 11.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 11.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 11.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 11.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 11.
+LaTeX Font Info:    Redeclaring math accent \check on input line 11.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 11.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 11.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 11.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU2' for symbol font
-(Font)              `operators' in the math version `normal' on input line 9.
+(Font)              `operators' in the math version `normal' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU2/LinLibertine(0)/m/n on input line 9.
-
-LaTeX Font Info:    Encoding `OT1' has changed to `EU2' for symbol font
-(Font)              `operators' in the math version `bold' on input line 9.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU2/LinLibertine(0)/m/n on input line 9
+(Font)                  OT1/cmr/m/n --> EU2/LinLibertine(0)/m/n on input line 11
 .
+LaTeX Font Info:    Encoding `OT1' has changed to `EU2' for symbol font
+(Font)              `operators' in the math version `bold' on input line 11.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU2/LinLibertine(0)/m/n on input line 1
+1.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU2/LinLibertine(0)/m/n --> EU2/LinLibertine(0)/m/n on i
-nput line 9.
+nput line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU2/LinLibertine(0)/m/it on input line 
-9.
+11.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU2/LinLibertine(0)/bx/n on input line 
-9.
+11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU2/LinBiolinum(0)/m/n on input line 9.
-
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU2/LinLibertine(5)/m/n on input line 9
+(Font)                  OT1/cmss/m/n --> EU2/LinBiolinum(0)/m/n on input line 11
 .
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU2/LinLibertine(5)/m/n on input line 1
+1.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU2/LinLibertine(0)/m/n --> EU2/LinLibertine(0)/bx/n on 
-input line 9.
+input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU2/LinLibertine(0)/bx/it on input lin
-e 9.
+e 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU2/LinBiolinum(0)/bx/n on input line 
-9.
+11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU2/LinLibertine(5)/bx/n on input line 
-9.
+11.
+luaotfload | load : path lookup of "LinLibertine_R.otf" unsuccessful, falling ba
+ck to file:
 luaotfload | load : path lookup of "LinLibertine_R.otf" unsuccessful, falling ba
 ck to file:
 luaotfload | load : path lookup of "LinLibertine_R.otf" unsuccessful, falling ba
 ck to file:
 LaTeX Font Info:    Font shape `EU2/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 17.
+(Font)              scaled to size 12.0pt on input line 30.
 luaotfload | load : path lookup of "LinBiolinum_R.otf" unsuccessful, falling bac
 k to file:
 LaTeX Font Info:    Font shape `EU2/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 17.
+(Font)              scaled to size 8.0pt on input line 30.
 luaotfload | load : path lookup of "LinBiolinum_R.otf" unsuccessful, falling bac
 k to file:
 luaotfload | load : path lookup of "LinLibertine_RB.otf" unsuccessful, falling b
@@ -2037,19 +2062,19 @@ ack to file:
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./conditor.aux))
 
 Here is how much of LuaTeX's memory you used:
- 25631 strings out of 494474
+ 25882 strings out of 494474
  100000,552014 words of node,token memory allocated
- 313 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 1 kern, 4 attribute, 44 glue_spec, 4 attrib
+ 317 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 1 kern, 4 attribute, 45 glue_spec, 4 attrib
 ute_list, 1 write nodes
-   avail lists: 2:5017,3:13,4:4075,5:895,6:616,7:957,9:2021,10:31
- 28152 multiletter control sequences out of 65536+600000
- 44 fonts using 8421359 bytes
- 62i,8n,63p,468b,226s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 2:6237,3:27,4:4128,5:900,6:1008,7:957,9:2051,10:65
+ 28379 multiletter control sequences out of 65536+600000
+ 45 fonts using 8828519 bytes
+ 62i,11n,63p,468b,226s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/fonts/opentype/linux-libertine/LinLibertine_RB.otf></usr/share/fonts
 /opentype/linux-libertine/LinBiolinum_R.otf></usr/share/fonts/opentype/linux-lib
 ertine/LinLibertine_R.otf>
-Output written on conditor.pdf (2 pages, 29228 bytes).
+Output written on conditor.pdf (2 pages, 30572 bytes).
 
 PDF statistics: 32 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream
