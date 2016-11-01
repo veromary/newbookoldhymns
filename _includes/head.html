@@ -30,4 +30,8 @@ $(document).ready(function($) {
 
 })(jQuery);
 </script>
+ {% if page.gloss %}
+  <script src="{{ site.baseurl }}/js/leipzig.min.js"></script>
+  <link rel="stylesheet" href="{{ site.baseurl }}/js/leipzig.css">
+ {% endif %}
 </head>

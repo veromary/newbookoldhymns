@@ -47,3 +47,10 @@ ga('create', '{{ site.google_analytics }}', 'auto');
 ga('send', 'pageview');
 
 </script>
+{% if page.gloss %}
+<script>
+  $(function() { Leipzig({
+  lastLineFree: false
+}).gloss(); });
+</script>
+{% endif %}

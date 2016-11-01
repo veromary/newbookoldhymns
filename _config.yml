@@ -21,5 +21,6 @@ google_analytics: UA-39801667-1
 collections:
   hymns:
     output: true
-
+  gloss:
+    output: true
 
