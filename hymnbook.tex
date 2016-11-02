@@ -7,7 +7,12 @@
 %\input luaotfload.sty % this soooo does not work.
 % Ha! Now it DOES WORK!!!
 
+% for the large print version
 %\magnification 1400
+% for the A4 version
+%\hoffset6mm
+%\voffset0mm
+
 
 \font\bigtype = hmin10 scaled \magstep2
 \font\Bigtype = hmin17 scaled \magstep2
@@ -45,14 +50,17 @@
 
 %Lulu economy version 5.5x8.5in
 %\special{papersize=5.45in,8.45in}
+%\special{papersize=13.97cm,21.59cm}
+%\pdfpagewidth=139.7mm
+%\pdfpageheight=215.9mm
 
 %\hoffset-.25in
 %\voffset-.25in
 
 %%a5 version 
-%\special{papersize=148mm,210mm}
-%\pdfpagewidth=148mm
-%\pdfpageheight=210mm
+\special{papersize=148mm,210mm}
+\pdfpagewidth=148mm
+\pdfpageheight=210mm
 
 %\hoffset-1.5mm
 %\voffset-7mm

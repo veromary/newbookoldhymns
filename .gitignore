@@ -30,4 +30,4 @@
 *.vrb
 *.xdy
 *.tdo
-_site/
+_site/*
