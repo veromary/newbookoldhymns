@@ -20,7 +20,12 @@ Which spells out ERO CRAS which means *I'm coming tomorrow*.
 
 # Vocabulary
 
+[gloss]({{ site.baseurl }}/gloss/veni.html)
+
 [crossword]({{ site.baseurl }}/crossword/veni.pdf)
 
-Quizlet set is there - for now use search
+[Quizlet set](https://quizlet.com/_2qs6em)
+
+<iframe src="https://quizlet.com/165917038/flashcards/embed" height="410" width="100%" style="border:0"></iframe>
+
 
