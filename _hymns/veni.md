@@ -13,9 +13,14 @@ The Sapientia verse is sung first, so I've set it first, but if you do put the v
 * **R**ex Gentium
 * **O**riens
 * **C**lavis Davidica
-* **R**adix Jesse
+* **R**adix Jesse (except the metric version uses "Virgula" instead of "Radix")
 * **S**apientia
 
 Which spells out ERO CRAS which means *I'm coming tomorrow*.
 
+# Vocabulary
+
+[crossword]({{ site.baseurl }}/crossword/veni.pdf)
+
+Quizlet set is there - for now use search
 
