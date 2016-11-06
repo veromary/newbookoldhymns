@@ -10,6 +10,9 @@ cwg
 - editing the tex file, removing [small] option from usepackage{crossword} and adding usepackage[cm]{fullpage} helps
 - enlarge clues with \renewcommand\PuzzleClueFont{\rm\normalsize}
 
+- sort with:
+        sort temp > sorted
+
 genxword 
 ========
 
