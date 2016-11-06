@@ -1,9 +1,9 @@
-This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2016.9.26)  6 NOV 2016 13:58
+This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2016.7.24)  7 NOV 2016 08:52
  restricted \write18 enabled.
 **veni
 (./veni.tex
 LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 29 languages loaded.
+Babel <3.9l> and hyphenation patterns for 27 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -21,9 +21,9 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/crossword/cwpuzzle.sty
-Package: cwpuzzle 2014/01/12 1.9 for typesetting crossword puzzles and more. 
-Package: cwpuzzle 2014/01/12gene
+(/usr/share/texmf/tex/latex/cwpuzzle/cwpuzzle.sty
+Package: cwpuzzle 2009/09/13 1.8 for typesetting crossword puzzles and more. 
+Package: cwpuzzle 2009/09/13gene
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
@@ -359,7 +359,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.029 seconds
+luaotfload | main : fontloader loaded in 0.118 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -2063,19 +2063,19 @@ ack to file:
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./veni.aux))
 
 Here is how much of LuaTeX's memory you used:
- 25882 strings out of 494445
+ 25882 strings out of 494474
  100000,552014 words of node,token memory allocated
  317 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 1 kern, 4 attribute, 45 glue_spec, 4 attrib
 ute_list, 1 write nodes
-   avail lists: 2:6069,3:27,4:3960,5:860,6:995,7:867,9:1961,10:63
- 28388 multiletter control sequences out of 65536+600000
+   avail lists: 2:6081,3:27,4:3960,5:860,6:995,7:870,9:1961,10:63
+ 28379 multiletter control sequences out of 65536+600000
  45 fonts using 8828519 bytes
  62i,11n,63p,464b,226s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/fonts/opentype/linux-libertine/LinLibertine_RB.otf></usr/share/fonts
 /opentype/linux-libertine/LinBiolinum_R.otf></usr/share/fonts/opentype/linux-lib
 ertine/LinLibertine_R.otf>
-Output written on veni.pdf (2 pages, 30081 bytes).
+Output written on veni.pdf (2 pages, 30134 bytes).
 
 PDF statistics: 32 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream

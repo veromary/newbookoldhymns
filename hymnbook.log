@@ -1,0 +1,3505 @@
+This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=luatex 2016.7.24)  2 NOV 2016 12:23
+ restricted \write18 enabled.
+**hymnbook
+(./hymnbook.tex
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload.sty
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2013/05/11 v0.6 Resource management for the LuaTeX macro pro
+grammer
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/luatex.sty
+Package: luatex 2010/03/09 v0.4 LuaTeX basic definition package (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package ifluatex Info: The package is already loaded.
+)
+\@tempcnta=\count277
+\@tempcntb=\count278
+\LuT@AllocAttribute=\count279
+\LuT@AllocCatcodeTable=\count280
+\CatcodeTableStack=\count281
+\CatcodeTableIniTeX=\catcodetable1
+\CatcodeTableString=\catcodetable3
+\CatcodeTableOther=\catcodetable5
+\CatcodeTableLaTeX=\catcodetable7
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/luatex-loader.sty
+Package: luatex-loader 2010/03/09 v0.4 Lua module loader (HO)
+
+(/usr/share/texlive/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua)))
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-compat.sty
+Package: luatexbase-compat 2011/05/24 v0.4 Compatibility tools for LuaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package ifluatex Info: The package is already loaded.
+))
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-modutils.sty
+Package: luatexbase-modutils 2013/05/11 v0.6 Module utilities for LuaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package ifluatex Info: The package is already loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-loader.sty
+Package: luatexbase-loader 2013/05/11 v0.6 Lua module loader for LuaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package ifluatex Info: The package is already loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-compat.sty)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.loader.lua))
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/modutils.lua)
+Lua module: luatexbase-modutils 2013/05/11 0.6 Module utilities for LuaTeX
+)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-loader.sty)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-regs.sty
+Package: luatexbase-regs 2011/05/24 v0.4 Registers allocation for LuaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package ifluatex Info: The package is already loaded.
+))
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-attr.sty
+Package: luatexbase-attr 2013/05/11 v0.6 Attributes allocation for LuaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package ifluatex Info: The package is already loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-modutils.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/luatex.sty
+Package luatex Info: The package is already loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/attr.lua)
+Lua module: luatexbase-attr 2013/05/11 0.6 Attributes allocation for LuaTeX
+
+\lltxb@attr@unsetvalue=\count282
+)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-cctb.sty
+Package: luatexbase-cctb 2013/05/11 v0.6 Catcodetable allocation for LuaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package ifluatex Info: The package is already loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-modutils.sty)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/cctb.lua)
+Lua module: luatexbase-cctb 2013/05/11 0.6 Catcodetable allocation for LuaTeX
+
+\lltxb@catcodetable@alloc=\count283
+\CatcodeTableStack=\count284
+\CatcodeTableIniTeX=\luatexcatcodetable1
+\CatcodeTableString=\luatexcatcodetable3
+\CatcodeTableOther=\luatexcatcodetable5
+\CatcodeTableLaTeX=\luatexcatcodetable7
+\CatcodeTableLaTeXAtLetter=\luatexcatcodetable9
+\CatcodeTableExpl=\luatexcatcodetable11
+)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-mcb.sty
+Package: luatexbase-mcb 2013/05/11 v0.6 Callback management for LuaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package ifluatex Info: The package is already loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase-modutils.sty)
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/mcb.lua)
+Lua module: luatexbase-mcb 2013/05/11 0.6 register several functions in a callba
+ck
+))
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-main.lua)
+Lua module: luaotfload-main 2014/08/10 2.50003 OpenType layout system.
+
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-log.lua)
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-fontloader.lua)(
+using write cache: /home/veronica/.texmf-var/luatex-cache/generic)(using read ca
+che: /var/lib/texmf/luatex-cache/generic /home/veronica/.texmf-var/luatex-cache/
+generic)
+luatexbase-attr: luatexbase.attributes["luaotfload@kernpair"] = 1
+luatexbase-attr: luatexbase.attributes["luaotfload@ligacomp"] = 2
+luatexbase-attr: luatexbase.attributes["luaotfload@markbase"] = 3
+luatexbase-attr: luatexbase.attributes["luaotfload@markmark"] = 4
+luatexbase-attr: luatexbase.attributes["luaotfload@markdone"] = 5
+luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
+luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
+luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
+luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
+luaotfload | main : fontloader loaded in 0.156 seconds
+luatexbase-mcb: inserting 'luaotfload.node_processor'
+at position 1 in 'pre_line
+break_filter'
+luatexbase-mcb: inserting 'luaotfload.node_processor'
+at position 1 in 'hpack_fi
+lter'
+luatexbase-mcb: inserting 'luaotfload.find_vf_file'
+at position 1 in 'find_vf_fi
+le'
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-override.lua)
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-parsers.lua)
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-configuration.lu
+a)
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-status.lua)
+luaotfload | conf : Root cache directory is /home/veronica/.texmf-var/luatex-cac
+he/generic/names.
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-loaders.lua)
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-database.lua)
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-colors.lua)
+luaotfload | conf : Root cache directory is /home/veronica/.texmf-var/luatex-cac
+he/generic/names.
+luatexbase-mcb: creating 'luaotfload.resolve_font' type 4
+luatexbase-mcb: creating 'luaotfload.patch_font' type 4
+luatexbase-mcb: resetting callback 'define_font'
+luatexbase-mcb: inserting 'luaotfload.define_font'
+at position 1 in 'define_font
+'
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-features.lua)
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-letterspace.lua)
+(/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-auxiliary.lua)
+luatexbase-mcb: inserting 'luaotfload.aux.set_sscale_dimens'
+at position 1 in 'l
+uaotfload.patch_font'
+luatexbase-mcb: inserting 'luaotfload.aux.patch_cambria_domh'
+at position 2 in '
+luaotfload.patch_font'
+luatexbase-mcb: inserting 'luaotfload.aux.set_capheight'
+at position 3 in 'luaot
+fload.patch_font'
+luatexbase-mcb: inserting 'luaotfload.rewrite_fontname'
+at position 4 in 'luaotf
+load.patch_font')
+(./macros.tex (/home/veronica/texmf/tex/opustex/opustex.tex
+OpusTeX(c) 0.93 <2000/02/02>
+) (./opusgreg.tex
+OPUSGREgorian 0.93 <2000/02/02>
+(/home/veronica/texmf/tex/opustex/opusbar.tex
+OPUSBARoque 0.93 <2000/02/02>
+)
+\g@nw=\dimen85
+) (/usr/share/texlive/texmf-dist/tex/eplain/eplain.tex)
+\hymnno=\count106
+)
+luaotfload | db : Font names database loaded from /home/veronica/.texmf-var/luat
+ex-cache/generic/names/luaotfload-names.luc(compiling luc: /var/lib/texmf/luatex
+-cache/generic/fonts/otf/priory.luc)(load luc: /home/veronica/.texmf-var/luatex-
+cache/generic/fonts/otf/priory.luc)(save: /home/veronica/.texmf-var/luatex-cache
+/generic/fonts/otf/priory.lua)(save: /home/veronica/.texmf-var/luatex-cache/gene
+ric/fonts/otf/priory.luc)
+luaotfload | cache : Lookup cache loaded from /home/veronica/.texmf-var/luatex-c
+ache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | load : Lookup/name: "Priory" -> "Priory.ttf"(save: /home/veronica/.
+texmf-var/luatex-cache/generic/fonts/otf/priory.lua)(save: /home/veronica/.texmf
+-var/luatex-cache/generic/fonts/otf/priory.luc)
+(/usr/share/texlive/texmf-dist/tex/generic/epsf/epsf.tex
+This is `epsf.tex' v2.7.4 <14 February 2011>
+\epsffilein=\read2
+\epsfframemargin=\dimen128
+\epsfframethickness=\dimen129
+\epsfrsize=\dimen130
+\epsftmp=\dimen131
+\epsftsize=\dimen132
+\epsfxsize=\dimen133
+\epsfysize=\dimen134
+\pspoints=\dimen135
+) (./linking.tex
+\linkbox=\box259
+\wordbox=\box260
+) [-1
+Non-PDF special ignored!
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 172--176
+[][]\tenrm Im-pri-matur 
+
+\hbox(6.83331+1.94444)x284.52756, glue set 11.68192, direction TLT []
+
+[-2] (./hymnbook.toc) [-3] (./forpopefrancis.tex (hymnbook.ox2)
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 8--30
+[][][]|[] [][][][][][][][][][][][]|||[][][][][][][]|||[][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][]|| []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--30
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 30--59
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][]||
+|[][][][][][][][][][][][][][][][][][],[][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--59
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 59--95
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|[][]
+[][][][][][][][][][][][][][][][][]\twtygreg ,[][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--95
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [-4<./PopeFrancis.pdf>] (./conditor.tex
+Underfull \hbox (badness 1742) in paragraph at lines 84--84
+[][]\tenrm Salvasti mundum 
+
+\hbox(6.94444+0.0)x119.50157, glue set 2.59354, direction TLT []
+
+) [1
+Missing character: There is no ’ (U+2019) in font cmti10!
+Missing character: There is no ’ (U+2019) in font cmti10!
+Missing character: There is no ’ (U+2019) in font cmti10!
+Missing character: There is no ’ (U+2019) in font cmti10!
+] (./veni.tex [2]) (./rorate.tex
+Overfull \hbox (1.22227pt too wide) in paragraph at lines 55--90
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][]
+[][][][][][][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--90
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2221pt too wide) in paragraph at lines 90--126
+[][]|[][] [][][]|[][][][][][][][][][][][][][][][][][][][][][][][][][][][]|||[]\
+twtygreg +[][][][][][][][][]|||[][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--126
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 126--162
+[][]|[][] [][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][][]
+[][][][][][][][]|[][][][][][][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--162
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[3]
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 242--276
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][]\twtygreg +[][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--276
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 276--312
+[][]|[][] [][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][][][]
+[][]|[][][][][][][][][][][][][][][][][]|||[] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--312
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 312--342
+[][]|[][] [][][][][][][][][][]|||[][][][][][][][][][][][]\twtygreg ,[][][][][][
+][][][][][][][][][][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--342
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 384--419
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][]\twtygreg ,[][][][][]|||[][][][]|||[] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--419
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44444pt too wide) in paragraph at lines 419--450
+[][]|[][] [][][][][][][][][][][][][][]|[][][][][][][][][][][][][][][][][][][][]
+|||[][][][][][][][][][][]\twtygreg , []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--450
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[4]
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 450--483
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+]|[][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--483
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 511--547
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][]\twtygreg ,[][][][][]|||[][][][][][]|||[] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--547
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 547--579
+[][]|[][] [][][][][][][][][][][][]|[][][][][][][][][][][]|||[][][][][][][][][][
+][][][]\twtygreg ,[][][][][][][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--579
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 579--615
+[][]|[][] [][][][][][][][][][][][]|[]|||[][][][][][][][][][][]\twtygreg +[][][]
+[][][][][][][][][][][][][][]|[][][][][][][][][][][][][][][]|||[] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--615
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [5] (./gaudete.tex) [6] (./adeste.tex
+Underfull \hbox (badness 1072) in paragraph at lines 153--153
+[][] []\tenrm Ergo qui na-tus die 
+
+\hbox(6.94444+1.94444)x122.34685, glue set 2.20686, direction TLT []
+
+) [7] (./puernatus.tex
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 11--39
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][]
+[][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--39
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22227pt too wide) in paragraph at lines 39--71
+[][]|[] [][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][][]||
+[][][][][][][][][][][][][][]|||[]+ []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--71
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [8] (./jesudulcis.tex
+Overfull \hbox (1.44443pt too wide) in paragraph at lines 10--40
+[][][]|[] [][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][]
+[][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--40
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 85--85
+[][]\tenrm Quam bonus te 
+
+\hbox(6.94444+1.94444)x116.6563, glue set 2.89574, direction TLT []
+
+) [9<./ihs.pdf>] (./hymnbook.aux) (./nonnobis.tex) (./roundlaudate.tex)
+Underfull \vbox (badness 2080) has occurred while \output is active
+\vbox(492.23267+4.0)x284.52756, glue set 2.75113, direction TLT []
+
+ [10]
+(./lumen.tex
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 9--36
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[]
+[][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--36
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 54--79
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][]|[][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--79
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [11<./candle.pdf>] (./attende.tex
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 50--79
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg
+ ,[][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--79
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 154--154
+[][] []\tenit We, Thy eter-nal majesty 
+
+\hbox(6.94444+1.94444)x153.64487, glue set 2.4232, direction TLT []
+
+) [12] (./parce.tex
+Overfull \hbox (1.2223pt too wide) in paragraph at lines 8--36
+[][][]|[] [][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][]
+[][][][][][][][][][],[][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--36
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44452pt too wide) in paragraph at lines 55--84
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][]
+[][][][][][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--84
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [13] (./glorialaus.tex
+Overfull \hbox (1.22227pt too wide) in paragraph at lines 9--39
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[]
+[][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--39
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 83--120
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][]
+[]|||[][][][][][][][][][][][][][][][][][]|[][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--120
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2223pt too wide) in paragraph at lines 154--189
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][]
+[]|||[][][][][][][][][][][][][][][][]|[][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--189
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 222--255
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][]
+[][]|||[][][][][][][][][][][][][][][]|[][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--255
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[14]
+Overfull \hbox (1.22212pt too wide) in paragraph at lines 290--325
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][]
+[]|||[][][][][][][][][][][][][][][][]|[][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--325
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22234pt too wide) in paragraph at lines 355--390
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][]
+[][][]|||[][][][][][][][][][][][][][][][][][]|[][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--390
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [15] (./vexilla.tex
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 8--33
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygr
+eg ,[][][][][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--33
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 33--64
+[][]|[] [][][][][][][][][]|[][][][][][][][][][][][][][][][][][][][][][][][][][]
+\twtygreg ,[][][][][][][][][][][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--64
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[16]) (./osacredhead.tex) [17] (./ubi.tex
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 11--41
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[]
+[][][][][][][][][][][]||[][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--41
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 41--76
+[][]|[] [][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][]||[]
+[][][][][][][][][][][][][][][][][][][][][][][][][][]+ []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--76
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 76--104
+[][]|[] [][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--104
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 135--168
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[]
+[][][][][][][][][][][]||[][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--168
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 168--200
+[][]|[] [][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][]||[][][][][]
+[][][][][][][][][][][][][][][][][][][][][][]+ []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--200
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 200--228
+[][]|[] [][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--228
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 261--293
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[]
+[][][][][][][][][][][]||[][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--293
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[18]
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 293--325
+[][]|[] [][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][]||[][][][][]
+[][][][][][][][][][][][][][][][][][][][][][]+ []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--325
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 325--350
+[][]|[] [][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--350
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+0.0)x284.52756, glue set 7.89458, direction TLT []
+
+ [19<./fishbread.pdf>] (./pange.tex
+Overfull \hbox (1.44453pt too wide) in paragraph at lines 8--39
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][]|||[]\twtygreg +[][]|||[]
+[][][][][][][][][][][][][][][][][], []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--39
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44449pt too wide) in paragraph at lines 39--69
+[][]|[] [][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][]
+[][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--69
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[20])
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+0.0)x308.75285, glue set 9.87393, direction TLT []
+
+ [21<./hostchalice.pdf>] (./stabat.tex
+Overfull \hbox (1.44456pt too wide) in paragraph at lines 8--36
+[][][]|[] [][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][]
+[][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--36
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \vbox (badness 3780) has occurred while \output is active
+\vbox(492.23267+4.0)x294.52649, glue set 3.36003, direction TLT []
+
+ [22])
+[23] (./cruxfidelis.tex
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 10--39
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[]
+[][][][]|||[]||||[][][][][][][][][][][][][][][][]| []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--39
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 39--67
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygr
+eg +[][][][][][][][][][][][][][][][][][][][][][][][]| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--67
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 105--132
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[]
+[][][][]|||[]||||[][][][][][][][][][][][][][][][]| []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--132
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 132--160
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygr
+eg +[][][][][][][][][][][][][][][][][][][][][][][][]| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--160
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[24]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+4.0)x320.13394, direction TLT []
+
+ [25])
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+0.0)x325.8245, glue set 11.34709, direction TLT []
+
+ [26<./crucifixion.pdf>] (./haec.tex
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 8--26
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg
+ ,[][][][][][][][][][][][][][][][][][][][][][]+ []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--26
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 26--41
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|[][][][]
+[][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--41
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 41--62
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][]|[][][][][][][][][][][][]
+[][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][][][][]+ 
+[]
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--62
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) (./roundjubilate.tex)
+Underfull \vbox (badness 4181) has occurred while \output is active
+\vbox(492.23267+1.75)x312.98032, glue set 3.474, direction TLT []
+
+ [27]
+(./filii.tex
+Underfull \vbox (badness 2213) has occurred while \output is active
+\vbox(492.23267+4.0)x305.41986, glue set 2.80984, direction TLT []
+
+ [28])
+(./alleluia.tex)
+Underfull \vbox (badness 4254) has occurred while \output is active
+\vbox(492.23267+4.0)x305.9889, glue set 3.49205, direction TLT []
+
+ [29]
+(./victimae.tex
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 10--38
+[][][]|[] [][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][]
+[][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--38
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 38--67
+[][]|[] [][][][][]|||[][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][
+][][][]+[][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--67
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (3.44447pt too wide) in paragraph at lines 67--102
+[][]|[] [][][][][][][][][][][][][][][][][]||[][][][][][]|||[][][][][][][][][][]
+[]\twtygreg +[][][][][][][][][][][][]  []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--102
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (3.4445pt too wide) in paragraph at lines 102--138
+[][]|[] [][][]\twtygreg ,[][][][][][][][][][][][][][][][][][][][][][][]||[]|[][
+][][][][][][][][][][][][][]+  []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--138
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (3.4444pt too wide) in paragraph at lines 138--170
+[][]|[] [][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][
+][]\twtygreg ,[][]  []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--170
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (3.44455pt too wide) in paragraph at lines 170--205
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][]||[][]|[][][][][][][][][][]
+[][][][]\twtygreg +[][][][][][][][][][][]  []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--205
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 205--235
+[][]|[] [][][][][][]||[][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][]
+[][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--235
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44446pt too wide) in paragraph at lines 235--268
+[][]|[] [][][][][][][][][][][][]||[][][][][]|||[][][][][][][][][][][][][]\twtyg
+reg +[][][][][][][][][][][][][], []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--268
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [30] (./bring.tex)
+Underfull \vbox (badness 1320) has occurred while \output is active
+\vbox(492.23267+0.0)x308.75392, glue set 2.36438, direction TLT []
+
+ [31<./lamb.pdf>] (./salvefesta.tex
+Overfull \hbox (1.22238pt too wide) in paragraph at lines 19--49
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][]
+[][][][][][][][][][][][][][][][][],[][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--49
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 78--108
+[][][]|[] [][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][]
+[][][][][][][][][],[][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--108
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44444pt too wide) in paragraph at lines 135--163
+[][][]|[] [][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][]
+[][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--163
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 195--224
+[][][]|[] [][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][]
+[][][][][][][][][],[][][][] []
+
+\hbox(25.5354+26.9808)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--224
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 256--285
+[][][]|[] [][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][]
+[][][][][][][],[][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--285
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[32]
+Overfull \hbox (1.44452pt too wide) in paragraph at lines 311--341
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][]
+[][][][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--341
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 372--401
+[][][]|[] [][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][]
+[][][][][][][][][],[][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--401
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.4444pt too wide) in paragraph at lines 429--459
+[][][]|[] [][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][]
+[][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--459
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [33] (./venisancte.tex
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 9--41
+[][][]|[] [][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][]
+[][][][][][][][][],[][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--41
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22212pt too wide) in paragraph at lines 41--75
+[][]|[] [][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][]\tw
+tygreg ,[][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--75
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44435pt too wide) in paragraph at lines 75--111
+[][]|[] [][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][]||[]
+[][][][][]|||[][]|||[][][][][][][][][]|||[]|||[], []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--111
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 111--142
+[][]|[] [][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][]
+[][][][][][][][][][]||[][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--142
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 142--177
+[][]|[] [][][]|||[][][]|||[][][][][][][][]|||[]|||[]\twtygreg ,[][][][][][][][]
+[][][][][][][][][][][][],[][][][][][][][][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--177
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 210--247
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][]||[][]|||[][]|||[][][][][][
+][][][]|||[][][][][][][][]\twtygreg ,[][][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44432pt too wide) in paragraph at lines 247--285
+[][]|[] [][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][][][][]||
+[][][][][][][][][][][][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--285
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22215pt too wide) in paragraph at lines 285--320
+[][]|[] [][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][]
+[][][][][][][]||[][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--320
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[34]
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 320--355
+[][]|[] [][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][]
+[][][][][][],[][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--355
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44437pt too wide) in paragraph at lines 355--395
+[][]|[] [][][][][][][][][][]||[][]|||[][]|||[][][][][][][][][][][][][]\twtygreg
+ ,[][][][][][][][][][][][][][][][][][][], []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--395
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 395--428
+[][]|[] [][][][][][][][][][][][][][][][][]||[][]|||[][]|||[][][][][][][][][][][
+][][]\twtygreg ,[][][][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--428
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+0.0)x284.52756, glue set 5.3954, direction TLT []
+
+ [35<./holyghost.pdf>] (./venicreator.tex
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 8--36
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][]
+[][][][][][][][][][][][][][]| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--36
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [36] (./firmly.tex (./omnidie.tex)) [37] (./adorote.tex
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 7--40
+[][][]|[] [][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][]
+[][][],[][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--40
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 40--74
+[][]|[][] [][][][][][][][][][]\twtygreg +[][][][][][][][][][][][]|[][][][][][][
+][][][]|||[][]|||[][][][][][]+[][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--74
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 119--120
+[][]\tenrm Peto quod petvit la-tro 
+
+\hbox(6.94444+1.94444)x136.57323, glue set 2.20549, direction TLT []
+
+[38]) (./soulofmy.tex) [39] (./sacris.tex
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 11--39
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][]
+[][][][][][][][][][],[][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--39
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 39--68
+[][]|[] [][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][][]|[
+][][][][][][][][][][][][][][][]+ []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--68
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 167--167
+[][] []\tenrm Pa-nis angelicus fit pa-nis 
+
+\hbox(6.94444+1.94444)x147.95433, glue set 2.26085, direction TLT []
+
+[40]) (./sweetsacrament.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+0.0)x322.98027, glue set 5.89876, direction TLT []
+
+ [41]
+(./aveverum.tex
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 10--45
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][]
+[][][][][][][][][][][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--45
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 45--76
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][]
+[][][][][][][][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--76
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 76--109
+[][]|[][] [][][][][]|||[][][]|||[][][][][][][][][][][][][]\twtygreg ,[][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][]|| []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--109
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 109--139
+[][]|[][] [][][][][]|||[][][]|||[][][][][][][][][][][][][]\twtygreg ,[][][][][]
+[][][][][][][][][][][][][][][][][][][][][][]|| []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--139
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [42] (./tojesusheart.tex) (./corjesu.tex) (./glorybetojesus.tex) [43]
+(./christuscento.tex
+Overfull \hbox (1.22234pt too wide) in paragraph at lines 54--82
+[][][]|[] [][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][
+][]\twtygreg ,[][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--82
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 82--111
+[][]|[] [][][][][][][][][][]||[][][][][][][][][][][][]||[][][][][][][][][][][][
+][][][]|| []
+
+\hbox(32.53636+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--111
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 111--141
+[][]|[] [][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][]||[
+][][][][][][][][][][][][][][][]|| []
+
+\hbox(32.53636+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--141
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 141--168
+[][]|[] [][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][]||[][][
+][][][][][] []
+
+\hbox(32.53636+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--168
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 183--207
+[][][]|[] [][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][
+][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--207
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22234pt too wide) in paragraph at lines 207--239
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][]|
+|[][][][][][][][] []
+
+\hbox(32.53636+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--239
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[44]
+Overfull \hbox (1.22227pt too wide) in paragraph at lines 239--269
+[][]|[] [][][][][][][][]||[][][][][][][][][][][][][][][][]||[][][][][][][][][][
+][][][][][]||[][][][][][] []
+
+\hbox(32.53636+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--269
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22215pt too wide) in paragraph at lines 298--322
+[][][]|[] [][][][][][][][][][]||[][][][][][][][]||[][][][][][][][]|| []
+
+\hbox(32.53636+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--322
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 322--350
+[][]|[] [][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][]||[][][][
+][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--350
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2223pt too wide) in paragraph at lines 350--381
+[][]|[] [][][][][][]||[][][][][][][][][][][][][][]||[][][][][][][][][][][][][][
+][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--381
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 381--411
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][
+][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--411
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \vbox (badness 1708) has occurred while \output is active
+\vbox(492.23267+0.0)x284.52756, glue set 2.57806, direction TLT []
+
+ [45]
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 442--472
+[][][]|[] [][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][]
+[][][][][][][]+[][][] []
+
+\hbox(32.53636+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--472
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 504--531
+[][][]|[] [][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][
+][][]|| []
+
+\hbox(32.53636+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--531
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 531--560
+[][]|[] [][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][]||[][][][
+][][][][][][][][][]|| []
+
+\hbox(32.53636+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--560
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 560--590
+[][]|[] [][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][]\twtygreg ,
+[][][][][][][][][][][][][][]+ []
+
+\hbox(32.53636+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 560--590
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) (./christusvincitkunc.tex [46]) (./theeochrist.tex) [47] (./iste.tex
+Underfull \hbox (badness 1087) in paragraph at lines 169--169
+[][]\tenrm Qui su-per cli solio 
+
+\hbox(6.94444+1.94444)x122.34685, glue set 2.21779, direction TLT []
+
+
+Underfull \vbox (badness 7151) has occurred while \output is active
+\vbox(492.23267+4.0)x308.75284, glue set 4.1542, direction TLT []
+
+ [48])
+(./forall.tex) [49] (./corda.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+4.0)x308.75284, glue set 4.58058, direction TLT []
+
+ [50])
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+0.0)x308.75284, glue set 8.26881, direction TLT []
+
+ [51<./stfrancis.pdf>] (./dies.tex
+Overfull \hbox (1.4444pt too wide) in paragraph at lines 10--43
+[][][]|[] [][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][]
+[][][][][][][][][][][][][][][], |[]
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--43
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44437pt too wide) in paragraph at lines 43--73
+[][]|[] []|[][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][]
+[][][][][][]\twtygreg , []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--73
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (3.44446pt too wide) in paragraph at lines 73--105
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[]|[][][][][
+][][][][][][][][][][][][][][][][]||  []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--105
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44444pt too wide) in paragraph at lines 105--134
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][]
+[][][][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--134
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22212pt too wide) in paragraph at lines 134--160
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][
+][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--160
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 160--193
+[][]|[] [][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][],[][][][][][
+][][][][][][][][][][][][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--193
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44449pt too wide) in paragraph at lines 193--222
+[][]|[] [][][][][][][][][][][][][][][][][][][]|[][][][][][][][]\twtygreg ,[][][
+][][][][][][]|[][][][][][][][][][][][][], []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--222
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44441pt too wide) in paragraph at lines 222--251
+[][]|[] [][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][
+][][][][]|[][][][][][][][]\twtygreg , []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--251
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+0.0)x284.52756, glue set 4.84026, direction TLT []
+
+ [52]
+Overfull \hbox (3.4444pt too wide) in paragraph at lines 251--282
+[][]|[] [][][][][][][][][][]|[][][][][][][][][][][][]\twtygreg ,[][][][][][][][
+][][][][][][][][][][][][]||  []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--282
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44447pt too wide) in paragraph at lines 282--314
+[][]|[] [][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][]
+[][][][][][][][][][][][], |[]
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--314
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44443pt too wide) in paragraph at lines 314--344
+[][]|[] []|[][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][]
+[][][][][][]\twtygreg , []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--344
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (3.44453pt too wide) in paragraph at lines 344--377
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[]|[][][][][
+][][][][][][][][][][][][][][][][]||  []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--377
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 377--409
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][]
+[][][][][][][][][][][][][],[][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--409
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44455pt too wide) in paragraph at lines 409--438
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][
+][][][][][][][][][][][][]\twtygreg , []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--438
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 438--470
+[][]|[] [][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][]
+[][][][][][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--470
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44455pt too wide) in paragraph at lines 470--498
+[][]|[] [][][][][][][][][][][][][][][][][][][]|[][][][][][][][]\twtygreg ,[][][
+][][][][][][][]|[][][][][][][][][][][][], []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--498
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[53]
+Overfull \hbox (1.44456pt too wide) in paragraph at lines 498--526
+[][]|[] [][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][
+][][][][]|[][][][][][][][]\twtygreg , []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--526
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (3.44438pt too wide) in paragraph at lines 526--557
+[][]|[] [][][][][][][][][][]|[][][][][][][][][][][][]\twtygreg ,[][][][][][][][
+][][][][][][][][][][][][]||  []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--557
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44444pt too wide) in paragraph at lines 557--587
+[][]|[] [][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][]
+[][][][][][][][][][][][], |[]
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--587
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44441pt too wide) in paragraph at lines 587--618
+[][]|[] []|[][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][]
+[][][][][][]\twtygreg , []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--618
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (3.44449pt too wide) in paragraph at lines 618--652
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[]|[][][][][
+][][][][][][][][][][][][][][][][]||  []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--652
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44449pt too wide) in paragraph at lines 652--683
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][]
+[][][][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 652--683
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 683--707
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][
+][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--707
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 707--742
+[][]|[] [][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][],[][][][][][
+][][][][][][][][][][][][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--742
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[54]
+Overfull \hbox (3.88892pt too wide) in paragraph at lines 742--775
+[][]|[] [][][][][][][][][][][][][][][][][][][]|[][][][][][][][]\twtygreg ,[][][
+][][][][][][]|[][][][][][][][][][][][][],  []
+
+\hbox(25.5354+36.4396)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--775
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 775--806
+[][]|[] [][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][
+][][][][][][][][]\twtygreg ,[][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--806
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 806--836
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][]||[][][][][][]|||[][][][][]
+[][][][][][][][][][][][][][]||[][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 806--836
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 836--865
+[][]|[] [][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][
+][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--865
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [55] (./requiem.tex
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 10--34
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--34
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22227pt too wide) in paragraph at lines 73--106
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,
+[][][][][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--106
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22237pt too wide) in paragraph at lines 106--140
+[][]|[] [][][][][][][][][][][][][]|[][][][][][][][][][][][][][][][][][][][][][]
+[][]\twtygreg ,[][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--140
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [56<./purgatory.pdf>] (./avemaria.tex
+Overfull \hbox (1.44437pt too wide) in paragraph at lines 8--37
+[][][]|[] [][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][]
+[][][][][][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--37
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 37--71
+[][]|[] [][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][][][][]
+[],[][][][][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--71
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22212pt too wide) in paragraph at lines 71--105
+[][]|[] [][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][
+][][][][][][][][][][]\twtygreg ,[][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--105
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) (./roundavemaria.tex) [57] (./subtuum.tex
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 9--34
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][]
+[][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--34
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 34--65
+[][]|[] [][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][][][][]+[
+][][][][][][][][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--65
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 65--96
+[][]|[] [][][][][][][][][][][][][][]|[][][][][][][][][][][][][][][][][][][][]\t
+wtygreg +[][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--96
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) (./laudemus.tex)
+Underfull \vbox (badness 2253) has occurred while \output is active
+\vbox(492.23267+0.0)x284.52756, glue set 2.825, direction TLT []
+
+ [58]
+(./marian.tex (./salma.tex
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 12--42
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][]
+[][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--42
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22235pt too wide) in paragraph at lines 42--79
+[][]|[] [][][][][][][][]\twtygreg ,[][][][][][][][][][][][],[][][][][][][][][][
+][][][][],[][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--79
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 113--146
+[][]|[] [][][][][][][][][][][][][][][][][][][][][]|[][][][][][][][][][][][][][]
+[][][][][][][]\twtygreg ,[][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--146
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [59] (./saveregina.tex
+Overfull \hbox (1.44447pt too wide) in paragraph at lines 12--48
+[][][]|[] [][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][]
+[][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--48
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22209pt too wide) in paragraph at lines 48--82
+[][]|[][] [][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][]
+[][][][][][][]| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--82
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) (./sregina.tex
+Overfull \hbox (1.22234pt too wide) in paragraph at lines 13--48
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg
+ ,[][][][][][][][][]|||[] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--48
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22227pt too wide) in paragraph at lines 48--76
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][]||
+|[][][][][][][][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--76
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [60] (./ssalve.tex
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 9--40
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygr
+eg ,[][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--40
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22227pt too wide) in paragraph at lines 40--75
+[][]|[] [][][]\twtygreg ,[][][][][][][][][][][][][][][][]||[][][][][][][][][][]
+[][],[][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--75
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 150--187
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][]\twtygreg -[][][][][][][]
+[][][][][][]||[][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--187
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44447pt too wide) in paragraph at lines 219--254
+[][]|[] [][][][][][][][][]||[][][][][][][][][][][]||[][][][][][][][][][][][][][
+][]||[][][][][][][][][][][][][][][][][][][]\twtygreg , []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--254
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+)) [61] (./stella.tex
+Underfull \hbox (badness 1009) in paragraph at lines 216--216
+[][] []\rmlyrics Cuncti ergo pre-cantes, sexus 
+
+\hbox(6.14998+1.94444)x156.49014, glue set 2.16331, direction TLT []
+
+[62]) [63] (./litany.tex
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 10--38
+[][][]|[] [][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][]|
+|[][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--38
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 38--68
+[][]|[] [][][][][][][][][][]||[][][][][][][][][][][][]||[][][][][][][][][][][][
+][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--68
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (10.56279pt too wide) in paragraph at lines 350--351
+[][]\tenrm Regna sine labe ori-ginali con\tenbf cep\tenrm ta, 
+
+\hbox(6.94444+1.94444)x142.26378, glue set - 1.0, direction TLT []
+
+[64]
+Overfull \hbox (1.22212pt too wide) in paragraph at lines 385--416
+[][]|[] [][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][][][]
+|||[][][][][][]|[][][][][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--416
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+4.0)x294.52754, direction TLT []
+
+ [65]
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 416--449
+[][]|[] [][][][][]||[][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][]
+[][][][][][]|||[][][][][][]|[][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--449
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22237pt too wide) in paragraph at lines 449--481
+[][]|[] [][][][][][][][][][]||[][][][][][][][][][][][]\twtygreg +[][][][][][][]
+[][][][][][][][][][][]|||[][][][][][]| []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--481
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (4.3397pt too wide) in paragraph at lines 513--515
+[] []\caps onc[]ede \tenrm nos famulos tuos,
+
+\hbox(7.77777+1.94444)x107.1825, glue set - 1.0, direction TLT []
+
+
+Overfull \hbox (0.48434pt too wide) in paragraph at lines 513--515
+\tenrm qusumus Domine Deus,
+
+\hbox(6.94444+1.94444)x107.1825, glue set - 1.0, direction TLT []
+
+
+Overfull \hbox (2.71283pt too wide) in paragraph at lines 513--515
+\tenrm beatae Marae sem-per Vrginis
+
+\hbox(6.94444+1.94444)x128.0374, glue set - 1.0, direction TLT []
+
+
+Overfull \hbox (1.12029pt too wide) in paragraph at lines 513--515
+\tenrm Dominum nos-trum. []R. Amen. 
+
+\hbox(6.94444+0.0)x128.0374, glue set - 1.0, direction TLT []
+
+) [66] (./avemaris.tex
+Underfull \hbox (badness 1365) in paragraph at lines 8--36
+[][][]|[] [][][][][][][][][][][][][][][]|||[][][][][][][][]\twtygreg +[][][][][
+][][][][][][][][][][][][][],[][][][][] []  
+
+\hbox(26.9808+28.7308)x284.52756, glue set 2.39351, direction TLT []
+
+) [67] (./virgodei.tex
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 11--39
+[][][]|[] [][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][]
+[][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--39
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+)
+Underfull \vbox (badness 2173) has occurred while \output is active
+\vbox(492.23267+0.0)x308.75285, glue set 2.79456, direction TLT []
+
+ [68<./annun.pdf>] (./donanobis.tex) [69] (./dapacem.tex
+Overfull \hbox (1.22238pt too wide) in paragraph at lines 11--41
+[][][]|[] [][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][]
+[][][][],[][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--41
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) (./rounddapacem.tex)
+Underfull \vbox (badness 1755) has occurred while \output is active
+\vbox(492.23267+0.0)x284.52756, glue set 2.60138, direction TLT []
+
+ [70<./lily.pdf>] (./nowthank.tex) [71] (./tedeumroman.tex
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 11--37
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][]
+[][][][][][][][][][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--37
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2221pt too wide) in paragraph at lines 37--68
+[][]|[] [][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][]
+[][][][]||[][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--68
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 68--94
+[][]|[] [][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][]||[][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--94
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 146--172
+[][]|[] [][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][]
+[][][][][][][]||[][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--172
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44447pt too wide) in paragraph at lines 172--198
+[][]|[] [][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][]||[]
+[][][][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--198
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22215pt too wide) in paragraph at lines 198--220
+[][]|[] [][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][
+][]\twtygreg ,[][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--220
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22212pt too wide) in paragraph at lines 220--243
+[][]|[] [][][][][][][][][][]||[][][][][][][][][][][][][][][][][][]\twtygreg ,[]
+[][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--243
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[72]
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 269--301
+[][]|[] [][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][]||[]
+[][][][][][][][][][]+[][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--301
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 301--328
+[][]|[] [][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][][][]||[
+][][][][][][][]\twtygreg + []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--328
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 328--356
+[][]|[] [][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][
+][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--356
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 356--383
+[][]|[] [][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][][][][][][]
+[][][][]||[][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--383
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 383--409
+[][]|[] [][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][]
+[][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--409
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 409--433
+[][]|[] [][][][][][][][]||[][][][][][][][][][][][][][][][][][][][][][][][][][][
+]\twtygreg ,[][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--433
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 433--458
+[][]|[] [][][][][][][][][][][][][][]||[][][][][][][][][][][][]\twtygreg +[][][]
+[][][][][][][][][][]||[][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--458
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+0.0)x284.52756, glue set 6.30043, direction TLT []
+
+ [73]
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 458--486
+[][]|[] [][][][][][][][][][][]|||[][][][][][][][][][][][][][][][][][][][][]\twt
+ygreg ,[][][][][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--486
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 486--514
+[][]|[] [][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][]\tw
+tygreg ,[][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--514
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44438pt too wide) in paragraph at lines 514--542
+[][]|[] [][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][]\twtygreg , []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--542
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 542--570
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]||[][][
+][][][][][][][][][][][][][]\twtygreg ,[][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--570
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.4445pt too wide) in paragraph at lines 570--596
+[][]|[] [][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][]
+[]||[][][][][][][][][][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--596
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44441pt too wide) in paragraph at lines 596--623
+[][]|[] [][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][]\twtygreg , []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 596--623
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44438pt too wide) in paragraph at lines 623--651
+[][]|[] [][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][
+][][][][][][][][][][][]\twtygreg , []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 623--651
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.4445pt too wide) in paragraph at lines 651--676
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][
+][][][][][][][][][][]\twtygreg , []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 651--676
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+0.0)x284.52756, glue set 5.9511, direction TLT []
+
+ [74]
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 676--706
+[][]|[] [][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 676--706
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 706--729
+[][]|[] [][][]\twtygreg ,[][][][][][][][][][][][][][][][][][][][][][][][]||[][]
+[][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--729
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [75] (./kyriale.tex (./kyrie.tex
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 10--36
+[][][]|[] [][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][]
+[][][][][][][][]||[][][][][][]|||[]|||[][]|||[][][][][][][]+ []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--36
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 36--59
+[][]|[][] [][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][
+]\twtygreg +[][][][][][][][][][][][][][][][][][][]||[][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--59
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) (./gloria.tex
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 11--39
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]||[][][][
+][][][][][][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--39
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 39--68
+[][]|[] [][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][][]||[][]
+[][][][][][][][][][][][]||[][][][][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--68
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 68--100
+[][]|[] [][][][][][][][]||[][][][][][][][][][][][][][]||[][][][][][][][][][][][
+][][][][][][][][][][]||[][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--100
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 100--127
+[][]|[] [][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][][][]
+[][][][][][][][][]||[][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--127
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22215pt too wide) in paragraph at lines 127--158
+[][]|[] [][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][]+[][][
+][][][][][][][][][][][][][][][][][][][][][][][]|| []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--158
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[76]
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 158--189
+[][]|[] [][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][]
+[]+[][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--189
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 189--222
+[][]|[] [][][][][][][][]\twtygreg +[][][][][][][][][][][]+[][][][][][][][][][][
+][][][][][][]||[][][][][][][][][][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--222
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 222--249
+[][]|[] [][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][][][][]||[]
+[][][][][][][][][][][][][][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--249
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 249--279
+[][]|[] [][][][]\twtygreg +[][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][]||[][][][][][][][][][][][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--279
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 279--308
+[][]|[] [][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][][][][]
+||[][][][][][][][][][][][][][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--308
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 308--338
+[][]|[] [][][][][][][]||[][][][][][][][][][][][][][][][]||[][][][][][][][][][][
+][][][][][][][]\twtygreg + []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--338
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 338--368
+[][]|[] [][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][
+]\twtygreg +[][][][][][][][][][][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--368
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) [77] (./sanctus.tex
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 11--37
+[][][]|[] [][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][]+[][][][][
+][][][][][][][][][][][][][][][][][][][][]+[][][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--37
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 37--64
+[][]|[] [][][][][][][][][][][][]|[][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][] []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--64
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 64--95
+[][]|[] [][][][][][]|[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][]|[][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg + []
+
+\hbox(30.8352+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--95
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) (./agnus.tex
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 11--38
+[][][]|[] [][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][],[][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--38
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 38--67
+[][]|[] [][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][
+][][][]\twtygreg +[][][][][][][][][][][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--67
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 67--98
+[][]|[] [][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][][][][][][]
+||[][][][][][][][][][][][][][]+[][][][][][][][][]|||[] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--98
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[78]) (./itemissa.tex) [79] (./credo.tex
+Overfull \hbox (1.44444pt too wide) in paragraph at lines 11--41
+[][][]|[] [][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][
+][][]\twtygreg , []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--41
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 41--71
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][]
+[][][][][][][][][][][][][]+[][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--71
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44447pt too wide) in paragraph at lines 71--103
+[][]|[][] [][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][
+][][]\twtygreg +[][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--103
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 103--132
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][
+][][][][][][]\twtygreg + []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--132
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 132--162
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][
+][]\twtygreg +[][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--162
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 162--193
+[][]|[][] [][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][][]
+[][][][]||[][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--193
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22235pt too wide) in paragraph at lines 193--222
+[][]|[][] [][][]\twtygreg +[][][][][][][][][][][][][][][][][][],[][][][][][][][
+][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--222
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22209pt too wide) in paragraph at lines 222--249
+[][]|[][] [][][][]||[][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][]
+[][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--249
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 249--279
+[][]|[][] [][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][]||[][][][][]
+[][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--279
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[80]
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 279--314
+[][]|[][] [][][][][][][][][][][][]\twtygreg ,[][][][][][][][][][][][][][][][][]
+[][][],[][][][][][][][][][][][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--314
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44446pt too wide) in paragraph at lines 314--344
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][][][][][][]
+[][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--344
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.44441pt too wide) in paragraph at lines 344--375
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][
+][][][][][][][][][]\twtygreg , []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--375
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 375--405
+[][]|[][] [][][][][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][]\tw
+tygreg ,[][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--405
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2222pt too wide) in paragraph at lines 405--436
+[][]|[][] [][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][]\twtygreg + []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--436
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 436--470
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][]
+[][][][][][][][][][][][][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--470
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.4444pt too wide) in paragraph at lines 470--499
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][]
+[][][][][][][][][][][][][][], []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--499
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22229pt too wide) in paragraph at lines 499--528
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][
+][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--528
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(492.23267+0.0)x284.52756, glue set 6.15758, direction TLT []
+
+ [81]
+Overfull \hbox (1.22227pt too wide) in paragraph at lines 528--563
+[][]|[][] [][][][][][][][]\twtygreg +[][][][][][][][][][][][][][]+[][][][][][][
+][][][][][][][][][][][],[][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--563
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 563--592
+[][]|[][] [][][][][][][][][][][][][]||[][][][][][][][][][][][][][][][][][][][][
+][][][][][][]\twtygreg +[][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--592
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22234pt too wide) in paragraph at lines 592--621
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][][
+][][][][][][][][][][]\twtygreg + []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--621
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22215pt too wide) in paragraph at lines 621--651
+[][]|[][] [][][][][][][][][][][][][][][][][][][][][][][]||[][][][][][][][][][][
+][][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--651
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+)) [82] (./benediction.tex (./osalutaris.tex
+Overfull \hbox (1.22232pt too wide) in paragraph at lines 8--33
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twty
+greg ,[][][][][][][][]|||[][][][][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--33
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22215pt too wide) in paragraph at lines 33--68
+[][]|[] [][][]|||[]|[][][][][][][][][][][][][][][][][][][][][][]\twtygreg ,[][]
+[][][][][][][][][][][][][][][][][][][][][][][][]|| []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--68
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.2223pt too wide) in paragraph at lines 68--100
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg
+ ,[][][][][][][]|||[][][][][][][][][][][][][][]|||[]|[][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--100
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+) (./tantum.tex
+Overfull \hbox (1.44443pt too wide) in paragraph at lines 9--37
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][]|||[]\twtygreg +[][]|||[]
+[][][][][][][][][][][][][][][][][], []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--37
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+[83]
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 37--74
+[][]|[] [][][][][][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][]
+[][][][][][][],[][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--74
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 74--106
+[][]|[] [][][][][][][][][][][][][][]\twtygreg +[][][][][][][][][][][][][][][][]
+[][][][]||[][][][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--106
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22221pt too wide) in paragraph at lines 106--140
+[][]|[] [][][][][][][][][][][]|||[]\twtygreg +[][]|||[][][][][][][][][][][][][]
+[][][][][],[][][][][][][][][][][][][] []
+
+\hbox(26.9808+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--140
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22217pt too wide) in paragraph at lines 140--177
+[][]|[] [][][][][][]\twtygreg +[][][][][][][][][][][][][][][][][][][],[][][][][
+][][][][][][][][][][][][][]+ []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--177
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (9.34477pt too wide) in paragraph at lines 210--211
+[][] \tenit Thou hast given them bread from heaven. 
+
+\hbox(6.94444+1.94444)x284.52756, glue set - 1.0, direction TLT []
+
+
+Overfull \hbox (9.46677pt too wide) in paragraph at lines 230--235
+\tenrm tu memoriam reliqusti : trbue,
+
+\hbox(6.94444+1.94444)x133.72795, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 230--235
+\tenrm sanguinis tui sacra mysteria
+
+\hbox(6.94444+1.94444)x133.72795, glue set 2.35667, direction TLT []
+
+) [84] [85<./monstrance.pdf>] (./adoremus.tex
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 9--37
+[][][]|[] [][][][][][][][][][][][][][][][][][][][][][][][][]\twtygreg +[][][][]
+[][][][][][][][][][][][][][][][][][][]|| []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--37
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22218pt too wide) in paragraph at lines 37--66
+[][]|[] [][][][][][][][][][][][][][][][][][][][][][]|[][][][][][][][][][][][][]
+[][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--66
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22214pt too wide) in paragraph at lines 66--97
+[][]|[] [][][][][][][][]||[][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--97
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22227pt too wide) in paragraph at lines 97--128
+[][]|[] [][][][][]|[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]||
+[][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--128
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22224pt too wide) in paragraph at lines 128--157
+[][]|[] [][][][][][][]||[][][][][][][][][][][][][][][][][][][][]|[][][][][][][]
+[][][][] []
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--157
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+
+Overfull \hbox (1.22223pt too wide) in paragraph at lines 157--184
+[][]|[] [][][][][]||[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+[]
+
+\hbox(25.5354+28.7308)x284.52756, glue set - 1.0, direction TLT []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--184
+
+
+\hbox(0.0+0.0)x284.52756, direction TLT []
+
+)) [86] (./hymnbook.ind [87]
+Underfull \hbox (badness 1043) in paragraph at lines 107--108
+[][]\tenrm O Sa-cred Head sore 
+
+\hbox(6.94444+0.0)x130.26378, glue set 2.18823, direction TLT []
+
+) [88])<./Priory.ttf><</home/veronica/texmf/fonts/pk/ljfour/opustex/oslz20.600pk
+>><</home/veronica/texmf/fonts/pk/ljfour/opustex/oslu16.600pk>><</home/veronica/
+texmf/fonts/pk/ljfour/opustex/osld16.600pk>><</home/veronica/texmf/fonts/pk/ljfo
+ur/opustex/opus16.600pk>><</home/veronica/texmf/fonts/pk/ljfour/opustex/opussps.
+600pk>></usr/local/share/fonts/Priory.ttf><</home/veronica/texmf/fonts/pk/ljfour
+/opustex/opusg20.600pk>><</home/veronica/.texmf-var/fonts/pk/ljfour/public/bookh
+ands/hmin10.864pk>><</home/veronica/.texmf-var/fonts/pk/ljfour/public/bookhands/
+hmin17.864pk>><</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb><</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.p
+fb><</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><</
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><</usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><</usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><</usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy7.pfb><</usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmti10.pfb><</usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmti8.pfb><</usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmti9.pfb>
+Output written on hymnbook.pdf (92 pages, 1336170 bytes).
+
+PDF statistics: 584 PDF objects out of 1000 (max. 8388607)
+ 308 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
