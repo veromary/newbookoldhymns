@@ -52,9 +52,9 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 1. <a href="{{ site.url }}{{ site.baseurl }}/hymns/requiem.html">Requiem aeternam</a>
 1. [Dies Irae]({{ site.baseurl }}/hymns/diesirae.html)
 1. [Conditor alme siderum]({{ site.baseurl }}/hymns/conditor.html)
-1. Veni O Sapientia
-1. Rorate Caeli
+1. [Veni O Sapientia]({{ site.baseurl }}/hymns/veni.html)
+1. [Rorate Caeli]({{ site.baseurl }}/hymns/rorate.html)
 1. Alma Redemptoris
 1. Gaudete
-1. Adeste Fidelis
+1. [Adeste Fidelis]({{ site.baseurl }}/hymns/adeste.html)
 1. Puer Natus
