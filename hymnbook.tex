@@ -7,6 +7,11 @@
 %\input luaotfload.sty % this soooo does not work.
 % Ha! Now it DOES WORK!!!
 
+\let\pdfximage\saveimageresource
+\let\pdflastximage\lastsavedimageresourceindex
+\let\pdflastximagepages\lastsavedimageresourcepages
+\let\pdfrefximage\useimageresource
+
 % for the large print version
 %\magnification 1400
 % for the A4 version
@@ -16,16 +21,18 @@
 
 \font\bigtype = hmin10 scaled \magstep2
 \font\Bigtype = hmin17 scaled \magstep2
-%\font\musicaps = KingXmas scaled \magstep5
-%\font\textcaps = KingXmas scaled \magstep4
+\font\musicaps = hmin17 scaled \magstep4
+\font\textcaps = hmin17 scaled \magstep3
+\font\musicaps = {Kingthings Versalis} scaled \magstep5
+\font\textcaps = {Kingthings Versalis} scaled \magstep4
 %\font\musicaps = Romantik scaled 3000
 %\font\textcaps = Romantik scaled \magstep5
 %\font\musicaps = Lombardic scaled 3000
 %\font\textcaps = Lombardic scaled \magstep5
 %\font\musicaps = priory scaled \magstep5
 %\font\textcaps = priory scaled \magstep4
-\font\musicaps="file:Priory.ttf" scaled \magstep5
-\font\textcaps={name:Priory} scaled \magstep4
+%\font\musicaps="file:Priory.ttf" scaled \magstep5
+%\font\textcaps={name:Priory} scaled \magstep4
 %\font\musicaps = JFCotswoldLetters scaled 5000
 %\font\textcaps = JFCotswoldLetters scaled 4000
 
@@ -38,29 +45,29 @@
 
 %%%
 %Lulu 6x9 version
-\special{papersize=5.95in,8.95in}
-\pdfpagewidth=6in
-\pdfpageheight=9in
+%\special{papersize=5.95in,8.95in}
+%\pagewidth=6in
+%\pageheight=9in
 
 
 %I had trouble getting lulu to recognise 6in*9in
 
-\hoffset0mm
-\voffset0mm
+%\hoffset0mm
+%\voffset0mm
 
 %Lulu economy version 5.5x8.5in
-%\special{papersize=5.45in,8.45in}
+\special{papersize=5.5in,8.5in}
 %\special{papersize=13.97cm,21.59cm}
-%\pdfpagewidth=139.7mm
-%\pdfpageheight=215.9mm
+\pagewidth=139.7mm
+\pageheight=215.9mm
 
-%\hoffset-.25in
-%\voffset-.25in
+\hoffset-.25in
+\voffset-.25in
 
 %%a5 version 
-\special{papersize=148mm,210mm}
-\pdfpagewidth=148mm
-\pdfpageheight=210mm
+%\special{papersize=148mm,210mm}
+%\pagewidth=148mm
+%\pageheight=210mm
 
 %\hoffset-1.5mm
 %\voffset-7mm
@@ -148,7 +155,7 @@
 
 \vfill
 
-\centerline{Fourth Edition}
+\centerline{Third Edition}
 
 \bigskip
 
@@ -184,7 +191,7 @@ Second Edition January 2006
 
 Third Edition October 2007
 
-%Revised September 2009
+\qquad updated November 2016
 
 Fourth Edition September 2014
 
@@ -202,7 +209,8 @@ Designed and typeset by Veronica Brandt www.brandt.id.au.
           Computer Modern Roman by Donald Knuth,
           Humanist Minuscule by Peter Wilson
 %	  and Dieter Steffmann's Romantik Initialen.
-          and Priory by Paul Lloyd.
+%          and Priory by Paul Lloyd.
+and Kingthings Versalis by Kevin King.
 
 
 %This work is licensed under the Creative Commons 
@@ -278,8 +286,8 @@ on the internet.  For links see www.brandt.id.au.
 
 %\bigskip
 
-%\pdfximage width 50mm {papab16.pdf}
-\pdfximage width 50mm {PopeFrancis.pdf}
+\pdfximage width 50mm {papab16.pdf}
+%\pdfximage width 50mm {PopeFrancis.pdf}
 %\pdfrefximage \pdflastximage
 
 \centerline{\pdfrefximage \pdflastximage}
@@ -292,7 +300,8 @@ on the internet.  For links see www.brandt.id.au.
 
 \vfill
 
-\input forpopefrancis
+%\input forpopefrancis
+\input forthepope
 
 \eject
 
