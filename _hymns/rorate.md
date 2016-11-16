@@ -15,5 +15,5 @@ Drop down dew, ye heavens, from above, and let the clouds rain down righteousnes
 
 <iframe src="https://quizlet.com/168353642/flashcards/embed" height="410" width="100%" style="border:0"></iframe>
 
-[crossword puzzle]({{ site.baseurl }}/crosswords/rorate.pdf)
+[crossword puzzle]({{ site.baseurl }}/crosswords/rorate.html) and in [printable pdf]({{ site.baseurl }}/crosswords/rorate.pdf)
 

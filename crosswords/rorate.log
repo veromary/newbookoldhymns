@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2016.7.24)  15 NOV 2016 21:32
+This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2016.7.24)  16 NOV 2016 07:00
  restricted \write18 enabled.
 **rorate
 (./rorate.tex
@@ -359,7 +359,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.122 seconds
+luaotfload | main : fontloader loaded in 0.121 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -2068,14 +2068,14 @@ Here is how much of LuaTeX's memory you used:
  317 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 1 kern, 4 attribute, 45 glue_spec, 4 attrib
 ute_list, 1 write nodes
-   avail lists: 2:5694,3:27,4:4004,5:872,6:887,7:879,9:1988,10:54
+   avail lists: 2:5750,3:27,4:4004,5:872,6:887,7:893,9:1988,10:54
  28379 multiletter control sequences out of 65536+600000
- 45 fonts using 8828539 bytes
+ 45 fonts using 8828559 bytes
  62i,11n,63p,466b,226s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/fonts/opentype/linux-libertine/LinLibertine_RB.otf></usr/share/fonts
 /opentype/linux-libertine/LinBiolinum_R.otf></usr/share/fonts/opentype/linux-lib
 ertine/LinLibertine_R.otf>
-Output written on rorate.pdf (2 pages, 29610 bytes).
+Output written on rorate.pdf (2 pages, 29749 bytes).
 
 PDF statistics: 32 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream
