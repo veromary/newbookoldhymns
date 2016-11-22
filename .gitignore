@@ -4,6 +4,9 @@ _site
 .gaux
 .glog
 .gtex
+*.aux
+*.log
+*.dvi
 .aux
 .log
 .dvi
