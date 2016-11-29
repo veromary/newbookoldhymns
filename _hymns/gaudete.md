@@ -1,0 +1,5 @@
+---
+title: Gaudete
+layout: hymn
+---
+
