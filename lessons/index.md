@@ -57,4 +57,4 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 1. [Alma Redemptoris]({{ site.baseurl }}/hymns/alma.html)
 1. [Gaudete]({{ site.baseurl }}/hymns/gaudete.html)
 1. [Adeste Fidelis]({{ site.baseurl }}/hymns/adeste.html)
-1. Puer Natus
+1. [Puer Natus]({{ site.baseurl }}/hymns/puernatus.html)
