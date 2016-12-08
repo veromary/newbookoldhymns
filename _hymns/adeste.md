@@ -1,6 +1,10 @@
 ---
 title: Adeste Fideles
 layout: hymn
+crossword: adeste.pdf
+excerpt: adeste.pdf
+quizlet: https://quizlet.com/_2tdbtz
+video: https://youtu.be/B1bLxrZEy4g
 ---
 
 [Adeste Fideles 1 page pdf]({{ site.baseurl }}/excerpts/adeste.pdf)

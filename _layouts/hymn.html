@@ -16,6 +16,20 @@
   </header>
 
   <div class="post-content">
+	  <ul>
+	  {% if page.excerpt %}
+	  <li><a href="{{ site.baseurl }}/excerpts/{{ page.excerpt }}"><i class="icon-doc-text"></i> excerpt from A New Book of Old Hymns</a> (pdf)</li>
+	  {% endif %}
+	  {% if page.video %}
+	  <li><a href="{{ page.video }}"><i class="icon-video"></i> video</a> (external link)</li>
+	  {% endif %}
+	  {% if page.crossword %}
+	  <li><a href="{{ site.baseurl }}/crosswords/{{ page.crossword }}"><i class="icon-edit"></i> Crossword Puzzle (pdf)</a></li>
+	  {% endif %}
+	  {% if page.quizlet %}
+	  <li><a href="{{ page.quizlet }}"><i class="icon-lightbulb"></i>Quizlet set (external link)</a></li>
+	  {% endif %}
+	  </ul>
     {{ content }}
   </div>
 
