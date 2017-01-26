@@ -1,5 +1,5 @@
 ---
-title: Attende Dopmine
+title: Attende Domine
 layout: hymn
 crossword: attende.pdf
 excerpt: attende.pdf
