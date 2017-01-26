@@ -9,7 +9,7 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 
 ### Term 1 - with a Lenten flavour
 
-1. Attende Domine
+1. [Attende Domine]({{ site.baseurl }}/hymns/attende.html)
 1. Parce Domine
 1. Ave Regina Caelorum
 1. Ave Verum
@@ -35,7 +35,7 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 
 ### Term 3 - mostly Marian
 
-1. <a href="{{ site.url }}{{ site.baseurl }}/hymns/salveregina.html">Salve Regina</a>
+1. [Salve Regina]({{ site.url }}{{ site.baseurl }}/hymns/salveregina.html)
 1. Litany of Loreto
 1. Ave Maris Stella
 1. Jesu Dulcis
