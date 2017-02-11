@@ -11,7 +11,7 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 
 1. [Attende Domine]({{ site.baseurl }}/hymns/attende.html)
 1. [Parce Domine]({{ site.baseurl }}/hymns/parce.html)
-1. Ave Regina Caelorum
+1. [Ave Regina Caelorum]({{ site.baseurl }}/hymns/averegina.html)
 1. Ave Verum
 1. Gloria, Laus
 1. Vexilla Regis
