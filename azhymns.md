@@ -26,9 +26,9 @@ Alphabetical Index of Hymns
 </ul>
 
 Legend: 
-<ul><li><i class="icon-doc-text"> = pdf excerpt from A New Book of Old Hymns</li>
-<li><i class="icon-video"> = external link to online video (usually youtube)</li>
-<li><i class="icon-edit"> = pdf crossword puzzle</li>
-<li><i class="icon-lightbulb"> = external link to quizlet set</li>
-</ul>
+<i class="icon-doc-text"> = pdf excerpt from A New Book of Old Hymns
+<i class="icon-video"> = external link to online video (usually youtube)
+<i class="icon-edit"> = pdf crossword puzzle
+<i class="icon-lightbulb"> = external link to quizlet set
+
 
