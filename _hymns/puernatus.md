@@ -1,6 +1,10 @@
 ---
 title: Puer Natus
 layout: hymn
+excerpt: puernatus.pdf
+crossword: puernatus.pdf
+quizlet: https://quizlet.com/_2uo9mh
+video: https://www.youtube.com/watch?v=RaroIcQ-cnM
 ---
 
 [Puer natus, 1 page pdf]({{ site.baseurl }}/excerpts/puernatus.pdf)
