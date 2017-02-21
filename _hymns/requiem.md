@@ -1,6 +1,6 @@
 ---
 title: Requiem
-layout: page
+layout: hymn
 crossword: requiem.pdf
 excerpt: requiem.pdf
 quizlet: https://quizlet.com/_2nbh7t

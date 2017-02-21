@@ -4,6 +4,7 @@ layout: hymn
 crossword: parce.pdf
 excerpt: parce.pdf
 quizlet: https://quizlet.com/_32yjbw
+video: https://youtu.be/qY1ZczvtUVM
 ---
 
 Parce Domine can be sung just as an antiphon - repeated thrice is common.  It also appears in a book as a chorus between verses of another Lenten hymn _Audi Benigne Conditor_.

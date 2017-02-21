@@ -1,6 +1,10 @@
 ---
 title: Alma Redemptoris Mater
 layout: hymn
+excerpt: alma.pdf
+crossword: alma.pdf
+quizlet: https://quizlet.com/_2tdigl
+video: https://youtu.be/xQxzDAfgeH8
 ---
 
 

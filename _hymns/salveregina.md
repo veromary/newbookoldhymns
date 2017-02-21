@@ -1,7 +1,8 @@
 ---
 title: Salve Regina
-layout: page
+layout: hymn
 excerpt: salveregina.pdf
+video: https://youtu.be/bA2M8j9Pdig
 ---
 
 Simple Roman Salve Regina - the Marian Antiphon for "Ordinary Time" or Time after Pentecost.

@@ -1,6 +1,6 @@
 ---
 title: Christus Vincit
-layout: page
+layout: hymn
 crossword: christusvincit.pdf
 excerpt: christusvincit.pdf
 quizlet: https://quizlet.com/_2mc152 

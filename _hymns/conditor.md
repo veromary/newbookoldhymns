@@ -1,6 +1,10 @@
 ---
 layout: hymn
 title: Conditor Alme Siderum
+excerpt: conditor.pdf
+crossword: conditor.pdf
+quizlet: https://quizlet.com/_2pl0wk
+video: https://www.youtube.com/watch?v=wc2vV-v802s
 ---
 
 # Conditor Alme Siderum
