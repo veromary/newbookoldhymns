@@ -14,7 +14,7 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 1. [Ave Regina Caelorum]({{ site.baseurl }}/hymns/averegina.html)
 1. [Ave Verum]({{ site.baseurl }}/hymns/aveverum.html)
 1. [Gloria, Laus]({{ site.baseurl }}/hymns/glorialaus.html)
-1. Vexilla Regis
+1. [Vexilla Regis]({{ site.baseurl }}/hymns/vexilla.html)
 1. Ubi Caritas
 1. Stabat Mater
 1. Pange Lingua (by Thomas Aquinas)
