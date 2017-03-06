@@ -4,6 +4,7 @@ layout: hymn
 excerpt: salveregina.pdf
 video: https://youtu.be/bA2M8j9Pdig
 lesson: 21
+quizlet: https://quizlet.com/_dw0nt
 ---
 
 Simple Roman Salve Regina - the Marian Antiphon for "Ordinary Time" or Time after Pentecost.

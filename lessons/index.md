@@ -7,6 +7,8 @@ title: Lesson Plans
 
 An idea for a plan for 4 10 week terms as we have here in Australia:
 
+Quizlet sets are being collected [here in a Quizlet folder](https://quizlet.com/Brandts/folders/new-book-old-hymns)
+
 ### Term 1 - with a Lenten flavour
 
 <ol>
@@ -35,7 +37,7 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 <ol>
 {% endif %}
 
-<li><a href="{{ item.url }}">{{ item.title }}</a>
+<li><a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
 	  {% if item.excerpt %}
  <a href="{{ site.baseurl }}/excerpts/{{ item.excerpt }}"><i class="icon-doc-text"></i></a> 
 	  {% endif %}
