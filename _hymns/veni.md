@@ -5,6 +5,7 @@ excerpt: veni.pdf
 crossword: veni.pdf
 quizlet: https://quizlet.com/_2qs6em
 video: http://www.ccwatershed.org/blog/2015/dec/16/veni-veni-emmanuel-original-setting-two-voices/
+lesson: 35
 ---
 
 [One page pdf]({{ site.baseurl }}/excerpts/veni.pdf)

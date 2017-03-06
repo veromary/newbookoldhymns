@@ -5,6 +5,7 @@ crossword: averegina.pdf
 excerpt: avereginacaeli.pdf
 quizlet: https://quizlet.com/_33tnzw
 video: https://www.youtube.com/watch?v=OAi6T7tQruE
+lesson: 3
 ---
 
 Ave Regina Caelorum - the Marian Antiphon for the time from Candlemas (2nd February) to Easter (or just before the Sacred Triduum)

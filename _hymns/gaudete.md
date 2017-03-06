@@ -5,6 +5,7 @@ excerpt: gaudete.pdf
 crossword: gaudete.pdf
 quizlet: https://quizlet.com/_2tv5a8
 video: https://www.youtube.com/watch?v=DFtppysEl-k
+lesson: 38
 ---
 
 [Gaudete 1 page pdf]({{ site.baseurl }}/excerpts/gaudete.pdf)

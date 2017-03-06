@@ -5,6 +5,7 @@ excerpt: rorate.pdf
 crossword: rorate.pdf
 quizlet: https://quizlet.com/_2s8ei2
 video: https://youtu.be/-EjHCYLukRY
+lesson: 36
 ---
 
 

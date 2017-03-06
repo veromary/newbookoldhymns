@@ -5,6 +5,7 @@ crossword: diesirae.pdf
 quizlet: https://quizlet.com/_2oedoa
 video: https://youtu.be/Dlr90NLDp-0
 excerpt: dies.pdf
+lesson: 33
 ---
 
 [Crossword Puzzle]({{ site.url }}{{ site.baseurl }}/crosswords/diesirae.pdf)

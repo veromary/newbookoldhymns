@@ -5,6 +5,7 @@ crossword: requiem.pdf
 excerpt: requiem.pdf
 quizlet: https://quizlet.com/_2nbh7t
 video: https://youtu.be/sjWjnhfEto8
+lesson: 32
 ---
 
 This is the Introit or Entrance Antiphon for a Mass of the Dead.  

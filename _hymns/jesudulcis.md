@@ -2,4 +2,5 @@
 title: Jesu Dulcis Memoria
 layout: hymn
 excerpt: jesudulcis.pdf
+lesson: 24
 ---

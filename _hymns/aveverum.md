@@ -5,6 +5,7 @@ crossword: aveverum.pdf
 excerpt: aveverum.pdf
 quizlet: https://quizlet.com/_354gtk
 video: https://youtu.be/CxmHK4YuGA0
+lesson: 4
 ---
 
 An antiphon in honour of the Blessed Sacrament.

@@ -5,6 +5,7 @@ crossword: attende.pdf
 excerpt: attende.pdf
 quizlet: https://quizlet.com/_31dujv
 video: https://youtu.be/4IwbxYYq3bA
+lesson: 1
 ---
 
 Attende Domine is a simple Lenten antiphon.

@@ -5,6 +5,7 @@ crossword: christusvincit.pdf
 excerpt: christusvincit.pdf
 quizlet: https://quizlet.com/_2mc152 
 video: https://youtu.be/wCq8zMd69us
+lesson: 31
 ---
 
 Christus Vincit is a rousing call and respomse type chant from the 8th century or thereabouts.

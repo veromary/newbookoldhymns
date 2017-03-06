@@ -9,52 +9,48 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 
 ### Term 1 - with a Lenten flavour
 
-1. [Attende Domine]({{ site.baseurl }}/hymns/attende.html)
-1. [Parce Domine]({{ site.baseurl }}/hymns/parce.html)
-1. [Ave Regina Caelorum]({{ site.baseurl }}/hymns/averegina.html)
-1. [Ave Verum]({{ site.baseurl }}/hymns/aveverum.html)
-1. [Gloria, Laus]({{ site.baseurl }}/hymns/glorialaus.html)
-1. [Vexilla Regis]({{ site.baseurl }}/hymns/vexilla.html)
-1. Ubi Caritas
-1. Stabat Mater
-1. Pange Lingua (by Thomas Aquinas)
-1. Crux Fidelis and the other Pange Lingua
+<ol>
+{% assign items = (site.hymns | sort: 'lesson') %}
+{% for item in items %}
+{% if item.lesson %}
+{% if item.lesson == 11 %}
+</ol>
 
 ### Term 2 - with a Paschal feel
 
-1. Regina Caeli
-1. Haec Dies
-1. Jubilate Deo
-1. O Filii et Filiae
-1. Victimae Paschali
-1. Salve Festa Dies
-1. Veni Sancte Spiritus
-1. Veni Creator
-1. Adoro Te
-1. Sacris Solemnis
+<ol>
+{% endif %}
+{% if item.lesson == 21 %}
+</ol>
 
-### Term 3 - mostly Marian
+### Term 3 - Mostly Marian
 
-1. [Salve Regina]({{ site.url }}{{ site.baseurl }}/hymns/salveregina.html)
-1. Litany of Loreto
-1. Ave Maris Stella
-1. Jesu Dulcis
-1. Virgo Dei Genetrix
-1. Dona nobis pacem
-1. Da pacem, Domine
-1. Ave Maria
-1. Sub tuum praesidium
-1. Corda Pia
+<ol>
+{% endif %}
+{% if item.lesson == 31 %}
+</ol>
 
 ### Term 4 - Christ the King, Holy Souls, Advent, Christmas
 
-1. <a href="{{ site.url }}{{ site.baseurl }}/hymns/christusvincit.html">Christus vincit</a>
-1. <a href="{{ site.url }}{{ site.baseurl }}/hymns/requiem.html">Requiem aeternam</a>
-1. [Dies Irae]({{ site.baseurl }}/hymns/diesirae.html)
-1. [Conditor alme siderum]({{ site.baseurl }}/hymns/conditor.html)
-1. [Veni O Sapientia]({{ site.baseurl }}/hymns/veni.html)
-1. [Rorate Caeli]({{ site.baseurl }}/hymns/rorate.html)
-1. [Alma Redemptoris]({{ site.baseurl }}/hymns/alma.html)
-1. [Gaudete]({{ site.baseurl }}/hymns/gaudete.html)
-1. [Adeste Fidelis]({{ site.baseurl }}/hymns/adeste.html)
-1. [Puer Natus]({{ site.baseurl }}/hymns/puernatus.html)
+<ol>
+{% endif %}
+
+<li><a href="{{ item.url }}">{{ item.title }}</a>
+	  {% if item.excerpt %}
+ <a href="{{ site.baseurl }}/excerpts/{{ item.excerpt }}"><i class="icon-doc-text"></i></a> 
+	  {% endif %}
+	  {% if item.video %}
+ <a href="{{ item.video }}"><i class="icon-video"></i></a>
+	  {% endif %}
+	  {% if item.crossword %}
+  <a href="{{ site.baseurl }}/crosswords/{{ item.crossword }}"><i class="icon-edit"></i></a>
+	  {% endif %}
+	  {% if item.quizlet %}
+  <a href="{{ item.quizlet }}"><i class="icon-lightbulb"></i></a>
+	  {% endif %}
+</li>
+{% endif %}
+{% endfor %}
+</ol>
+
+
