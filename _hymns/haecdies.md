@@ -1,6 +1,6 @@
 ---
 title: Haec Dies
 layout: hymn
-excerpt: haecdies.pdf
+sheet: haecdies.pdf
 lesson: 12
 ---

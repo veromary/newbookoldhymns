@@ -1,7 +1,7 @@
 ---
 title: Salve Regina
 layout: hymn
-excerpt: salveregina.pdf
+sheet: salveregina.pdf
 video: https://youtu.be/bA2M8j9Pdig
 lesson: 21
 quizlet: https://quizlet.com/_dw0nt

@@ -1,5 +1,5 @@
 ---
 title: Lumen ad Revelationem Gentium
 layout: hymn
-excerpt: lumen.pdf
+sheet: lumen.pdf
 ---

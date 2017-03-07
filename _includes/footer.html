@@ -50,7 +50,10 @@ ga('send', 'pageview');
 {% if page.gloss %}
 <script>
   $(function() { Leipzig({
+{% if page.gloss == "lastline" %}
+{% else %}
   lastLineFree: false
+{% endif %}
 }).gloss(); });
 </script>
 {% endif %}

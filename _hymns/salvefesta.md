@@ -1,6 +1,6 @@
 ---
 title: Salve Festa Dies
 layout: hymn
-excerpt: salvefesta.pdf
+sheet: salvefesta.pdf
 lesson: 16
 ---

@@ -2,7 +2,7 @@
 title: Ave Regina Caelorum
 layout: hymn
 crossword: averegina.pdf
-excerpt: avereginacaeli.pdf
+sheet: avereginacaeli.pdf
 quizlet: https://quizlet.com/_33tnzw
 video: https://www.youtube.com/watch?v=OAi6T7tQruE
 lesson: 3

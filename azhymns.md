@@ -9,8 +9,8 @@ Alphabetical Index of Hymns
 <ul>
 {% for hymns in site.hymns %}
 <li><a href="{{ site.url }}{{ site.baseurl }}{{ hymns.url }}">{{ hymns.title }}</a> --
-	  {% if hymns.excerpt %}
- <a href="{{ site.baseurl }}/excerpts/{{ hymns.excerpt }}"><i class="icon-doc-text"></i></a> 
+	  {% if hymns.sheet %}
+ <a href="{{ site.baseurl }}/excerpts/{{ hymns.sheet }}"><i class="icon-music-alt"></i></a> 
 	  {% endif %}
 	  {% if hymns.video %}
  <a href="{{ hymns.video }}"><i class="icon-video"></i></a>
@@ -26,9 +26,10 @@ Alphabetical Index of Hymns
 </ul>
 
 Legend: 
-<i class="icon-doc-text"> = pdf excerpt from A New Book of Old Hymns
-<i class="icon-video"> = external link to online video (usually youtube)
-<i class="icon-edit"> = pdf crossword puzzle
-<i class="icon-lightbulb"> = external link to quizlet set
+<i class="icon-star"></i> = includes an interlinear gloss of the text
+<i class="icon-music-alt"></i> = pdf excerpt from A New Book of Old Hymns
+<i class="icon-video"></i> = external link to online video (usually youtube)
+<i class="icon-edit"></i> = pdf crossword puzzle
+<i class="icon-lightbulb"></i> = external link to quizlet set
 
 

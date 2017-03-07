@@ -2,7 +2,7 @@
 title: Ave Verum Corpus
 layout: hymn
 crossword: aveverum.pdf
-excerpt: aveverum.pdf
+sheet: aveverum.pdf
 quizlet: https://quizlet.com/_354gtk
 video: https://youtu.be/CxmHK4YuGA0
 lesson: 4

@@ -1,7 +1,7 @@
 ---
 title: Vexilla Regis Prodeunt
 layout: hymn
-excerpt: vexilla.pdf
+sheet: vexilla.pdf
 quizlet: https://quizlet.com/_379bqp
 video: https://youtu.be/8fHVyO2DLA4
 crossword: vexilla.pdf

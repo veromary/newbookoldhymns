@@ -4,7 +4,7 @@ layout: hymn
 crossword: diesirae.pdf
 quizlet: https://quizlet.com/_2oedoa
 video: https://youtu.be/Dlr90NLDp-0
-excerpt: dies.pdf
+sheet: dies.pdf
 lesson: 33
 ---
 

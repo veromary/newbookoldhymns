@@ -1,6 +1,6 @@
 ---
 title: Virgo Dei Genitrix
 layout: hymn
-excerpt: virgodei.pdf
+sheet: virgodei.pdf
 lesson: 25
 ---

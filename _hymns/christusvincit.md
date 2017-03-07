@@ -2,7 +2,7 @@
 title: Christus Vincit
 layout: hymn
 crossword: christusvincit.pdf
-excerpt: christusvincit.pdf
+sheet: christusvincit.pdf
 quizlet: https://quizlet.com/_2mc152 
 video: https://youtu.be/wCq8zMd69us
 lesson: 31

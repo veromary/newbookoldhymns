@@ -1,7 +1,7 @@
 ---
 title: Gaudete
 layout: hymn
-excerpt: gaudete.pdf
+sheet: gaudete.pdf
 crossword: gaudete.pdf
 quizlet: https://quizlet.com/_2tv5a8
 video: https://www.youtube.com/watch?v=DFtppysEl-k

@@ -1,6 +1,6 @@
 ---
 title: Veni Creator
 layout: hymn
-excerpt: venicreator.pdf
+sheet: venicreator.pdf
 lesson: 18
 ---

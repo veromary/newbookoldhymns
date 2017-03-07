@@ -1,7 +1,7 @@
 ---
 title: Puer Natus
 layout: hymn
-excerpt: puernatus.pdf
+sheet: puernatus.pdf
 lesson: 40
 crossword: puernatus.pdf
 quizlet: https://quizlet.com/_2uo9mh

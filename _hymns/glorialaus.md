@@ -1,7 +1,7 @@
 ---
 title: Gloria Laus
 layout: hymn
-excerpt: glorialaus.pdf
+sheet: glorialaus.pdf
 crossword: glorialaus.pdf
 quizlet: https://quizlet.com/_35almb
 video: https://youtu.be/42fJshdfYJs

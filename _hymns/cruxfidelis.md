@@ -1,6 +1,6 @@
 ---
 title: Crux Fidelis
 layout: hymn
-excerpt: cruxfidelis.pdf
+sheet: cruxfidelis.pdf
 lesson: 10
 ---

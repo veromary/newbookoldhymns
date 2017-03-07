@@ -1,6 +1,6 @@
 ---
 title: Sub Tuum Praesidium Confugimus
 layout: hymn
-excerpt: subtuum.pdf
+sheet: subtuum.pdf
 lesson: 29
 ---

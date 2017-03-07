@@ -1,5 +1,5 @@
 ---
 title: Credo in Unum Deum
 layout: hymn
-excerpt: credoI.pdf
+sheet: credoI.pdf
 ---

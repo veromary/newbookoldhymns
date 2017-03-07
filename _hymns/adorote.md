@@ -1,7 +1,7 @@
 ---
 title: Adoro Te
 layout: hymn
-excerpt: adorote.pdf
+sheet: adorote.pdf
 lesson: 19
 ---
 

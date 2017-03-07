@@ -1,6 +1,6 @@
 ---
 title: Corda Pia
 layout: hymn
-excerpt: corda.pdf
+sheet: corda.pdf
 lesson: 30
 ---

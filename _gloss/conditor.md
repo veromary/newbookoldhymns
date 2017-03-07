@@ -50,11 +50,6 @@ gloss: true
 
 
 
-<div data-gloss>
-<p>Donans reis remedium</p>
-<p>giving {the defendant/accused} {remedy / medicine}</p>
-</div>
-
 # 3
 
 <div data-gloss>

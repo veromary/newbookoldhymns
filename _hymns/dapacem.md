@@ -1,6 +1,6 @@
 ---
 title: Da Pacem
 layout: hymn
-excerpt: dapacem.pdf
+sheet: dapacem.pdf
 lesson: 27
 ---

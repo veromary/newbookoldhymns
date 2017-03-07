@@ -1,6 +1,6 @@
 ---
 title: Pange Lingua
 layout: hymn
-excerpt: pangelingua.pdf
+sheet: pangelingua.pdf
 lesson: 9
 ---

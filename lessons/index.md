@@ -9,6 +9,8 @@ An idea for a plan for 4 10 week terms as we have here in Australia:
 
 Quizlet sets are being collected [here in a Quizlet folder](https://quizlet.com/Brandts/folders/new-book-old-hymns)
 
+Some translations taken from [Catholic's Latin Instructor by Fr E Caswall](http://www.brandt.id.au/latin/)
+
 ### Term 1 - with a Lenten flavour
 
 <ol>
@@ -37,9 +39,9 @@ Quizlet sets are being collected [here in a Quizlet folder](https://quizlet.com/
 <ol>
 {% endif %}
 
-<li><a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-	  {% if item.excerpt %}
- <a href="{{ site.baseurl }}/excerpts/{{ item.excerpt }}"><i class="icon-doc-text"></i></a> 
+<li><a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }} {% if item.gloss %}<i class="icon-star"></i>{% endif %} </a> -- 
+	  {% if item.sheet %}
+ <a href="{{ site.baseurl }}/excerpts/{{ item.sheet }}"><i class="icon-music-alt"></i></a> 
 	  {% endif %}
 	  {% if item.video %}
  <a href="{{ item.video }}"><i class="icon-video"></i></a>
@@ -54,5 +56,13 @@ Quizlet sets are being collected [here in a Quizlet folder](https://quizlet.com/
 {% endif %}
 {% endfor %}
 </ol>
+
+
+Legend: 
+<i class="icon-star"></i> = includes an interlinear gloss of the text
+<i class="icon-music-alt"></i> = pdf excerpt from A New Book of Old Hymns
+<i class="icon-video"></i> = external link to online video (usually youtube)
+<i class="icon-edit"></i> = pdf crossword puzzle
+<i class="icon-lightbulb"></i> = external link to quizlet set
 
 

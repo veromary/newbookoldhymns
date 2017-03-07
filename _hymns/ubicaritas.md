@@ -1,6 +1,6 @@
 ---
 title: Ubi Caritas
 layout: hymn
-excerpt: ubicaritas.pdf
+sheet: ubicaritas.pdf
 lesson: 7
 ---

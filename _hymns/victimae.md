@@ -1,6 +1,6 @@
 ---
 title: Victimae Paschali Laudes
 layout: hymn
-excerpt: victimae.pdf
+sheet: victimae.pdf
 lesson: 15
 ---

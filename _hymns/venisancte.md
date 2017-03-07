@@ -1,6 +1,6 @@
 ---
 title: Veni Sancte Spiritu
 layout: hymn
-excerpt: venisancte.pdf
+sheet: venisancte.pdf
 lesson: 17
 ---

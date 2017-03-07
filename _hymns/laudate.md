@@ -1,5 +1,5 @@
 ---
 title: Laudate Nomen Domini
 layout: hymn
-excerpt: nonnobislaudate.pdf
+sheet: nonnobislaudate.pdf
 ---

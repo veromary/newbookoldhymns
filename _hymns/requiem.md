@@ -2,7 +2,7 @@
 title: Requiem
 layout: hymn
 crossword: requiem.pdf
-excerpt: requiem.pdf
+sheet: requiem.pdf
 quizlet: https://quizlet.com/_2nbh7t
 video: https://youtu.be/sjWjnhfEto8
 lesson: 32

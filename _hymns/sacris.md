@@ -1,7 +1,7 @@
 ---
 title: Sacris Solemnis
 layout: hymn
-excerpt: sacris.pdf
+sheet: sacris.pdf
 lesson: 20
 ---
 

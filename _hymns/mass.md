@@ -1,5 +1,5 @@
 ---
 title: Missa Orbis Factor
 layout: hymn
-excerpt: massXI.pdf
+sheet: massXI.pdf
 ---

@@ -1,7 +1,7 @@
 ---
 title: Jubilate Deo (a round)
 layout: hymn
-excerpt: haecdies.pdf
+sheet: haecdies.pdf
 video: https://youtu.be/fpzyi5nMJnc
 lesson: 13
 ---

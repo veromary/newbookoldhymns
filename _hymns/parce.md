@@ -2,7 +2,7 @@
 title: Parce Domine
 layout: hymn
 crossword: parce.pdf
-excerpt: parce.pdf
+sheet: parce.pdf
 quizlet: https://quizlet.com/_32yjbw
 video: https://youtu.be/qY1ZczvtUVM
 lesson: 2

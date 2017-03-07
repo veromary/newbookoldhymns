@@ -2,7 +2,7 @@
 title: Attende Domine
 layout: hymn
 crossword: attende.pdf
-excerpt: attende.pdf
+sheet: attende.pdf
 quizlet: https://quizlet.com/_31dujv
 video: https://youtu.be/4IwbxYYq3bA
 lesson: 1
