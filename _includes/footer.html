@@ -48,12 +48,6 @@ ga('send', 'pageview');
 
 </script>
 {% if page.gloss %}
-<script>
-  $(function() { Leipzig({
-{% if page.gloss == "lastline" %}
-{% else %}
-  lastLineFree: false
-{% endif %}
-}).gloss(); });
-</script>
+  <script src="{{ site.baseurl }}/js/leipzig.min.js"></script>
+  <script src="{{ site.baseurl }}/js/leipzig.examples.js"></script>
 {% endif %}
