@@ -6,12 +6,16 @@ crossword: rorate.pdf
 quizlet: https://quizlet.com/_2s8ei2
 video: https://youtu.be/-EjHCYLukRY
 lesson: 36
+pageno: 3
+gloss: true
 ---
 
-
-[Rorate pdf]({{ site.baseurl }}/excerpts/rorate.pdf)
-
-Drop down dew, ye heavens, from above, and let the clouds rain down righteousness.
+<div data-gloss>
+<p>Rorate caeli desuper et nubes pluant justum</p>
+<p>Rorate caeli desuper et nubes pluant justum</p>
+<p>{drop down dew} {heavens} {from above} and {clouds} {let them rain} {the Just One}</p>
+<p>Drop down dew, ye heavens, from above, and let the clouds rain down righteousness.</p>
+</div>
 
 
 # Vocabulary

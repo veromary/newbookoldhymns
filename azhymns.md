@@ -8,7 +8,7 @@ Alphabetical Index of Hymns
 
 <ul>
 {% for hymns in site.hymns %}
-<li><a href="{{ site.url }}{{ site.baseurl }}{{ hymns.url }}">{{ hymns.title }}</a> --
+<li><a href="{{ site.url }}{{ site.baseurl }}{{ hymns.url }}">{{ hymns.title }} {% if hymns.gloss %}<i class="icon-star"></i>{% endif %} </a> --
 	  {% if hymns.sheet %}
  <a href="{{ site.baseurl }}/excerpts/{{ hymns.sheet }}"><i class="icon-music-alt"></i></a> 
 	  {% endif %}

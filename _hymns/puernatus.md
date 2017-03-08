@@ -6,6 +6,7 @@ lesson: 40
 crossword: puernatus.pdf
 quizlet: https://quizlet.com/_2uo9mh
 video: https://www.youtube.com/watch?v=RaroIcQ-cnM
+pageno: 8
 ---
 
 [Puer natus, 1 page pdf]({{ site.baseurl }}/excerpts/puernatus.pdf)
