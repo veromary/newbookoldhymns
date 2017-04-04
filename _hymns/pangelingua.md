@@ -5,6 +5,8 @@ sheet: pangelingua.pdf
 lesson: 9
 pageno: 20
 quizlet: https://quizlet.com/_3a6td3
+crossword: pangelingua.pdf
+video: https://youtu.be/raeihsMkVm4
 ---
 
 Pange Lingua ends with the two verses more well known as [Tantum Ergo]({{ site.baseurl }}/hymns/tantumergo.html)
@@ -13,3 +15,4 @@ There are two Pange Lingua hymns.  The first was written by Venantius Fortunatus
 
 This is a later Pange Lingua written by St Thomas Aquinas.
 
+Apologies 
