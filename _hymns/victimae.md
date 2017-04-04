@@ -4,7 +4,7 @@ layout: hymn
 sheet: victimae.pdf
 lesson: 15
 quizlet: https://quizlet.com/_3bb0n0
-youtube: https://youtu.be/Ucv6VGdhqM8
+video: https://youtu.be/Ucv6VGdhqM8
 gloss: true
 ---
 
