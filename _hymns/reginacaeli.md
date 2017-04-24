@@ -6,6 +6,8 @@ lesson: 11
 quizlet: https://quizlet.com/_ovadt
 gloss: true
 pageno: 60
+crossword: reginacaeli.pdf
+video: https://youtu.be/O8W4351sW14
 ---
 
 <div data-gloss>
