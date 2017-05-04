@@ -6,6 +6,8 @@ lesson: 12
 quizlet: https://quizlet.com/_3f71gj
 gloss: true
 crossword: haecdies.pdf
+video: https://youtu.be/0BkspLdP1-g
+pageno: 27
 ---
 
 <div data-gloss>
