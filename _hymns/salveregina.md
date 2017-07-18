@@ -7,6 +7,7 @@ lesson: 21
 quizlet: https://quizlet.com/_dw0nt
 pageno: 61
 gloss: true
+crossword: salve13.pdf
 ---
 
 Simple Roman Salve Regina - the [Marian Antiphon]({{ site.url }}{{ site.baseurl }}/2017/03/08/marian-antiphons.html) for "Ordinary Time" or Time after Pentecost.
