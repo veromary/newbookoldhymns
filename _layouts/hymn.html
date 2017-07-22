@@ -14,8 +14,11 @@
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
-
+{% if page.img %}
+<img src="{{ site.url }}{{ site.baseurl }}/img/{{ page.img }}">
+{% endif %}
   <div class="post-content">
+
 	  <ul>
 	  {% if page.sheet %}
 	  <li><a href="{{ site.baseurl }}/excerpts/{{ page.sheet }}"><i class="icon-music-alt"></i> excerpt from A New Book of Old Hymns</a> (pdf)</li>
@@ -30,6 +33,7 @@
 	  <li><a href="{{ page.quizlet }}"><i class="icon-lightbulb"></i>Quizlet set (external link)</a></li>
 	  {% endif %}
 	  </ul>
+
     {{ content }}
   </div>
 
