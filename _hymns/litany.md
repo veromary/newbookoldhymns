@@ -4,14 +4,30 @@ layout: hymn
 sheet: litany.pdf
 lesson: 22
 quizlet: https://quizlet.com/_gwnou
+gloss: true
 img: sanctamaria.png
 ---
 
-Sancta Maria - Holy Mary
+<div data-gloss>
+<p>Sancta Maria</p>
+<p>Sancta Maria</p>
+<p>Holy Mary</p>
+<p>Holy Mary</p>
+</div>
 
-Sancta Dei Genetrix - Holy Mother of God
+<div data-gloss>
+<p>Sancta Dei Genetrix</p>
+<p>Sancta Dei Genetrix</p>
+<p>Holy {of God} Mother</p>
+<p>Holy Mother of God</p>
+</div>
 
-Sancta Virgo virginum - Holy Virgin of virgins
+<div data-gloss>
+<p>Sancta Virgo virginum</p>
+<p>Sancta Virgo virginum</p>
+<p>Holy Virgin {of virgins}</p>
+<p>Holy Virgin of virgins</p>
+</div>
 
 Mater Christi - Mother of Christ
 
