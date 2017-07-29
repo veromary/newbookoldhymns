@@ -8,6 +8,7 @@ gloss: true
 img: sanctamaria.png
 crossword: litany.pdf
 pageno: 64
+video: https://youtu.be/CZXc3JtNAwk
 ---
 
 <div data-gloss>
