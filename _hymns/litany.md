@@ -12,6 +12,36 @@ video: https://youtu.be/CZXc3JtNAwk
 ---
 
 <div data-gloss>
+<p>Kyrie eleison, Christe eleison, Kyrie eleison.</p>
+<p>Kyrie eleison, Christe eleison, Kyrie eleison.</p>
+<p>Lord {have mercy on us}
+Christ {have mercy on us}
+Lord {have mercy on us}</p>
+<p>Lord have mercy, Christ have mercy, Lord have mercy</p>
+</div>
+
+<div data-gloss>
+<p>Christe audi nos, Christe exaudi nos</p>
+<p>Christe audi nos, Christe exaudi nos</p>
+<p>Christ hear us Christ {graciously hear} us</p>
+<p>Christ hear us Christ graciously hear us</p>
+</div>
+
+<div data-gloss>
+<p>Pater de caelis Deus, miserere nobis. Fili Redemptor mundi Deus, miserere nobis. Spiritus Sancte Deus, miserere nobis.</p>
+<p>Deus Pater de caelis, miserere nobis. Deus Fili Redemptor mundi. Deus Sancte Spiritus.</p>
+<p>{O God} {the Father} of heaven, {have mercy} {on us}. {O God} {the Son} Redeemer {of the world} {O God} {the Holy} Spirit</p>
+<p>God the Father of heaven, have mercy on us. God the Son, Redeemer of the world, have mercy on us. God the Holy Spirit, have mercy on us.</p>
+</div>
+
+<div data-gloss>
+<p>Sancta Trinitas unus Deus, miserere nobis.</p>
+<p>Sancta Trinitas unus Deus, miserere nobis.</p>
+<p> Holy Trinity one God, {have mercy} {on us}</p>
+<p>Holy Trinity, one God, have mercy on us.</p>
+</div>
+
+<div data-gloss>
 <p>Sancta Maria</p>
 <p>Sancta Maria</p>
 <p>Holy Mary</p>
@@ -80,3 +110,5 @@ video: https://youtu.be/CZXc3JtNAwk
 <p>Mother undefiled</p>
 <p>Mother undefiled</p>
 </div>
+
+
