@@ -5,6 +5,9 @@ sheet: jesudulcis.pdf
 lesson: 24
 pageno: 9
 gloss: true
+video: http://www.youtube.com/watch?v=geAwUCamtuI
+quizlet: https://quizlet.com/_3le5o4
+crossword: jesudulcis.pdf
 ---
 
 Part of a longer hymn attributed to St Bernard of Clairvaux which also includes Jesu Rex Admirabilis.
@@ -33,7 +36,7 @@ Part of a longer hymn attributed to St Bernard of Clairvaux which also includes 
 <div data-gloss>
 <p>Nec lingua valet dícere, Nec líttera exprímere : Expértus potest crédere, Quid sit Jesum dilígere.</p>
 <p>Nec lingua valet dícere, Nec líttera exprímere: Expértus potest crédere, Quid sit Jesum dilígere.</p>
-<p>Nor tongue {can say} nor writing express {(only) experience} can believe, what {it is} Jesus {to love}</p>
+<p>Nor tongue can say nor writing express {(only) experience} can believe, what {it is} Jesus {to love}</p>
 <p>But what to those that find? Ah! this No tongue nor pen can show; The love of Jesus, what it is, none but His loved ones know.</p>
 </div>
 
