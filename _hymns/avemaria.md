@@ -6,7 +6,7 @@ lesson: 28
 quizlet: https://quizlet.com/_h82py
 gloss: true
 video: https://www.youtube.com/watch?v=LSAPvTeyfZk
-img: avemaria-cards.png
+img: avemaria-cards.jpg
 crossword: avemaria.pdf
 ---
 
