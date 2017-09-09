@@ -26,9 +26,8 @@ A little note while I think of it. The word for *of grace* would be *gratiae* ra
 <div data-gloss>
 <p>
 Benedicta tu in mulieribus, et benedictus fructus ventris tui, Jesus.</p>
-</p><p>
+<p>
 Benedicta tu {in mulieribus,} et benedictus fructus {ventris tui,} Jesus.</p>
-</p>
 <p>Blessed thee {among women} and blessed fruit {of thy womb} Jesus</p>
 <p>Blessed art thou among women and blessed is the fruit of thy womb, Jesus.</p>
 </div>
