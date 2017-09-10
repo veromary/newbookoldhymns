@@ -29,7 +29,7 @@ And the Monastic is the older version.
 <div data-gloss>
 <p>sed a periculus cunctis libera nos semper</p>
 <p>sed a periculus cunctis libera nos semper</p>
-<p>but from danger something free us always</p>
+<p>but from danger all free us always</p>
 <p>but deliver us always from all dangers</p>
 </div>
 
