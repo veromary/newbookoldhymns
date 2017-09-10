@@ -13,8 +13,8 @@ I met this hymn at [Maternal Heart](http://maternalheart.org.au) where they sing
 And the Monastic is the older version.
 
 <div data-gloss>
-<p>Sub tuum praesídium confúgimus Sancta Dei Génitrix<p>
-<p>Sub tuum praesídium confúgimus Sancta {Dei Génitrix}<p>
+<p>Sub tuum praesídium confúgimus Sancta Dei Génitrix</p>
+<p>Sub tuum praesídium confúgimus Sancta {Dei Génitrix}</p>
 <p>under thy patronage {we fly} holy {Mother of God}</p>
 <p>Under thy patronage we fly, O Holy Mother of God</p>
 </div>
