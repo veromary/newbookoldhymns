@@ -8,7 +8,7 @@ gloss: true
 quizlet: https://quizlet.com/_3qt2wt
 ---
 
-This one is a gem. [Maternal Heart](http://maternalheart.org.au) has a bit of a Franciscan background along with it's Benedictine tendencies. The first priest was a Franciscan and setting up the community co-incided with some Franciscan feasts and novenas to St Francis. Each year about this time they have a novena to st Francis which includes this hymn.
+This one is a gem. [Maternal Heart](http://maternalheart.org) has a bit of a Franciscan background along with it's Benedictine tendencies. The first priest was a Franciscan and setting up the community co-incided with some Franciscan feasts and novenas to St Francis. Each year about this time they have a novena to st Francis which includes this hymn.
 
 When compiling this hymnbook, this hymn seemed virtually unknown outside Assisi. Providentially I met another Franciscan with some Latin skills who helped with this translation.
 
