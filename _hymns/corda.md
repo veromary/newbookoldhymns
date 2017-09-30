@@ -12,6 +12,8 @@ This one is a gem. [Maternal Heart](http://maternalheart.org) has a bit of a Fra
 
 When compiling this hymnbook, this hymn seemed virtually unknown outside Assisi. Providentially I met another Franciscan with some Latin skills who helped with this translation.
 
+For those who understand some Italian [This Snippet](https://www.youtube.com/watch?v=DAMCPfv1OME) seems to give some background to the hymn. Looks like a Rite of Corda Pia - a liturgical celebration of the Stigmata of St Francis.
+
 The word-for-word translation below is my own rough work to give some idea. The last line in each block is the better translation.
 
 <div data-gloss>
