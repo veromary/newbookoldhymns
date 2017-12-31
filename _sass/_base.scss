@@ -193,7 +193,8 @@ pre {
  */
 .icon {
 
-    > svg {
+//  > a {
+
         display: inline-block;
         width: 16px;
         height: 16px;
@@ -202,5 +203,6 @@ pre {
         path {
             fill: $grey-color;
         }
-    }
+	color: $grey-color;
+//    }
 }
