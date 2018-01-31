@@ -7,7 +7,12 @@ pageno: 11
 video: https://www.youtube.com/watch?v=Z7NVutXwX5Q
 quizlet: https://quizlet.com/_4ddvga
 crossword: lumen.pdf
+img: candles.jpg
 ---
+
+The Antiphon and Canticle of Simeon for the feast of Candlemas or the Purification of the Blessed Virgin Mary (or the Presentation of Jesus - not to be confused with the circumcision which was 8 days after Christmas on 1 January)
+
+Also known as Chandeleur in France with lots of Crepes.
 
 This one is easy to translate - just look for Luke 2:29-32.
 
