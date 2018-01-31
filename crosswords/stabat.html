@@ -72,25 +72,25 @@
 		}
 	</style>
 	<script>
-		var res = [ "D", "O", "L", "O", "R", "O", "R", "O", "R", "A", "T", "E"
-		          , "M", "N", "P", "I", "V", "I", "D", "E", "L", "J", "M", "N"
-		          , "I", "U", "D", "E", "S", "U", "P", "E", "R", "E", "R", "A"
-		          , "E", "G", "R", "A", "G", "N", "U", "S", "N", "U", "B", "E"
-		          , "S", "S", "T", "E", "M", "A", "E", "C", "C", "E", "R", "Q"
-		          , "L", "M", "A", "C", "I", "T", "O", "U", "U", "I", "R", "A"
-		          , "A", "A", "S", "T", "I", "E", "U", "R", "T", "T", "S", "A"
-		          , "L", "V", "A", "B", "O", "T", "E", "U", "E", "I", "I", "A"
-		          ];
+		var res = [ "V", "I", "D", "I", "T", "G", "L", "A", "D", "I", "U", "S"
+		          , "O", "F", "N", "F", "O", "N", "S", "U", "E", "P", "E", "I"
+		          , "M", "L", "V", "C", "O", "N", "T", "R", "I", "S", "T", "A"
+		          , "R", "I", "F", "S", "N", "X", "L", "A", "M", "O", "R", "I"
+		          , "S", "C", "E", "E", "R", "T", "S", "T", "A", "R", "E", "R"
+		          , "D", "S", "U", "O", "V", "E", "R", "E", "T", "P", "T", "A"
+		          , "M", "A", "R", "A", "T", "B", "T", "S", "S", "A", "I", "N"
+		          , "C", "L", "I", "T", "I", "D", "I", "G", "N", "A", "T", "I"
+		          , "S", "M"];
 
-		var num = [ 13, -1, -1, -1, -1, -1, 12, -1, -1, -1, 6, -1
-		          , -1, 4, 7, -1, 11, -1, -1, -1, -1, 5, -1, -1
-		          , -1, -1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1
-		          , -1, -1, -1, 3, -1, -1, -1, -1, 10, -1, -1, -1
-		          , 16, -1, -1, -1, -1, -1, 15, -1, -1, -1, -1, 9
-		          , -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1
-		          , -1, -1, -1, -1, -1, -1, 14, -1, -1, -1, 8, -1
-		          , -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
-		          ];
+		var num = [ 15, -1, 13, -1, -1, 8, -1, -1, -1, 5, -1, -1
+		          , -1, 6, -1, 16, -1, -1, -1, -1, 3, -1, -1, -1
+		          , -1, -1, 7, 4, -1, -1, -1, -1, -1, -1, -1, -1
+		          , -1, -1, 12, -1, -1, -1, -1, 2, -1, -1, -1, -1
+		          , -1, -1, -1, -1, -1, -1, 14, -1, -1, -1, -1, -1
+		          , -1, 9, -1, -1, 11, -1, -1, -1, -1, 17, -1, 1
+		          , -1, -1, -1, -1, -1, -1, -1, 19, 20, -1, 18, -1
+		          , -1, -1, -1, -1, -1, 10, -1, -1, -1, -1, -1, -1
+		          , -1, -1];
 
 		var locked = new Array();
 		for(i = 0; i < res.length; i++) locked[i] = false;
@@ -174,228 +174,228 @@
 			<td colspan="2">
 				<table class="crossword">
 					<tr>
-						<td class="empty"></td>
-						<td class="letter" id="l0" onclick="clickfun(this, 0);"><div class="num">13</div></td>
+						<td class="letter" id="l0" onclick="clickfun(this, 0);"><div class="num">15</div></td>
 						<td class="letter" id="l1" onclick="clickfun(this, 1);"></td>
-						<td class="letter" id="l2" onclick="clickfun(this, 2);"></td>
+						<td class="letter" id="l2" onclick="clickfun(this, 2);"><div class="num">13</div></td>
 						<td class="letter" id="l3" onclick="clickfun(this, 3);"></td>
 						<td class="letter" id="l4" onclick="clickfun(this, 4);"></td>
 						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-					</tr>
-					<tr>
-						<td class="empty"></td>
-						<td class="letter" id="l5" onclick="clickfun(this, 5);"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="letter" id="l6" onclick="clickfun(this, 6);"><div class="num">12</div></td>
+						<td class="letter" id="l5" onclick="clickfun(this, 5);"><div class="num">8</div></td>
+						<td class="letter" id="l6" onclick="clickfun(this, 6);"></td>
 						<td class="letter" id="l7" onclick="clickfun(this, 7);"></td>
 						<td class="letter" id="l8" onclick="clickfun(this, 8);"></td>
-						<td class="letter" id="l9" onclick="clickfun(this, 9);"></td>
-						<td class="letter" id="l10" onclick="clickfun(this, 10);"><div class="num">6</div></td>
+						<td class="letter" id="l9" onclick="clickfun(this, 9);"><div class="num">5</div></td>
+						<td class="letter" id="l10" onclick="clickfun(this, 10);"></td>
 						<td class="letter" id="l11" onclick="clickfun(this, 11);"></td>
+						<td class="empty"></td>
 					</tr>
 					<tr>
+						<td class="empty"></td>
 						<td class="empty"></td>
 						<td class="letter" id="l12" onclick="clickfun(this, 12);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l13" onclick="clickfun(this, 13);"><div class="num">4</div></td>
 						<td class="empty"></td>
-						<td class="letter" id="l14" onclick="clickfun(this, 14);"><div class="num">7</div></td>
-						<td class="empty"></td>
+						<td class="letter" id="l13" onclick="clickfun(this, 13);"><div class="num">6</div></td>
 						<td class="empty"></td>
 						<td class="empty"></td>
 						<td class="empty"></td>
 						<td class="empty"></td>
+						<td class="letter" id="l14" onclick="clickfun(this, 14);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l15" onclick="clickfun(this, 15);"></td>
+						<td class="empty"></td>
 						<td class="empty"></td>
 					</tr>
 					<tr>
-						<td class="letter" id="l16" onclick="clickfun(this, 16);"><div class="num">11</div></td>
+						<td class="letter" id="l15" onclick="clickfun(this, 15);"><div class="num">16</div></td>
+						<td class="letter" id="l16" onclick="clickfun(this, 16);"></td>
 						<td class="letter" id="l17" onclick="clickfun(this, 17);"></td>
 						<td class="letter" id="l18" onclick="clickfun(this, 18);"></td>
+						<td class="empty"></td>
 						<td class="letter" id="l19" onclick="clickfun(this, 19);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l20" onclick="clickfun(this, 20);"></td>
+						<td class="letter" id="l20" onclick="clickfun(this, 20);"><div class="num">3</div></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l21" onclick="clickfun(this, 21);"></td>
 						<td class="empty"></td>
 						<td class="empty"></td>
 						<td class="empty"></td>
+					</tr>
+					<tr>
 						<td class="empty"></td>
-						<td class="letter" id="l21" onclick="clickfun(this, 21);"><div class="num">5</div></td>
 						<td class="empty"></td>
 						<td class="letter" id="l22" onclick="clickfun(this, 22);"></td>
 						<td class="empty"></td>
-					</tr>
-					<tr>
 						<td class="empty"></td>
 						<td class="letter" id="l23" onclick="clickfun(this, 23);"></td>
 						<td class="empty"></td>
 						<td class="letter" id="l24" onclick="clickfun(this, 24);"></td>
 						<td class="empty"></td>
+						<td class="empty"></td>
 						<td class="letter" id="l25" onclick="clickfun(this, 25);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l26" onclick="clickfun(this, 26);"><div class="num">2</div></td>
-						<td class="letter" id="l27" onclick="clickfun(this, 27);"></td>
+						<td class="letter" id="l26" onclick="clickfun(this, 26);"><div class="num">7</div></td>
+						<td class="empty"></td>
+					</tr>
+					<tr>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l27" onclick="clickfun(this, 27);"><div class="num">4</div></td>
 						<td class="letter" id="l28" onclick="clickfun(this, 28);"></td>
 						<td class="letter" id="l29" onclick="clickfun(this, 29);"></td>
 						<td class="letter" id="l30" onclick="clickfun(this, 30);"></td>
 						<td class="letter" id="l31" onclick="clickfun(this, 31);"></td>
 						<td class="letter" id="l32" onclick="clickfun(this, 32);"></td>
-					</tr>
-					<tr>
-						<td class="empty"></td>
 						<td class="letter" id="l33" onclick="clickfun(this, 33);"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l34" onclick="clickfun(this, 34);"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l35" onclick="clickfun(this, 35);"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l36" onclick="clickfun(this, 36);"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l37" onclick="clickfun(this, 37);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l38" onclick="clickfun(this, 38);"></td>
+					</tr>
+					<tr>
+						<td class="empty"></td>
+						<td class="letter" id="l38" onclick="clickfun(this, 38);"><div class="num">12</div></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l39" onclick="clickfun(this, 39);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l40" onclick="clickfun(this, 40);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l41" onclick="clickfun(this, 41);"></td>
 						<td class="empty"></td>
 					</tr>
 					<tr>
 						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="letter" id="l39" onclick="clickfun(this, 39);"><div class="num">3</div></td>
-						<td class="letter" id="l40" onclick="clickfun(this, 40);"></td>
-						<td class="letter" id="l41" onclick="clickfun(this, 41);"></td>
 						<td class="letter" id="l42" onclick="clickfun(this, 42);"></td>
-						<td class="letter" id="l43" onclick="clickfun(this, 43);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l44" onclick="clickfun(this, 44);"><div class="num">10</div></td>
+						<td class="letter" id="l43" onclick="clickfun(this, 43);"><div class="num">2</div></td>
+						<td class="letter" id="l44" onclick="clickfun(this, 44);"></td>
 						<td class="letter" id="l45" onclick="clickfun(this, 45);"></td>
 						<td class="letter" id="l46" onclick="clickfun(this, 46);"></td>
 						<td class="letter" id="l47" onclick="clickfun(this, 47);"></td>
-						<td class="letter" id="l48" onclick="clickfun(this, 48);"><div class="num">16</div></td>
-					</tr>
-					<tr>
-						<td class="empty"></td>
-						<td class="empty"></td>
+						<td class="letter" id="l48" onclick="clickfun(this, 48);"></td>
 						<td class="empty"></td>
 						<td class="letter" id="l49" onclick="clickfun(this, 49);"></td>
 						<td class="empty"></td>
 						<td class="letter" id="l50" onclick="clickfun(this, 50);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l51" onclick="clickfun(this, 51);"></td>
+					</tr>
+					<tr>
 						<td class="empty"></td>
+						<td class="letter" id="l51" onclick="clickfun(this, 51);"></td>
 						<td class="empty"></td>
 						<td class="letter" id="l52" onclick="clickfun(this, 52);"></td>
 						<td class="empty"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l53" onclick="clickfun(this, 53);"></td>
-					</tr>
-					<tr>
 						<td class="empty"></td>
-						<td class="letter" id="l54" onclick="clickfun(this, 54);"><div class="num">15</div></td>
+						<td class="letter" id="l53" onclick="clickfun(this, 53);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l54" onclick="clickfun(this, 54);"><div class="num">14</div></td>
 						<td class="letter" id="l55" onclick="clickfun(this, 55);"></td>
 						<td class="letter" id="l56" onclick="clickfun(this, 56);"></td>
 						<td class="letter" id="l57" onclick="clickfun(this, 57);"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l58" onclick="clickfun(this, 58);"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="letter" id="l59" onclick="clickfun(this, 59);"><div class="num">9</div></td>
-						<td class="empty"></td>
-						<td class="letter" id="l60" onclick="clickfun(this, 60);"></td>
 					</tr>
 					<tr>
 						<td class="empty"></td>
-						<td class="letter" id="l61" onclick="clickfun(this, 61);"></td>
+						<td class="letter" id="l59" onclick="clickfun(this, 59);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l60" onclick="clickfun(this, 60);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l61" onclick="clickfun(this, 61);"><div class="num">9</div></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
 						<td class="empty"></td>
 						<td class="letter" id="l62" onclick="clickfun(this, 62);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l63" onclick="clickfun(this, 63);"><div class="num">1</div></td>
-						<td class="letter" id="l64" onclick="clickfun(this, 64);"></td>
+						<td class="letter" id="l63" onclick="clickfun(this, 63);"></td>
+						<td class="empty"></td>
+					</tr>
+					<tr>
+						<td class="letter" id="l64" onclick="clickfun(this, 64);"><div class="num">11</div></td>
 						<td class="letter" id="l65" onclick="clickfun(this, 65);"></td>
 						<td class="letter" id="l66" onclick="clickfun(this, 66);"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l67" onclick="clickfun(this, 67);"></td>
 						<td class="empty"></td>
 						<td class="letter" id="l68" onclick="clickfun(this, 68);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l69" onclick="clickfun(this, 69);"><div class="num">17</div></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
 					</tr>
 					<tr>
-						<td class="empty"></td>
-						<td class="letter" id="l69" onclick="clickfun(this, 69);"></td>
 						<td class="empty"></td>
 						<td class="letter" id="l70" onclick="clickfun(this, 70);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l71" onclick="clickfun(this, 71);"></td>
-						<td class="empty"></td>
+						<td class="letter" id="l71" onclick="clickfun(this, 71);"><div class="num">1</div></td>
 						<td class="letter" id="l72" onclick="clickfun(this, 72);"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l73" onclick="clickfun(this, 73);"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l74" onclick="clickfun(this, 74);"></td>
+						<td class="letter" id="l75" onclick="clickfun(this, 75);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
 					</tr>
 					<tr>
 						<td class="empty"></td>
-						<td class="letter" id="l75" onclick="clickfun(this, 75);"></td>
+						<td class="empty"></td>
 						<td class="empty"></td>
 						<td class="letter" id="l76" onclick="clickfun(this, 76);"></td>
 						<td class="empty"></td>
 						<td class="letter" id="l77" onclick="clickfun(this, 77);"></td>
 						<td class="empty"></td>
+						<td class="letter" id="l78" onclick="clickfun(this, 78);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l78" onclick="clickfun(this, 78);"><div class="num">14</div></td>
 						<td class="empty"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l79" onclick="clickfun(this, 79);"></td>
+						<td class="letter" id="l79" onclick="clickfun(this, 79);"><div class="num">19</div></td>
 						<td class="empty"></td>
-						<td class="letter" id="l80" onclick="clickfun(this, 80);"></td>
+						<td class="letter" id="l80" onclick="clickfun(this, 80);"><div class="num">20</div></td>
 					</tr>
 					<tr>
 						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
 						<td class="letter" id="l81" onclick="clickfun(this, 81);"></td>
 						<td class="empty"></td>
-						<td class="letter" id="l82" onclick="clickfun(this, 82);"><div class="num">8</div></td>
+						<td class="letter" id="l82" onclick="clickfun(this, 82);"><div class="num">18</div></td>
 						<td class="letter" id="l83" onclick="clickfun(this, 83);"></td>
 						<td class="letter" id="l84" onclick="clickfun(this, 84);"></td>
 						<td class="letter" id="l85" onclick="clickfun(this, 85);"></td>
 						<td class="letter" id="l86" onclick="clickfun(this, 86);"></td>
 						<td class="letter" id="l87" onclick="clickfun(this, 87);"></td>
 						<td class="letter" id="l88" onclick="clickfun(this, 88);"></td>
-						<td class="letter" id="l89" onclick="clickfun(this, 89);"></td>
-						<td class="letter" id="l90" onclick="clickfun(this, 90);"></td>
-						<td class="empty"></td>
-						<td class="letter" id="l91" onclick="clickfun(this, 91);"></td>
 					</tr>
 					<tr>
-						<td class="empty"></td>
+						<td class="letter" id="l89" onclick="clickfun(this, 89);"><div class="num">10</div></td>
+						<td class="letter" id="l90" onclick="clickfun(this, 90);"></td>
+						<td class="letter" id="l91" onclick="clickfun(this, 91);"></td>
 						<td class="letter" id="l92" onclick="clickfun(this, 92);"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l93" onclick="clickfun(this, 93);"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l94" onclick="clickfun(this, 94);"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
-						<td class="empty"></td>
 						<td class="letter" id="l95" onclick="clickfun(this, 95);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l96" onclick="clickfun(this, 96);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l97" onclick="clickfun(this, 97);"></td>
 					</tr>
 				</table>
 				<p class="center">
@@ -409,31 +409,32 @@
 			<td>
 				<h2>Across</h2>
 				<ul>
-					<li>1 - quickly</li>
-					<li>3 - lamb</li>
-					<li>2 - from above</li>
-					<li>8 - I will save thee (7,2)</li>
-					<li>10 - clouds</li>
-					<li>11 - see</li>
-					<li>12 - drip ye</li>
-					<li>15 - behold</li>
-					<li>13 - sadness</li>
+					<li>1 - Bitter, </li>
+					<li>2 - Of love </li>
+					<li>4 - To sympathise </li>
+					<li>8 - Sword</li>
+					<li>10 - Having dared </li>
+					<li>11 - Truely </li>
+					<li>14 - To stand, </li>
+					<li>15 - She/he/it has seen/ she saw </li>
+					<li>16 - Fount</li>
+					<li>18 - Famous</li>
 				</ul>
 			</td>
 			<td>
 				<h2>Down</h2>
 				<ul>
-					<li>2 - desert</li>
-					<li>4 - don't be angry (2,9)</li>
-					<li>5 - yoke</li>
-					<li>6 - to fear</li>
-					<li>7 - they rain</li>
-					<li>9 - why</li>
-					<li>1 - heavens</li>
-					<li>13 - O Lord</li>
-					<li>14 - where</li>
-					<li>15 - send forth</li>
-					<li>16 - thy salvation (5,3)</li>
+					<li>2 - Burn </li>
+					<li>3 - let out/released </li>
+					<li>5 - In pain </li>
+					<li>6 - She/he/it was </li>
+					<li>7 - I shall have lived </li>
+					<li>9 - Was standing. </li>
+					<li>12 - Was crying/cry </li>
+					<li>13 - As long as/until</li>
+					<li>17 - To suffer </li>
+					<li>19 - May you </li>
+					<li>20 - May I / let me </li>
 				</ul>
 			</td>
 		</tr>

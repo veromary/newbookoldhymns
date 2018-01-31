@@ -27,7 +27,7 @@
 	  <li><a href="{{ page.video }}"><i class="icon-video"></i> video</a> (external link)</li>
 	  {% endif %}
 	  {% if page.crossword %}
-	  <li><a href="{{ site.baseurl }}/crosswords/{{ page.crossword }}"><i class="icon-edit"></i> Crossword Puzzle (pdf)</a></li>
+	  <li><a href="{{ site.baseurl }}/crosswords/{{ page.crossword }}"><i class="icon-edit"></i> Crossword Puzzle (pdf)</a> plus a shorter web <a href="{{ site.baseurl }}/crosswords/{{ page.crossword | replace: "pdf", "html" }}"><i class="icon-edit"></i> Online Crossword Puzzle (html)</a> </li>
 	  {% endif %}
 	  {% if page.quizlet %}
 	  <li><a href="{{ page.quizlet }}"><i class="icon-lightbulb"></i>Quizlet set (external link)</a></li>

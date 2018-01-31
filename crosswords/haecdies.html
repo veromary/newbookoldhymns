@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Crossword</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<style>
+		#layout {
+			width : 90%;
+			border : 1px solid black;
+			border-collapse : collapse;
+			margin : auto;
+		}
+
+		.crossword {
+			margin : auto;
+			margin-top : 20px;
+			border-collapse : collapse;
+		}
+
+		.crossword tr td {
+			width : 30px;
+			height : 30px;
+		}
+
+		.letter {
+			border : 1px solid black;
+			background-color : white;
+			text-align : center;
+		}
+
+		.num {
+			font-size : 8px;
+			width : 0px;
+			height : 0px;
+			position : relative;
+			top : -6px;
+		}
+
+		.clues {
+			border : 1px solid black;
+			border-collapse : collapse;
+			width : 90%;
+			margin : auto;
+		}
+
+		.clues td {
+			border : 1px solid black;
+			vertical-align: top;
+			width : 45%;
+		}
+
+		.clues td h2 {
+			text-align: center;
+		}
+
+		.clues td ul {
+			list-style-type : none;
+			padding : 8px 8px 8px 8px;
+			text-align : justify;
+		}
+
+		.empty {
+			background-color : white;
+		}
+
+		.dark {
+			background-color : black;
+		}
+
+		.center {
+			text-align : center;
+		}
+	</style>
+	<script>
+		var res = [ "F", "E", "D", "I", "E", "S", "X", "O", "C", "L", "Q", "U"
+		          , "A", "M", "I", "N", "E", "A", "L", "I", "T", "E", "E", "T"
+		          , "N", "T", "E", "U", "H", "A", "E", "C", "M", "S", "M", "U"
+		          , "U", "S", "R"];
+
+		var num = [ 5, 3, 2, -1, -1, -1, -1, -1, -1, 7, 1, -1
+		          , -1, -1, 6, -1, -1, -1, -1, -1, -1, -1, 4, -1
+		          , -1, -1, -1, -1, 8, -1, -1, -1, -1, -1, -1, -1
+		          , -1, -1, -1];
+
+		var locked = new Array();
+		for(i = 0; i < res.length; i++) locked[i] = false;
+
+		var selected = null;
+		var selecnum = -1;
+
+		function clickfun(o, i){
+			if(selected != null) selected.style.backgroundColor =  "white";
+			selected = null;
+			selecnum = -1;
+			if(!locked[i]){
+				selected = o;
+				selecnum = i;
+				o.style.backgroundColor = "#DDDDDD";
+			}
+		}
+
+		function setletter(e){
+			if(selected != null){
+				code = e.charCode;
+				if(code >= 97) code = code - 97 + 65;
+				if(code >= 65 && code <= 90){
+					if(num[selecnum] == -1)
+						selected.innerHTML = String.fromCharCode(code);
+					else
+						selected.innerHTML = "<div class=\"num\">" + num[selecnum]
+							+ "</div>" + String.fromCharCode(code);
+					selected.style.backgroundColor = "white";
+					selected = null;
+					selecnum = -1;
+				}
+			}
+		}
+
+		function docheck(){
+			for(i = 0; i < res.length; i++){
+				str = document.getElementById('l' + i).innerHTML;
+				if(str != "" && str != "<div class=\"num\">" + num[i] + "</div>"){
+					if(str == res[i] || str == "<div class=\"num\">" + num[i] + "</div>" + res[i]){
+						locked[i] = true;
+						document.getElementById('l' + i).style.backgroundColor = "#00DD00"
+					} else {
+						document.getElementById('l' + i).style.backgroundColor = "#DD0000"
+					}
+				}
+			}
+		}
+
+		function solve(){
+			for(i = 0; i < res.length; i++){
+				if(num[i] == -1)
+					document.getElementById('l' + i).innerHTML = res[i];
+				else
+					document.getElementById('l' + i).innerHTML = "<div class=\"num\">"
+						+ num[i] + "</div>" + res[i]
+				document.getElementById('l' + i).style.backgroundColor = "#00DD00"
+			}
+			selected = null;
+			selecnum = -1;
+		}
+
+		function reinit(){
+			for(i = 0; i < res.length; i++){
+				if(num[i] == -1)
+					document.getElementById('l' + i).innerHTML = "";
+				else
+					document.getElementById('l' + i).innerHTML = "<div class=\"num\">"
+						+ num[i] + "</div>"
+				document.getElementById('l' + i).style.backgroundColor = "white"
+				locked[i] = false;
+			}
+			selected = null;
+			selecnum = -1;
+		}
+	</script>
+</head>
+<body onkeypress="setletter(event);">
+	<table id="layout">
+		<tr>
+			<td colspan="2">
+				<table class="crossword">
+					<tr>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l0" onclick="clickfun(this, 0);"><div class="num">5</div></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+					</tr>
+					<tr>
+						<td class="empty"></td>
+						<td class="letter" id="l1" onclick="clickfun(this, 1);"><div class="num">3</div></td>
+						<td class="empty"></td>
+						<td class="letter" id="l2" onclick="clickfun(this, 2);"><div class="num">2</div></td>
+						<td class="letter" id="l3" onclick="clickfun(this, 3);"></td>
+						<td class="letter" id="l4" onclick="clickfun(this, 4);"></td>
+						<td class="letter" id="l5" onclick="clickfun(this, 5);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+					</tr>
+					<tr>
+						<td class="empty"></td>
+						<td class="letter" id="l6" onclick="clickfun(this, 6);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l7" onclick="clickfun(this, 7);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l8" onclick="clickfun(this, 8);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l9" onclick="clickfun(this, 9);"><div class="num">7</div></td>
+						<td class="empty"></td>
+					</tr>
+					<tr>
+						<td class="letter" id="l10" onclick="clickfun(this, 10);"><div class="num">1</div></td>
+						<td class="letter" id="l11" onclick="clickfun(this, 11);"></td>
+						<td class="letter" id="l12" onclick="clickfun(this, 12);"></td>
+						<td class="letter" id="l13" onclick="clickfun(this, 13);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l14" onclick="clickfun(this, 14);"><div class="num">6</div></td>
+						<td class="letter" id="l15" onclick="clickfun(this, 15);"></td>
+						<td class="letter" id="l16" onclick="clickfun(this, 16);"></td>
+						<td class="letter" id="l17" onclick="clickfun(this, 17);"></td>
+						<td class="empty"></td>
+					</tr>
+					<tr>
+						<td class="empty"></td>
+						<td class="letter" id="l18" onclick="clickfun(this, 18);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l19" onclick="clickfun(this, 19);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l20" onclick="clickfun(this, 20);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l21" onclick="clickfun(this, 21);"></td>
+						<td class="empty"></td>
+					</tr>
+					<tr>
+						<td class="letter" id="l22" onclick="clickfun(this, 22);"><div class="num">4</div></td>
+						<td class="letter" id="l23" onclick="clickfun(this, 23);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l24" onclick="clickfun(this, 24);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l25" onclick="clickfun(this, 25);"></td>
+						<td class="empty"></td>
+					</tr>
+					<tr>
+						<td class="empty"></td>
+						<td class="letter" id="l26" onclick="clickfun(this, 26);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l27" onclick="clickfun(this, 27);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l28" onclick="clickfun(this, 28);"><div class="num">8</div></td>
+						<td class="letter" id="l29" onclick="clickfun(this, 29);"></td>
+						<td class="letter" id="l30" onclick="clickfun(this, 30);"></td>
+						<td class="letter" id="l31" onclick="clickfun(this, 31);"></td>
+					</tr>
+					<tr>
+						<td class="empty"></td>
+						<td class="letter" id="l32" onclick="clickfun(this, 32);"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l33" onclick="clickfun(this, 33);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l34" onclick="clickfun(this, 34);"></td>
+						<td class="empty"></td>
+					</tr>
+					<tr>
+						<td class="empty"></td>
+						<td class="letter" id="l35" onclick="clickfun(this, 35);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l36" onclick="clickfun(this, 36);"></td>
+						<td class="empty"></td>
+					</tr>
+					<tr>
+						<td class="empty"></td>
+						<td class="letter" id="l37" onclick="clickfun(this, 37);"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="empty"></td>
+						<td class="letter" id="l38" onclick="clickfun(this, 38);"></td>
+						<td class="empty"></td>
+					</tr>
+				</table>
+				<p class="center">
+					<input type="button" value="Check"onclick="docheck();"/>
+					<input type="button" value="Solve"onclick="solve();"/>
+					<input type="button" value="Reinit"onclick="reinit();"/>
+				</p>
+			</td>
+		</tr>
+		<tr class="clues">
+			<td>
+				<h2>Across</h2>
+				<ul>
+					<li>1 - which</li>
+					<li>2 - day</li>
+					<li>4 - and</li>
+					<li>6 - in this</li>
+					<li>8 - this</li>
+				</ul>
+			</td>
+			<td>
+				<h2>Down</h2>
+				<ul>
+					<li>2 - the Lord</li>
+					<li>3 - let us exult</li>
+					<li>5 - he has made</li>
+					<li>7 - let us rejoice</li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

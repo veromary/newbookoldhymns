@@ -13,6 +13,13 @@ cwg
 - sort with:
         sort temp > sorted
 
+- web output requires first word to be in ALL CAPS
+          First word capitalized:
+          echo "aBcDe fGh" | sed 's/^[^ ]*/\U&\E/'
+          will print ABCDE fGh
+
+
+
 genxword 
 ========
 
