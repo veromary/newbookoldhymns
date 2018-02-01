@@ -17,3 +17,6 @@ A fairly recent hymn, one of the better known of the book.
 [Quizlet set](https://quizlet.com/_2tdbtz)
 
 [crossword]({{ site.baseurl }}/crossword/adeste.pdf)
+
+
+
