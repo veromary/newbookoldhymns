@@ -1,40 +1,225 @@
-\documentclass{article}
-\usepackage{dvgloss}
+\documentclass[a4paper,oldfontcommands]{memoir}
+\usepackage[british,latin]{babel}
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+\setmainfont[Numbers=OldStyle]{Linux Libertine O}
+\usepackage{covington} % for glosses
 \usepackage[autocompile]{gregoriotex}
-\usepackage{sverb}
+
+\usepackage{cwpuzzle}
+\usepackage{framed}
+\usepackage{adjustbox}
+
+\renewcommand\PuzzleClueFont{\rm\normalsize}
 
 \begin{document}
 
+\chapter{Introduction}
+
+A knowledge of Latin, however superficial, is not needed 
+for Catholic worship. Millions of Catholics, young and 
+old, without this knowledge assist at Mass and other offices 
+most devoutly and profitably to their souls, accompanying 
+the public ritual with prayers in their own language 
+adapted to their various conditions. Nevertheless, to those 
+whose education admits ot it, an acquaintance with those 
+portions of the Latin Liturgy which are in most frequent 
+public use, must ever be a legitimate and worthy object of 
+interest ; and that such an interest largely exists among 
+the Faithful is shown by the multiplication, in various 
+countries, of Missals and Prayer-books containing the 
+Latin and Vernacular side by side. 
+
+The aim of the Catholic's Latin Instructor is simple 
+enough. It does not profess to teach Latin as such, but 
+only so far as the Church offices are concerned, and, as 
+regards these, only up to a certain point. It has seemed 
+to the Author that without setting to work as though 
+a whole language had to be acquired, a sufficient familiarity 
+with this small amount of Latin might be attained 
+by a special course of exercises directly restricted 
+to the end in view, and dealing with grammatical rules 
+and their exceptions as little as possible. And if it be 
+asked what kind of persons might be likely to derive 
+benefit from such a book, the Author would reply that he 
+has chiefly had in his mind the following classes of 
+Catholics. Such are, first, those who form the great body 
+of our choirs, and whose singing, based as it is for the 
+most part on a general notion of sentences as wholes, too 
+often betrays an insufficient appreciation of the several 
+words; secondly, that large class of persons who, while 
+provided with Missals and Prayer-books abounding in 
+Latin text and side-by-side translations, yet from want 
+of a very little practical insight fail to derive from 
+these manuals the advantages intended. Others there 
+are, thirdly, devout persons of either sex, who might 
+greatly profit by the occasional use of Latin prayers ; but 
+are restrained (and ladies especially) by an idea that in 
+order to this they must first have a complete knowledge 
+of Latin. Such a bugbear for it is little else will, 
+let us hope, quickly yield to a steady practice of the 
+present Exercises. 
+
+Fourthly, and most especially, there is the increasing 
+multitude of children now in course of education in our 
+Catholic Mission schools. Very many of these have 
+already learnt to read English with extraordinary facility, 
+and their minds are instinctively on the look-out for some 
+new object. It is to be hoped that, as Latin is one of the 
+extra subjects now proposed by the Education Department, 
+the study of it will soon find a settled place in our ele 
+mentary school course ; in which case Catholics will enjoy, 
+in the living character of the language as used in the 
+Church oifices, a great and singular advantage. But in 
+the meanwhile what better food for the mind can we offer 
+to our children than the simple translation from Latin 
+into English after a method easy alike to girls or boys 
+of what they constantly hear and often join in singing in 
+church ? And if from the dogmatic character of such a 
+selection (which is indeed its best recommendation), it is 
+inadmissible within the school-time proper, as fixed for 
+schools in connection with Government ; it would none 
+the less be found serviceable in the time set apart for 
+religious instruction, or as a Catholic supplement to 
+secular Latin. To the Author s mind it is impossible to 
+reckon up the benefits that would flow to the Catholic 
+Church of our country, from the introduction of Latin 
+thus, or similarly supplemented, into the Mission School ; 
+amongst which, considering that so much lies in a mere 
+beginning, not the least would undoubtedly be the increase 
+of vocations to the sacred ministry itself. 
+
+The present work, compiled in furtherance of the views 
+here expressed, consists of two Parts : Part I. containing 
+Benediction, the choir portions of Mass, the Serving at 
+Mass, and various Latin prayers in ordinary use ; Part II. 
+comprising additional portions of the Mass, Requiem Mass, 
+Litany of the Saints, Vespers, Compline, and other offices 
+and devotions, with a short Grammar and Vocabulary. 
+
+The two Parts together are intended to form one volume, 
+although Part L, as being a kind of Catholic Latin Primer, 
+is likewise published separately : and it is hoped that by 
+their aid many who have never had the advantage of a 
+classical education may attain such an acquaintance with 
+the language 01 the Church, as to be able to follow 
+intelligently not only the selection here made, but also 
+other portions of the Catholic Ritual. 
+
+\chapter{Hymns}
+
+At the close of each day comes the hour of Compline. In the Benedictine tradition this is designed to be sung from memory. It closes with one of the four Marian Antiphons varying according to season.
+
+\section{Alma Redemptoris Mater}
+
 \gregorioscore{gabc/an--alma_redemptoris_simple_tone--solesmes}
 
-\begin{quotation}
-\gl{Alma Redemptoris Mater}
-{Beloved {of the Redeemer} Mother}
-\ft{Beloved Mother of the Redeemer}
-\end{quotation}
+%\begin{quotation}
+\gll Alma Redemptoris Mater quae pervia caeli porta manes, 
+Beloved {of the Redeemer} Mother who open {of heaven} door abidest, 
+\glt Beloved Mother of the Redeemer who abidest the open door of heaven
+\glend
+%\end{quotation}
 
-\gl{quae pervia caeli porta manes, et stella maris}
-{who open {of heaven} door abidest, and star {of the sea}}
-\ft{who abidest the open door of heaven and star of the sea}
+\gll Et stella maris, succurre cadenti, surgere qui curat populo:
+and star {of the sea} {give succour} falling {to rise} who strives people
+\glt  and star of the sea give succour to a falling people who strives to rise
+\glend
 
-\begin{demo}[w]
-\gl{succurre cadenti surgere qui curat populo}
-{{give succour} falling {to rise} who strives people}
-\ft{give succour to a falling people who strives to rise}
-\end{demo}
+\gll Tu quae genuisti, natura mirante, tuum sanctum Genitorem:
+thou who {gavest birth to} nature wondering thy holy Father
+\glt thou who, nature wondering, gavest birth to thy own holy Father
+\glend
 
-\gl{tu quae genuisti, natura mirante, tuum sanctum Genitorem}
-{thou who {gavest birth to} nature wondering thy holy Father}
-\ft{thou who, nature wondering, gavest birth to thy own holy Father}
+\gll Virgo prius, ac posterius, Gabrielis ab ore, sumens illud Ave, peccatorum miserere.
+Virgin before and after {of Gabriel} from mouth receiving that Ave, {on sinners} {have pity}
+\glt Virgin before and after, receiving that Ave from the mouth of Gabriel, have pity on sinners.
+\glend
 
-\gl{Virgo prius, ac posterius, Gabrielis ab ore, sumens illud Ave,}
-{Virgin before and after {of Gabriel} from mouth receiving that Ave,}
-\ft{Virgin before and after, receiving that Ave from the mouth of Gabriel,}
+\begin{adjustbox}{center}
+\begin{Puzzle}{20}{20}
+  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |[9]s|{}  |{}  |{}  |{}  |{}  |{}  |.
+  |{}  |[21]m|{}  |[16]g|{}  |{}  |{}  |{}  |{}  |{}  |{}  |[10]c|u   |r   |a   |t   |{}  |{}  |{}  |.
+  |{}  |i   |{}  |e   |{}  |[13]m|[8]a|n   |e   |s   |{}  |{}  |r   |{}  |{}  |{}  |[23]e|{}  |[14]p|.
+  |{}  |r   |{}  |n   |{}  |{}  |l   |{}  |{}  |{}  |{}  |{}  |g   |{}  |{}  |{}  |[][b]t   |{}  |r   |.
+  |{}  |a   |{}  |i   |{}  |{}  |m   |{}  |{}  |{}  |{}  |[11]g|e   |n   |u   |i   |s   |t   |i   |.
+  |{}  |[15]n|a   |t   |u   |r   |[][b]a   |{}  |{}  |{}  |{}  |{}  |r   |{}  |{}  |{}  |t   |{}  |u   |.
+  |{}  |t   |{}  |o   |{}  |{}  |m   |{}  |{}  |{}  |[3]c|[2]a|e   |l   |i   |{}  |e   |{}  |s   |.
+  |{}  |e   |{}  |r   |{}  |[20]m|a   |r   |i   |s   |{}  |[][b]c   |{}  |{}  |{}  |{}  |l   |{}  |{}  |.
+  |{}  |{}  |[7]G|{}  |{}  |{}  |t   |{}  |{}  |{}  |{}  |p   |{}  |{}  |{}  |{}  |l   |{}  |{}  |.
+  |{}  |{}  |a   |{}  |{}  |[4]p|e   |c   |c   |a   |t   |o   |r   |u   |m   |{}  |a   |{}  |{}  |.
+  |{}  |{}  |b   |{}  |{}  |{}  |r   |{}  |{}  |{}  |{}  |s   |{}  |{}  |{}  |{}  |{}  |{}  |{}  |.
+  |[18]p|o   |r   |t   |a   |{}  |{}  |{}  |{}  |{}  |{}  |t   |{}  |{}  |[19]m|{}  |{}  |{}  |{}  |.
+  |o   |{}  |i   |{}  |{}  |{}  |{}  |{}  |[1]c|[5]a|d   |e   |n   |t   |i   |{}  |{}  |{}  |{}  |.
+  |p   |{}  |e   |{}  |{}  |{}  |{}  |{}  |{}  |[][b]b   |{}  |r   |{}  |{}  |s   |{}  |{}  |{}  |{}  |.
+  |u   |{}  |l   |{}  |{}  |{}  |{}  |[12]v|{}  |o   |{}  |i   |{}  |{}  |e   |{}  |{}  |{}  |{}  |.
+  |l   |{}  |i   |{}  |{}  |{}  |{}  |i   |{}  |r   |{}  |u   |{}  |{}  |r   |{}  |{}  |{}  |{}  |.
+  |o   |{}  |[6]s|u   |c   |c   |u   |r   |r   |e   |{}  |[17]s|u   |m   |e   |n   |s   |{}  |{}  |.
+  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |g   |{}  |{}  |{}  |{}  |{}  |{}  |r   |{}  |{}  |{}  |{}  |.
+  |[22]r|e   |d   |e   |m   |p   |t   |o   |r   |i   |s   |{}  |{}  |{}  |e   |{}  |{}  |{}  |{}  |.
+\end{Puzzle}
+\end{adjustbox}
+\begin{PuzzleClues}{\textbf{Across:}}
+  \Clue{1}{cadenti}{falling}
+  \Clue{3}{caeli}{of heaven}
+  \Clue{4}{peccatorum}{on sinners}
+  \Clue{6}{succurre}{give succour}
+  \Clue{10}{curat}{strives}
+  \Clue{11}{genuisti}{gave birth}
+  \Clue{13}{manes}{abidest}
+  \Clue{15}{natura}{nature}
+  \Clue{17}{sumens}{receiving}
+  \Clue{18}{porta}{door}
+  \Clue{20}{maris}{of the sea}
+  \Clue{22}{redemptoris}{of the redeemer}
+\end{PuzzleClues}
+\begin{PuzzleClues}{\textbf{Down:}}
+  \Clue{2}{acposterius}{and after}
+  \Clue{5}{abore}{from the mouth}
+  \Clue{7}{Gabrielis}{of Gabriel}
+  \Clue{8}{almamater}{o sweet mother}
+  \Clue{9}{surgere}{to rise}
+  \Clue{12}{virgo}{O virgin}
+  \Clue{14}{prius}{before}
+  \Clue{16}{genitor}{father}
+  \Clue{19}{miserere}{have mercy}
+  \Clue{21}{mirante}{wondering}
+  \Clue{18}{populo}{to a people}
+  \Clue{23}{etstella}{and star}
+\end{PuzzleClues}
 
-\gl{peccatorum miserere}
-{{on sinners} {have pity}}
-\ft{have pity on sinners}
+\begin{framed}
+ab ore - ac posterius - alma mater - cadenti - caeli - curat - et stella - Gabrielis - genitor - genuisti - manes   - maris
+- mirante - miserere - natura - peccatorum - populo - porta - prius - redemptoris - succurre - sumens - surgere - virgo
+\end{framed}
 
+\chapter{Solutions}
 
+\section{Alma Redemptoris Mater}
+
+\begin{adjustbox}{center}
+\PuzzleSolution
+\begin{Puzzle}{20}{20}
+  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |[9]s|{}  |{}  |{}  |{}  |{}  |{}  |.
+  |{}  |[21]m|{}  |[16]g|{}  |{}  |{}  |{}  |{}  |{}  |{}  |[10]c|u   |r   |a   |t   |{}  |{}  |{}  |.
+  |{}  |i   |{}  |e   |{}  |[13]m|[8]a|n   |e   |s   |{}  |{}  |r   |{}  |{}  |{}  |[23]e|{}  |[14]p|.
+  |{}  |r   |{}  |n   |{}  |{}  |l   |{}  |{}  |{}  |{}  |{}  |g   |{}  |{}  |{}  |t   |{}  |r   |.
+  |{}  |a   |{}  |i   |{}  |{}  |m   |{}  |{}  |{}  |{}  |[11]g|e   |n   |u   |i   |s   |t   |i   |.
+  |{}  |[15]n|a   |t   |u   |r   |a   |{}  |{}  |{}  |{}  |{}  |r   |{}  |{}  |{}  |t   |{}  |u   |.
+  |{}  |t   |{}  |o   |{}  |{}  |m   |{}  |{}  |{}  |[3]c|[2]a|e   |l   |i   |{}  |e   |{}  |s   |.
+  |{}  |e   |{}  |r   |{}  |[20]m|a   |r   |i   |s   |{}  |c   |{}  |{}  |{}  |{}  |l   |{}  |{}  |.
+  |{}  |{}  |[7]G|{}  |{}  |{}  |t   |{}  |{}  |{}  |{}  |p   |{}  |{}  |{}  |{}  |l   |{}  |{}  |.
+  |{}  |{}  |a   |{}  |{}  |[4]p|e   |c   |c   |a   |t   |o   |r   |u   |m   |{}  |a   |{}  |{}  |.
+  |{}  |{}  |b   |{}  |{}  |{}  |r   |{}  |{}  |{}  |{}  |s   |{}  |{}  |{}  |{}  |{}  |{}  |{}  |.
+  |[18]p|o   |r   |t   |a   |{}  |{}  |{}  |{}  |{}  |{}  |t   |{}  |{}  |[19]m|{}  |{}  |{}  |{}  |.
+  |o   |{}  |i   |{}  |{}  |{}  |{}  |{}  |[1]c|[5]a|d   |e   |n   |t   |i   |{}  |{}  |{}  |{}  |.
+  |p   |{}  |e   |{}  |{}  |{}  |{}  |{}  |{}  |b   |{}  |r   |{}  |{}  |s   |{}  |{}  |{}  |{}  |.
+  |u   |{}  |l   |{}  |{}  |{}  |{}  |[12]v|{}  |o   |{}  |i   |{}  |{}  |e   |{}  |{}  |{}  |{}  |.
+  |l   |{}  |i   |{}  |{}  |{}  |{}  |i   |{}  |r   |{}  |u   |{}  |{}  |r   |{}  |{}  |{}  |{}  |.
+  |o   |{}  |[6]s|u   |c   |c   |u   |r   |r   |e   |{}  |[17]s|u   |m   |e   |n   |s   |{}  |{}  |.
+  |{}  |{}  |{}  |{}  |{}  |{}  |{}  |g   |{}  |{}  |{}  |{}  |{}  |{}  |r   |{}  |{}  |{}  |{}  |.
+  |[22]r|e   |d   |e   |m   |p   |t   |o   |r   |i   |s   |{}  |{}  |{}  |e   |{}  |{}  |{}  |{}  |.
+\end{Puzzle}
+\end{adjustbox}
 
 \end{document}
