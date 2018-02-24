@@ -15,7 +15,7 @@ gloss: true
 </div>
 
 <div data-gloss>
-<p>Quae pandis ostium caeli</p><p>
+<p>Quae pandis ostium caeli</p>
 <p>quae pandis ostium caeli</p><p>
 who openest {the gate} {of heaven}</p>
 <p>opening the gate of heaven</p>
@@ -47,6 +47,7 @@ give strength bring help</p>
 <p>Sit sempiterna gloria</p>
 <p>sit sempiterna gloria</p><p>
 be everlasting glory</p>
+<p>be everlasting glory</p>
 </div>
 
 <div data-gloss>
