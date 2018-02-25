@@ -7,6 +7,8 @@ video: https://www.youtube.com/watch?v=ExNIxKsGTn8
 gloss: true
 ---
 
+The last two verses of [Pange Lingua](http://www.brandt.id.au/newbookoldhymns/hymns/pangelingua.html) are often sung at Benediction of the Blessed Sacrament - usually at the conclusion of exposition, just before the actual Benediction.
+
 <div data-gloss>
 <p>Tantum ergo Sacramentum veneremur cernui</p>
 <p>Tantum ergo Sacramentum veneremur cernui</p>
@@ -30,4 +32,24 @@ gloss: true
 
 <hr>
 
-Genitori Genitoque...
+<div data-gloss>
+<p>Genitori, Genitoque Laus et iubilatio,</p>
+<p>Genitori, Genitoque Laus et iubilatio,</p>
+<p>{to the Father,} {also to the Son} praise and jubilation</p>
+<p>Praise and Jubilation to the Father and the Son</p>
+</div>
+
+<div data-gloss>
+<p>Salus, honor, virtus quoque Sit et benedictio:</p>
+<p>Salus, honor, virtus quoque Sit et benedictio:</p>
+<p>{health/salvation} honour power also be and blessing</p>
+<p>Salvation, honour and power be, and blessing</p>
+</div>
+
+<div data-gloss>
+<p>Procedenti ab utroque Compar sit laudatio.</p>
+<p>Procedenti ab utroque Compar sit laudatio.</p>
+<p>{to him who proceedeth} from both equal be laudation</p>
+<p>praise be to him who proceedeth from both</p>
+</div>
+
