@@ -63,4 +63,18 @@ But I confess that you are my God.
 Make me believe much more in you,
 Hope in you, and love you.</p>
 </div>
-
+<div data-gloss>
+<p>O memoriale mortis Domini,
+Panis vivus, vitam præstans homini,
+Præsta meæ menti de te vívere,
+Et te illi semper dulce sapere.</p>
+<p>O memoriale mortis Domini,
+Panis vivus, vitam præstans homini,
+Præsta meæ menti de te vívere,
+Et te illi semper dulce sapere.</p>
+<p>O memorial {of the death} {of the Lord} bread {of life} life providing {to men} supply {to my} mind of thy {to live} and thee something always sweet {to know}</p>
+<p>O memorial of our Lord's death,
+Living bread that gives life to man,
+Grant my soul to live on you,
+And always to savor your sweetness.</p>
+</div>
