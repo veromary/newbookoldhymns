@@ -4,6 +4,7 @@ layout: hymn
 sheet: adorote.pdf
 lesson: 19
 pageno: 38
+gloss: true
 ---
 
 Thomas Aquinas is the Best!
