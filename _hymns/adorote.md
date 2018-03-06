@@ -19,18 +19,18 @@ My whole heart submits to you,
 And in contemplating you, It surrenders itself completely.</p>
 </div>
 <div data-gloss>
-<p>Visus, tactus, gustus in te fallitur,
-Sed auditu solo tuto creditur.
-Credo quidquid dixit Dei Filius;
+<p>Visus, tactus, gustus in te fallitur,\\
+Sed auditu solo tuto creditur.\\
+Credo quidquid dixit Dei Filius;\\
 Nil hoc verbo veritátis verius.</p>
 <p>Visus, tactus, gustus in te fallitur,
 Sed auditu solo tuto creditur.
 Credo quidquid dixit Dei Filius;
 Nil hoc verbo veritátis verius.</p>
-<p>Seeing touching tasting in thee fail but hearing alone all {be believed} I believe anything said {by God} {the Son} nothing this word truth true</p>
-<p>Sight, touch, taste are all deceived in their judgment of you,
-But hearing suffices firmly to believe.
-I believe all that the Son of God has spoken;
+<p>Seeing touching tasting in thee fail but hearing alone all {be believed} {I believe} anything said {by God} {the Son} nothing this word truth true</p>
+<p>Sight, touch, taste are all deceived in their judgment of you,\\
+But hearing suffices firmly to believe.\\
+I believe all that the Son of God has spoken;\\
 There is nothing truer than this word of truth.</p>
 </div>
 <div data-gloss>
@@ -48,3 +48,19 @@ But here the humanity is also hidden.
 Yet believing and confessing both,
 I ask for what the penitent thief asked.</p>
 </div>
+<div data-gloss>
+<p>Plagas, sicut Thomas, non intueor:
+Deum tamen meum te confiteor.
+Fac me tibi semper magis credere,
+In te spem habere, te diligere.</p>
+<p>Plagas, sicut Thomas, non intueor:
+Deum tamen meum te confiteor.
+Fac me tibi semper magis credere,
+In te spem habere, te diligere.</p>
+<p>wounds, like Thomas, not {I look at} God however my thee {I confess} make me {to thee} always greatly {to believe} in thee hope {to have} thee {to love}</p>
+<p>I do not see the wounds as Thomas did,
+But I confess that you are my God.
+Make me believe much more in you,
+Hope in you, and love you.</p>
+</div>
+
