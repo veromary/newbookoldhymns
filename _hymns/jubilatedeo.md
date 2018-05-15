@@ -7,6 +7,7 @@ lesson: 13
 pageno: 27
 gloss: true
 quizlet: https://quizlet.com/_4i8uun
+crossword: jubilate.pdf
 ---
 
 Five part round.
