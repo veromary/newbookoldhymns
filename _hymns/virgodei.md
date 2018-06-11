@@ -5,6 +5,7 @@ sheet: virgodei.pdf
 lesson: 25
 gloss: true
 video: https://www.youtube.com/watch?v=kzM9z1BHT2s
+quizlet: https://quizlet.com/_4zgxca
 ---
 
 <div data-gloss>
