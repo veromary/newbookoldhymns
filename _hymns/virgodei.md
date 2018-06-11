@@ -36,7 +36,7 @@ and thy virginity inviolate remains
 </p>
 </div>
 <div data-gloss>
-3. Te matrem pietatis, opem te clamitat orbis:
+<p>3. Te matrem pietatis, opem te clamitat orbis:
 Subvenias famulis, O benedicta, tuis.
 </p>
 <p>Te matrem pietatis, opem te orbis clamitat
