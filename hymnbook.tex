@@ -16,10 +16,10 @@
 
 \font\bigtype = hmin10 scaled \magstep2
 \font\Bigtype = hmin17 scaled \magstep2
-%\font\musicaps = KingXmas scaled \magstep5
-%\font\textcaps = KingXmas scaled \magstep4
-%\font\musicaps = Romantik scaled 3000
-%\font\textcaps = Romantik scaled \magstep5
+%\font\musicaps = {name:Kingthings Versalis} scaled \magstep5
+%\font\textcaps = {name:Kingthings Versalis} scaled \magstep4
+%\font\musicaps = {name:Vectis Bold} scaled 3000
+%\font\textcaps = {name:Vectis Bold} scaled \magstep5
 %\font\musicaps = Lombardic scaled 3000
 %\font\textcaps = Lombardic scaled \magstep5
 %\font\musicaps = priory scaled \magstep5
@@ -39,9 +39,12 @@
 %%%
 %Lulu 6x9 version
 \special{papersize=5.95in,8.95in}
-\pdfpagewidth=6in
-\pdfpageheight=9in
-
+%\pdfpagewidth=6in
+%\pdfpageheight=9in
+\pagewidth=6in % the width of each page
+\pageheight=9in % the height of each page
+\def\setpage{\hsize\pagewidth\vsize\pageheight}
+\setpage
 
 %I had trouble getting lulu to recognise 6in*9in
 
@@ -58,9 +61,9 @@
 %\voffset-.25in
 
 %%a5 version 
-\special{papersize=148mm,210mm}
-\pdfpagewidth=148mm
-\pdfpageheight=210mm
+%\special{papersize=148mm,210mm}
+%\pdfpagewidth=148mm
+%\pdfpageheight=210mm
 
 %\hoffset-1.5mm
 %\voffset-7mm
@@ -278,11 +281,13 @@ on the internet.  For links see www.brandt.id.au.
 
 %\bigskip
 
-%\pdfximage width 50mm {papab16.pdf}
-\pdfximage width 50mm {PopeFrancis.pdf}
+%\saveimageresource width 50mm {papab16.pdf}
+%\pdfximage width 50mm {PopeFrancis.pdf}
+\saveimageresource width 50mm {PopeFrancis.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+%\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 %\centerline{\epsfxsize=50mm \epsfbox{papab16.eps}}
 
@@ -334,10 +339,10 @@ on the internet.  For links see www.brandt.id.au.
 
 
 
-\pdfximage width 20mm {ihs.pdf}
+\saveimageresource width 20mm {ihs.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize2cm\epsfbox{ihs.eps}}
@@ -364,10 +369,10 @@ on the internet.  For links see www.brandt.id.au.
 
 \bigskip
 
-\pdfximage width 15mm {candle.pdf}
+\saveimageresource width 15mm {candle.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize1.5cm\epsfbox{candle.eps}}
@@ -409,10 +414,10 @@ on the internet.  For links see www.brandt.id.au.
 
 \bigskip
 
-\pdfximage width 50mm {fishbread.pdf}
+\saveimageresource width 50mm {fishbread.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize5cm\epsfbox{fishbread.eps}}
@@ -426,10 +431,10 @@ on the internet.  For links see www.brandt.id.au.
 
 \bigskip
 
-\pdfximage width 50mm {hostchalice.pdf}
+\saveimageresource width 50mm {hostchalice.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize5cm\epsfbox{hostchalice.eps}}
@@ -447,10 +452,10 @@ on the internet.  For links see www.brandt.id.au.
 
 \bigskip
 
-\pdfximage width 50mm {crucifixion.pdf}
+\saveimageresource width 50mm {crucifixion.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize5cm\epsfbox{crucifixion.eps}}
@@ -490,10 +495,10 @@ on the internet.  For links see www.brandt.id.au.
 
 \bigskip
 
-\pdfximage width 30mm {lamb.pdf}
+\saveimageresource width 30mm {lamb.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize3cm\epsfbox{lamb.eps}}
@@ -513,10 +518,10 @@ on the internet.  For links see www.brandt.id.au.
 
 \bigskip
 
-\pdfximage width 80mm {holyghost.pdf}
+\saveimageresource width 80mm {holyghost.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize8cm\epsfbox{holyghost.eps}}
@@ -610,10 +615,10 @@ on the internet.  For links see www.brandt.id.au.
 
 \bigskip
 
-\pdfximage width 60mm {stfrancis.pdf}
+\saveimageresource width 60mm {stfrancis.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize6cm\epsfbox{stfrancis.eps}}
@@ -631,10 +636,10 @@ on the internet.  For links see www.brandt.id.au.
 
 \bigskip
 
-\pdfximage width 50mm {purgatory.pdf}
+\saveimageresource width 50mm {purgatory.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize5cm\epsfbox{purgatory.eps}}
@@ -693,10 +698,10 @@ on the internet.  For links see www.brandt.id.au.
 
 \bigskip
 
-\pdfximage width 60mm {annun.pdf}
+\saveimageresource width 60mm {annun.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize6cm\epsfbox{annun.eps}}
@@ -720,10 +725,10 @@ on the internet.  For links see www.brandt.id.au.
 
 \bigskip
 
-\pdfximage width 30mm {lily.pdf}
+\saveimageresource width 30mm {lily.pdf}
 %\pdfrefximage \pdflastximage
 
-\centerline{\pdfrefximage \pdflastximage}
+\centerline{\useimageresource \lastsavedimageresourceindex}
 
 
 %\centerline{\epsfxsize3cm\epsfbox{lily.eps}}
