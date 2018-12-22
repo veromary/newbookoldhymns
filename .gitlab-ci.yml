@@ -1,0 +1,19 @@
+image: ruby:2.3  # Use Ruby Docker image
+
+cache:  # Add Bundler cache to 'vendor' directory
+  paths:
+    - vendor/
+
+before_script:  # Install Gems to 'vendor' directory
+  - bundle install --path vendor
+
+pages:
+  stage: deploy
+  script:  # Generate public site and deploy
+  - bundle exec jekyll build -d public
+  artifacts:  # Save a zipped version for download
+    paths:
+    - public
+  only:  # Only deploy the master branch
+  - gh-pages
+  
