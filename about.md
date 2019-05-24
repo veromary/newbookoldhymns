@@ -27,6 +27,12 @@ Contents
 Download
 ========
 
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-gumroad-product-id="JZEWi" data-outbound-embed="true"><a href="https://gumroad.com/l/JZEWi">Loading...</a></div>
+
+
+
+
 <div style="max-width: 500px; margin: 0 auto">
 <script data-selz-a="modal" data-selz-cb="374fa1" data-selz-chbg="374fa1" data-selz-w="http://selz.co/VyRKtLLC$" data-text="Get it now">
 if (typeof _$elz === "undefined") { var _$elz = {}; }
