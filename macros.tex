@@ -85,9 +85,11 @@
 
 \def\namebook#1{\def\booktitle{#1}}
 
-\def\righthead{\hfil{\smallcaps \botmark}\hfil \rlap{\hskip10mm\oldstyle\folio}}
+%\def\righthead{\hfil{\smallcaps \botmark}\hfil \rlap{\hskip10mm\oldstyle\folio}}
+\def\righthead{\hfil{\smallcaps \botmark}\hfil \llap{\hskip10mm\oldstyle\folio}}
 
-\def\lefthead{\llap{\oldstyle\folio\hskip10mm} \hfil {\smallcaps \botmark} \hfil}
+%\def\lefthead{\llap{\oldstyle\folio\hskip10mm} \hfil {\smallcaps \botmark} \hfil}
+\def\lefthead{\rlap{\oldstyle\folio\hskip10mm} \hfil {\smallcaps \botmark} \hfil}
 
 \headline{\ifnum\pageno<0 \hfill \else \ifodd\pageno \righthead \else \lefthead \fi \fi}
 
