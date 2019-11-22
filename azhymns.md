@@ -29,10 +29,10 @@ Alphabetical Index of Hymns
 </ul>
 
 Legend: 
-<i class="icon-flow-parallel"></i> = includes an interlinear gloss of the text
-<i class="icon-doc-text"></i> = pdf excerpt from A New Book of Old Hymns
-<i class="icon-youtube-play"></i> = external link to online video (usually youtube)
-<i class="icon-puzzle-o"></i> = pdf crossword puzzle
-<i class="icon-lightbulb"></i> = external link to quizlet set
-
+<i class="icon-flow-parallel"></i> = includes an interlinear gloss of the text.
+<i class="icon-doc-text"></i> = pdf excerpt from A New Book of Old Hymns.
+<i class="icon-youtube-play"></i> = external link to online video (usually youtube).
+<i class="icon-puzzle-o"></i> = pdf crossword puzzle.
+<i class="icon-lightbulb"></i> = external link to quizlet set.
+<i class="icon-spotify"></i> = Spotify playlist of commercial recordings.
 
