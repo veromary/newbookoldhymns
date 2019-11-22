@@ -7,6 +7,7 @@ gloss: true
 video: https://www.youtube.com/watch?v=kzM9z1BHT2s
 quizlet: https://quizlet.com/_4zgxca
 crossword: virgodei.pdf
+spotify: 5F03OIrCYRbsRhJadKUyjq
 ---
 
 <div data-gloss>

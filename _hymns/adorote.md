@@ -5,6 +5,7 @@ sheet: adorote.pdf
 lesson: 19
 pageno: 38
 gloss: true
+spotify: 30i6MTd6F5RgKFzXS3YEuA
 ---
 
 Thomas Aquinas is the Best!

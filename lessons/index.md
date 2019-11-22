@@ -14,7 +14,7 @@ Some translations taken from [Catholic's Latin Instructor by Fr E Caswall](http:
 ### Term 1 - with a Lenten flavour
 
 <ol>
-{% assign items = (site.hymns | sort: 'lesson') %}
+{% assign items = site.hymns | sort: 'lesson' %}
 {% for item in items %}
 {% if item.lesson %}
 {% if item.lesson == 11 %}
