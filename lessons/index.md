@@ -46,7 +46,7 @@ Some translations taken from [Catholic's Latin Instructor by Fr E Caswall](http:
 	  {% if item.video %}
  <a href="{{ item.video }}"><i class="icon-youtube-play"></i></a>
 	  {% endif %}
-          {% if hymns.spotify %}
+          {% if item.spotify %}
  <a href="https://open.spotify.com/playlist/{{ hymns.spotify }}"><i class="icon-spotify"></i></a>
           {% endif %}
 	  {% if item.crossword %}
