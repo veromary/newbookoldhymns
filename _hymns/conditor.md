@@ -7,6 +7,7 @@ quizlet: https://quizlet.com/_2pl0wk
 video: https://www.youtube.com/watch?v=wc2vV-v802s
 lesson: 34
 gloss: true
+spotify: 26rHaaRN36IvQDPl02Izda
 ---
 
 # Conditor Alme Siderum

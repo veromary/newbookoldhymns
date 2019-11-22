@@ -6,6 +6,7 @@ lesson: 27
 video: https://youtu.be/LNXCMgjRxJ4
 gloss: true
 quizlet: https://quizlet.com/_3obegt
+spotify: 2zix0imeyukt2Buq0fE5cf
 ---
 
 Lots of versions of this round:

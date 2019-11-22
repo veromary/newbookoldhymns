@@ -3,6 +3,7 @@ title: Oremus pro Pontifice
 layout: hymn
 sheet: oremus.pdf
 pageno: 0
+spotify: 3etZanqRz9Z3GluCb8EQuy
 ---
 
 As an historical record, here are the pages from earlier editions featuring 
