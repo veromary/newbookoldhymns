@@ -14,7 +14,7 @@ Some translations taken from [Catholic's Latin Instructor by Fr E Caswall](http:
 ### Term 1 - with a Lenten flavour
 
 <ol>
-{% assign items = (site.hymns | sort: 'lesson') %}
+{% assign items = site.hymns | sort: 'lesson' %}
 {% for item in items %}
 {% if item.lesson %}
 {% if item.lesson == 11 %}
@@ -39,15 +39,18 @@ Some translations taken from [Catholic's Latin Instructor by Fr E Caswall](http:
 <ol>
 {% endif %}
 
-<li><a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }} {% if item.gloss %}<i class="icon-star"></i>{% endif %} </a> -- 
+<li><a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }} {% if item.gloss %}<i class="icon-flow-parallel"></i>{% endif %} </a> -- 
 	  {% if item.sheet %}
- <a href="{{ site.baseurl }}/excerpts/{{ item.sheet }}"><i class="icon-music-alt"></i></a> 
+ <a href="{{ site.baseurl }}/excerpts/{{ item.sheet }}"><i class="icon-doc-text"></i></a> 
 	  {% endif %}
 	  {% if item.video %}
- <a href="{{ item.video }}"><i class="icon-video"></i></a>
+ <a href="{{ item.video }}"><i class="icon-youtube-play"></i></a>
 	  {% endif %}
+          {% if item.spotify %}
+ <a href="https://open.spotify.com/playlist/{{ item.spotify }}"><i class="icon-spotify"></i></a>
+          {% endif %}
 	  {% if item.crossword %}
-  <a href="{{ site.baseurl }}/crosswords/{{ item.crossword }}"><i class="icon-edit"></i></a>
+  <a href="{{ site.baseurl }}/crosswords/{{ item.crossword }}"><i class="icon-puzzle-o"></i></a>
 	  {% endif %}
 	  {% if item.quizlet %}
   <a href="{{ item.quizlet }}"><i class="icon-lightbulb"></i></a>
@@ -59,10 +62,10 @@ Some translations taken from [Catholic's Latin Instructor by Fr E Caswall](http:
 
 
 Legend: 
-<i class="icon-star"></i> = includes an interlinear gloss of the text
-<i class="icon-music-alt"></i> = pdf excerpt from A New Book of Old Hymns
-<i class="icon-video"></i> = external link to online video (usually youtube)
-<i class="icon-edit"></i> = pdf crossword puzzle
-<i class="icon-lightbulb"></i> = external link to quizlet set
-
+<i class="icon-flow-parallel"></i> = includes an interlinear gloss of the text.
+<i class="icon-doc-text"></i> = pdf excerpt from A New Book of Old Hymns.
+<i class="icon-youtube-play"></i> = external link to online video (usually youtube).
+<i class="icon-puzzle-o"></i> = pdf crossword puzzle.
+<i class="icon-lightbulb"></i> = external link to quizlet set.
+<i class="icon-spotify"></i> = Spotify playlist of commercial recordings.
 

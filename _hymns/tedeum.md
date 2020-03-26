@@ -4,6 +4,7 @@ layout: hymn
 sheet: tedeum.pdf
 video: https://www.youtube.com/watch?v=c_gcJc1MmCQ
 pageno: 72
+spotify: 5DLBY25KJGa8Xy27hTlmaO
 ---
 
 The Te Deum - the classic hymn for Thanksgiving. One story had St Ambrose spontaneously singing it in thanks for the end of a siege. Another for the baptism of St Augustine. The *Historical Companion to Hymns Ancient and Modern* says "it is now accredited to Nicetas, bishop of Remesiana; (4th century)"

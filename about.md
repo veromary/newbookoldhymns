@@ -7,8 +7,7 @@ permalink: /about/
 Get your copy
 =============
 
-* in paperback through [createspace](https://www.createspace.com/4919900) (enter code FZS3YC7B for 10% off), 
-* [A5 paperback](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns/paperback/product-22569619.html), [spiral bound](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns-spiral-bound/paperback/product-22569618.html) and [large print](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns-large-print/paperback/product-22569622.html) through lulu.  
+* Available in [paperback](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns/paperback/product-22569619.html), [spiral bound](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns-spiral-bound/paperback/product-22569618.html) and [large print](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns-large-print/paperback/product-22569622.html) through lulu.
 * It’s also available through [Amazon](https://www.amazon.com/New-Book-Old-Hymns/dp/1502395509).  
 
 The source code is up at [Github](http://github.com/veromary/newbookoldhymns).
@@ -26,6 +25,7 @@ Contents
 
 Download
 ========
+
 
 <div style="max-width: 500px; margin: 0 auto">
 <script data-selz-a="modal" data-selz-cb="374fa1" data-selz-chbg="374fa1" data-selz-w="http://selz.co/VyRKtLLC$" data-text="Get it now">

@@ -7,6 +7,7 @@ quizlet: https://quizlet.com/_38b91v
 page: 18
 crossword: ubicaritas.pdf
 video: https://youtu.be/amLyP_goHFo
+spotify: 2MFL2ZcgwZ0tQ1hCOR9B7V
 ---
 
 Whether you like Ubi Caritas _est vera_ or Ubi caritas _et amor_ this is a beautiful piece.

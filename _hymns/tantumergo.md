@@ -25,8 +25,8 @@ The last two verses of [Pange Lingua](http://www.brandt.id.au/newbookoldhymns/hy
 
 <div data-gloss> 
 <p>praestet fides supplementum sensuum defectui</p>
-<p>praestet fides supplementum sensuum defectui</p>
-<p>{let he/she/it offer} faith {a supply} {of the senses} {for the deficiency}</p>
+<p>praestet fides supplementum defectui sensuum</p>
+<p>{let he/she/it offer} faith {a supply} {for the deficiency} {of the senses}</p>
 <p>Let faith supply for the deficiency of the senses.</p>
 </div>
 

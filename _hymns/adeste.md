@@ -6,6 +6,7 @@ sheet: adeste.pdf
 quizlet: https://quizlet.com/_2tdbtz
 video: https://youtu.be/B1bLxrZEy4g
 lesson: 39
+spotify: 0nducKz1Fev7MTXOoR4o0c
 ---
 
 [Adeste Fideles 1 page pdf]({{ site.baseurl }}/excerpts/adeste.pdf)

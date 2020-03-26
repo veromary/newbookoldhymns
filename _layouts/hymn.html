@@ -21,20 +21,28 @@
 
 	  <ul>
 	  {% if page.sheet %}
-	  <li><a href="{{ site.baseurl }}/excerpts/{{ page.sheet }}"><i class="icon-music-alt"></i> excerpt from A New Book of Old Hymns</a> (pdf)</li>
+	  <li><a href="{{ site.baseurl }}/excerpts/{{ page.sheet }}"><i class="icon-doc-text"></i> excerpt from A New Book of Old Hymns</a> (pdf)</li>
 	  {% endif %}
 	  {% if page.video %}
-	  <li><a href="{{ page.video }}"><i class="icon-video"></i> video</a> (external link)</li>
+	  <li><a href="{{ page.video }}"><i class="icon-youtube-play"></i> video</a> (external link)</li>
 	  {% endif %}
 	  {% if page.crossword %}
-	  <li><a href="{{ site.baseurl }}/crosswords/{{ page.crossword }}"><i class="icon-edit"></i> Crossword Puzzle (pdf)</a> plus a shorter web <a href="{{ site.baseurl }}/crosswords/{{ page.crossword | replace: "pdf", "html" }}"><i class="icon-edit"></i> Online Crossword Puzzle (html)</a> </li>
+	  <li><a href="{{ site.baseurl }}/crosswords/{{ page.crossword }}"><i class="icon-puzzle-o"></i> Crossword Puzzle (pdf)</a> plus a shorter web <a href="{{ site.baseurl }}/crosswords/{{ page.crossword | replace: "pdf", "html" }}"><i class="icon-edit"></i> Online Crossword Puzzle (html)</a> </li>
 	  {% endif %}
 	  {% if page.quizlet %}
-	  <li><a href="{{ page.quizlet }}"><i class="icon-lightbulb"></i>Quizlet set (external link)</a></li>
+	  <li><a href="{{ page.quizlet }}"><i class="icon-lightbulb"></i> Quizlet set (external link)</a></li>
 	  {% endif %}
+	  {% if page.spotify %}
+	  <li><a href="https://open.spotify.com/playlist/{{ page.spotify }}"><i class="icon-spotify"></i> Spotify playlist (external link)</a></li>
+          {% endif %}
 	  </ul>
 
     {{ content }}
+
+    {% if page.spotify %}
+    <iframe src="https://open.spotify.com/embed/playlist/{{ page.spotify }}" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    {% endif %}
+
   </div>
 
   {% include comments.html %}

@@ -9,7 +9,7 @@
 title: New Book of Old Hymns
 email: newbook@brandt.id.au
 description: A collection of Gregorian chant hymns plus extra related music making a handy collection in a little yellow paperback book with an Imprimatur.
-baseurl: "/newbookoldhymns"
+#baseurl: "/newbookoldhymns"
 url: ""
 facebook_username: newbookoldhymns
 github_username:  veromary

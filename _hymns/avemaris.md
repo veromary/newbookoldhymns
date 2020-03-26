@@ -8,6 +8,7 @@ pageno: 67
 video: https://www.youtube.com/watch?v=sdJ55DPsWhI
 quizlet: https://quizlet.com/_3l63sj
 crossword: avemaris.pdf
+spotify: 3ZLAiRW4kXgy7joBxKX7Fi
 ---
 
 The beautiful hymn to the Blessed Virgin Mary. The only one considered so perfect to be left untouched by the humanist reforms of Pope Urban.
