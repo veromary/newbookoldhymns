@@ -7,14 +7,21 @@ lesson: 21
 quizlet: https://quizlet.com/_dw0nt
 pageno: 61
 gloss: true
-crossword: salve13.pdf
+crossword: salve.pdf
+podcast: https://anchor.fm/s/e38cd50/podcast/play/16736089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-18%2F3773649f-c9db-490d-0a10-d576d3a70cba.mp3
 ---
 
 Simple Roman Salve Regina - the [Marian Antiphon]({{ site.url }}{{ site.baseurl }}/2017/03/08/marian-antiphons.html) for "Ordinary Time" or Time after Pentecost.
 
-I taught this vocabulary a few years ago with [This Collection of Resources](http://www.kidschant.com/salve/index.html)
+About 2014 I taught this over a few lessons and made graded crossword puzzles, learning a chunk of vocabulary each lesson. [Old Salve Files]({{ site.url }}{{ site.baseurl }}/salve/)
 
-I also put together a [Memrise Course](http://www.memrise.com/course/377696/salve-regina/)
+I also put together a [Memrise Course](http://www.memrise.com/course/377696/salve-regina/) :
+
+![Memrise Salve Regina]({{ site.url }}{{ site.baseurl }}/img/memrise-salve.jpg)
+
+
+Corpus Christi Watershed have a page with [12 Organ Accompaniments for the Simple Salve Regina](https://www.ccwatershed.org/2020/06/04/pdf-download-12-accompaniments-for-simple-salve-regina/) You're sure to find one you like there!
+
 
 <div data-gloss>
 <p>Salve Regina, mater misericordiae,
@@ -60,3 +67,8 @@ nobis post hoc exsilium ostende</p>
 <p>O clement, O loving, O sweet Virgin Mary.</p>
 </div>
 
+<h3>Vocabulary Quiz</h3>
+
+<iframe src="https://kidschant.com/wp-admin/admin-ajax.php?action=h5p_embed&id=44" width="846" height="238" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://kidschant.com/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<p>Here is <a href="{{ site.url }}{{ site.baseurl }}/salve/SalveReginaCertificate.pdf">A Certificate</a> you can print.</p>

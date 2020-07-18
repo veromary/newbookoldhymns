@@ -1,0 +1,6139 @@
+
+            
+ m          
+ e          
+ resurrexit 
+ u          
+ i          
+ s          
+ t          
+ i          
+            
+
+Dim: 10 by 8, Words: 2 out of 15, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+       m          
+ portare          
+       resurrexit 
+       u          
+       i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 8, Words: 3 out of 15, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+   l              
+   a              
+   e              
+   t              
+   a   m          
+ portare          
+   e   resurrexit 
+       u          
+       i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 12, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                     
+      l              
+ regina              
+      e              
+      t              
+      a   m          
+    portare          
+      e   resurrexit 
+          u          
+          i          
+          s          
+          t          
+          i          
+                     
+
+Dim: 19 by 12, Words: 5 out of 15, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                     
+  c                  
+  a   l              
+ regina              
+  l   e              
+  i   t              
+      a   m          
+    portare          
+      e   resurrexit 
+          u          
+          i          
+          s          
+          t          
+          i          
+                     
+
+Dim: 19 by 13, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                     
+      l              
+ regina              
+      e              
+      t              
+      a c m          
+    portare          
+      e e resurrexit 
+        l u          
+        i i          
+          s          
+          t          
+          i          
+                     
+
+Dim: 19 by 12, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+     c            
+     a            
+   l e            
+   a l            
+  regina          
+   t              
+   a   m          
+ portare          
+   e   resurrexit 
+       u          
+       i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 14, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+   l              
+   a              
+  regina          
+   t              
+   a c m          
+ portare          
+   e e resurrexit 
+     l u          
+     i i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 12, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+ caeli            
+    a             
+    e  m          
+ portare          
+    a  resurrexit 
+    r  u          
+    e  i          
+       s          
+       t          
+    regina        
+                  
+
+Dim: 16 by 10, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+     l m     c    
+ portare     a    
+   e e resurrexit 
+   g t u     l    
+   i a i     i    
+   n r s          
+   a e t          
+       i          
+                  
+
+Dim: 16 by 8, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+           l      
+           a   c  
+          regina  
+       m   t   e  
+ portare   a   l  
+       resurrexit 
+       u   e      
+       i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 11, Words: 6 out of 15, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+               
+        l      
+        a   c  
+       regina  
+    m   t   e  
+    e   a   l  
+    resurrexit 
+    u   e      
+    i          
+    s          
+ portare       
+    i          
+               
+
+Dim: 13 by 11, Words: 6 out of 15, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+            
+ m   p      
+ e   o r    
+ resurrexit 
+ u   t g    
+ i   a i    
+ s   r n    
+ t laetare  
+ i          
+            
+
+Dim: 10 by 8, Words: 5 out of 15, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+                
+     l m        
+ portare        
+     e r        
+     t u        
+     a i        
+     resurrexit 
+     e t        
+       i        
+                
+
+Dim: 14 by 8, Words: 4 out of 15, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+               
+  caeli        
+     a         
+     e         
+     t m       
+ portare       
+     r r       
+    resurrexit 
+    e  i       
+    g  s       
+   dixit       
+    n  i       
+    a          
+               
+
+Dim: 13 by 12, Words: 7 out of 15, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+            
+ p          
+ o     m    
+ resurrexit 
+ t   e r    
+ a   g u    
+ r  dixit c 
+ e   n s  a 
+    laetare 
+       i  l 
+          i 
+            
+
+Dim: 10 by 10, Words: 7 out of 15, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+               
+          m    
+          e    
+  V    p  r    
+  i    o  u    
+  resurrexit   
+  g i  t  s    
+  o c  a  t c  
+    u  regina  
+ laetare a  e  
+         u  l  
+         dixit 
+         e     
+               
+
+Dim: 13 by 12, Words: 10 out of 15, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+               
+     l         
+     a         
+     e         
+     t m       
+ portare       
+     r r       
+    resurrexit 
+    e  i       
+    g  s       
+   sicut       
+    n  i       
+    a          
+               
+
+Dim: 13 by 12, Words: 6 out of 15, Cross: 7, Mix: 2  Ratio: 140 Loose 0 
+
+            
+       m    
+ resurrexit 
+     e r    
+     g u    
+    dixit   
+     n s    
+    laetare 
+       i    
+            
+
+Dim: 10 by 8, Words: 5 out of 15, Cross: 6, Mix: 245  Ratio: 150 Loose 0 
+
+            
+ m          
+ e          
+ resurrexit 
+ u          
+ i          
+ s          
+ t          
+ i          
+            
+
+Dim: 10 by 8, Words: 2 out of 15, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+       m          
+ portare          
+       resurrexit 
+       u          
+       i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 8, Words: 3 out of 15, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+   l              
+   a              
+   e              
+   t              
+   a   m          
+ portare          
+   e   resurrexit 
+       u          
+       i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 12, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                     
+      l              
+ regina              
+      e              
+      t              
+      a   m          
+    portare          
+      e   resurrexit 
+          u          
+          i          
+          s          
+          t          
+          i          
+                     
+
+Dim: 19 by 12, Words: 5 out of 15, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                     
+  c                  
+  a   l              
+ regina              
+  l   e              
+  i   t              
+      a   m          
+    portare          
+      e   resurrexit 
+          u          
+          i          
+          s          
+          t          
+          i          
+                     
+
+Dim: 19 by 13, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                     
+      l              
+ regina              
+      e              
+      t              
+      a c m          
+    portare          
+      e e resurrexit 
+        l u          
+        i i          
+          s          
+          t          
+          i          
+                     
+
+Dim: 19 by 12, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+     c            
+     a            
+   l e            
+   a l            
+  regina          
+   t              
+   a   m          
+ portare          
+   e   resurrexit 
+       u          
+       i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 14, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+   l              
+   a              
+  regina          
+   t              
+   a c m          
+ portare          
+   e e resurrexit 
+     l u          
+     i i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 12, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+ caeli            
+    a             
+    e  m          
+ portare          
+    a  resurrexit 
+    r  u          
+    e  i          
+       s          
+       t          
+    regina        
+                  
+
+Dim: 16 by 10, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+     l m     c    
+ portare     a    
+   e e resurrexit 
+   g t u     l    
+   i a i     i    
+   n r s          
+   a e t          
+       i          
+                  
+
+Dim: 16 by 8, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+           l      
+           a   c  
+          regina  
+       m   t   e  
+ portare   a   l  
+       resurrexit 
+       u   e      
+       i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 11, Words: 6 out of 15, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+               
+        l      
+        a   c  
+       regina  
+    m   t   e  
+    e   a   l  
+    resurrexit 
+    u   e      
+    i          
+    s          
+ portare       
+    i          
+               
+
+Dim: 13 by 11, Words: 6 out of 15, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+            
+ m   p      
+ e   o r    
+ resurrexit 
+ u   t g    
+ i   a i    
+ s   r n    
+ t laetare  
+ i          
+            
+
+Dim: 10 by 8, Words: 5 out of 15, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+                
+     l m        
+ portare        
+     e r        
+     t u        
+     a i        
+     resurrexit 
+     e t        
+       i        
+                
+
+Dim: 14 by 8, Words: 4 out of 15, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+               
+  caeli        
+     a         
+     e         
+     t m       
+ portare       
+     r r       
+    resurrexit 
+    e  i       
+    g  s       
+   dixit       
+    n  i       
+    a          
+               
+
+Dim: 13 by 12, Words: 7 out of 15, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+            
+ p          
+ o     m    
+ resurrexit 
+ t   e r    
+ a   g u    
+ r  dixit c 
+ e   n s  a 
+    laetare 
+       i  l 
+          i 
+            
+
+Dim: 10 by 10, Words: 7 out of 15, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+               
+          m    
+          e    
+  V    p  r    
+  i    o  u    
+  resurrexit   
+  g i  t  s    
+  o c  a  t c  
+    u  regina  
+ laetare a  e  
+         u  l  
+         dixit 
+         e     
+               
+
+Dim: 13 by 12, Words: 10 out of 15, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+               
+     l         
+     a         
+     e         
+     t m       
+ portare       
+     r r       
+    resurrexit 
+    e  i       
+    g  s       
+   sicut       
+    n  i       
+    a          
+               
+
+Dim: 13 by 12, Words: 6 out of 15, Cross: 7, Mix: 2  Ratio: 140 Loose 0 
+
+            
+       m    
+ resurrexit 
+     e r    
+     g u    
+    dixit   
+     n s    
+    laetare 
+       i    
+            
+
+Dim: 10 by 8, Words: 5 out of 15, Cross: 6, Mix: 245  Ratio: 150 Loose 0 
+
+            
+ m          
+ e          
+ resurrexit 
+ u          
+ i          
+ s          
+ t          
+ i          
+            
+
+Dim: 10 by 8, Words: 2 out of 15, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+       m          
+ portare          
+       resurrexit 
+       u          
+       i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 8, Words: 3 out of 15, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+   l              
+   a              
+   e              
+   t              
+   a   m          
+ portare          
+   e   resurrexit 
+       u          
+       i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 12, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    l             
+    a             
+    e  m          
+ portare          
+    a  resurrexit 
+    r  u          
+    e  i          
+       s          
+       t          
+       i          
+                  
+
+Dim: 16 by 10, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+     l m          
+ portare          
+     e resurrexit 
+     t u          
+     a i          
+     r s          
+     e t          
+       i          
+                  
+
+Dim: 16 by 8, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    m          
+    e          
+    resurrexit 
+    u          
+    i  l       
+    s  a       
+ portare       
+    i  t       
+       a       
+       r       
+       e       
+               
+
+Dim: 13 by 11, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    m     l    
+    e     a    
+    resurrexit 
+    u     t    
+    i     a    
+    s     r    
+ portare  e    
+    i          
+               
+
+Dim: 13 by 8, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+            
+ m   p      
+ e   o      
+ resurrexit 
+ u   t      
+ i  laetare 
+ s   r      
+ t   e      
+ i          
+            
+
+Dim: 10 by 8, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                
+     l m        
+ portare        
+     e r        
+     t u        
+     a i        
+     resurrexit 
+     e t        
+       i        
+                
+
+Dim: 14 by 8, Words: 4 out of 15, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+            
+    m       
+    e p     
+    r o     
+ resurrexit 
+    i t     
+    s a     
+ laetare    
+    i e     
+            
+
+Dim: 10 by 8, Words: 4 out of 15, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+            
+     p      
+  r  o      
+ resurrexit 
+  g  t      
+  i  a      
+  n  r      
+ gaude      
+            
+
+Dim: 10 by 7, Words: 4 out of 15, Cross: 4, Mix: 91  Ratio: 133 Loose 0 
+
+       
+  d    
+ Virgo 
+  x a  
+ sicut 
+  t d  
+    e  
+       
+
+Dim: 5 by 6, Words: 4 out of 15, Cross: 4, Mix: 242  Ratio: 133 Loose 0 
+
+             
+          l  
+      V d a  
+      i i e  
+ resurrexit  
+      g i a  
+     portare 
+          e  
+             
+
+Dim: 11 by 7, Words: 5 out of 15, Cross: 6, Mix: 305  Ratio: 150 Loose 0 
+
+          
+  r       
+  e       
+  s       
+  u  d l  
+  regina  
+  r  x e  
+ meruisti 
+  x  t a  
+  i    r  
+  t    e  
+          
+
+Dim: 8 by 10, Words: 5 out of 15, Cross: 6, Mix: 1087  Ratio: 150 Loose 0 
+
+                     
+  g                  
+  a                  
+ quiasurrexitDominus 
+  d                  
+  e                  
+  e                  
+  t                  
+  l                  
+  a                  
+  e                  
+  t                  
+  a                  
+  r                  
+  e                  
+                     
+
+Dim: 19 by 14, Words: 2 out of 15, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+ VirgoMaria            
+    a                  
+   quiasurrexitDominus 
+    d                  
+    e                  
+    e                  
+    t                  
+    l                  
+    a                  
+    e                  
+    t                  
+    a                  
+    r                  
+    e                  
+                       
+
+Dim: 21 by 14, Words: 3 out of 15, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+  r                    
+  e                    
+  s                    
+  u                    
+  r                    
+  r                    
+  e                    
+  x                    
+ VirgoMaria            
+  t a                  
+   quiasurrexitDominus 
+    d                  
+    e                  
+    e                  
+    t                  
+    l                  
+    a                  
+    e                  
+    t                  
+    a                  
+    r                  
+    e                  
+                       
+
+Dim: 21 by 22, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+ VirgoMaria            
+    a                  
+   quiasurrexitDominus 
+    d                  
+   resurrexit          
+    e                  
+    t                  
+    l                  
+    a                  
+    e                  
+    t                  
+    a                  
+    r                  
+    e                  
+                       
+
+Dim: 21 by 14, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                      
+   g                  
+   a                  
+  quiasurrexitDominus 
+   d                  
+   e     r            
+   e     e            
+   t     s            
+   l     u            
+   a     r            
+   e     r            
+   t     e            
+   a     x            
+ VirgoMaria           
+   e     t            
+                      
+
+Dim: 20 by 14, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                          
+         V                
+         i                
+         r                
+         g                
+       g o                
+       a M                
+      quiasurrexitDominus 
+       d r                
+ resurrexit               
+       e a                
+       t                  
+       l                  
+       a                  
+       e                  
+       t                  
+       a                  
+       r                  
+       e                  
+                          
+
+Dim: 24 by 18, Words: 4 out of 15, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                     
+    g                
+    a                
+    u                
+    d                
+    e                
+    e                
+    t                
+    l    r           
+ quiasurrexitDominus 
+    e    s           
+    t    u           
+    a    r           
+  VirgoMaria         
+    e    e           
+         x           
+         i           
+         t           
+                     
+
+Dim: 19 by 17, Words: 4 out of 15, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                     
+    g                
+    a                
+    u                
+    d                
+    e                
+    e                
+    t  V             
+    l  i             
+ quiasurrexitDominus 
+    e  g             
+    t  o             
+    a  M             
+    r  a             
+   resurrexit        
+       i             
+       a             
+                     
+
+Dim: 19 by 16, Words: 4 out of 15, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                     
+    g                
+    a                
+    u                
+    d      V         
+   resurrexit        
+    e      r         
+    t      g         
+    l      o         
+    a      M         
+    e      a         
+    t      r         
+ quiasurrexitDominus 
+    r      a         
+    e                
+                     
+
+Dim: 19 by 14, Words: 4 out of 15, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                     
+         g           
+         a m         
+         u e         
+     r   d r         
+     e   e u         
+ quiasurrexitDominus 
+     u   t s         
+     r   l t         
+   VirgoMaria        
+     e   e           
+     x   t           
+     i   a           
+     t   r           
+         e           
+                     
+
+Dim: 19 by 14, Words: 5 out of 15, Cross: 6, Mix: 1  Ratio: 150 Loose 0 
+
+                      
+      r  V            
+      e  i            
+  quiasurrexitDominus 
+      u  g            
+      r  o            
+      r  M            
+ gaudeetlaetare       
+      x  r            
+  meruisti            
+      t  a            
+                      
+
+Dim: 20 by 10, Words: 5 out of 15, Cross: 6, Mix: 2  Ratio: 150 Loose 0 
+
+                     
+        r            
+        e  r         
+        s  e         
+        u  g         
+ quiasurrexitDominus 
+        r  n   e     
+   gaudeetlaetare    
+        x      u     
+       VirgoMaria    
+        t      s     
+               t     
+               i     
+                     
+
+Dim: 19 by 12, Words: 6 out of 15, Cross: 8, Mix: 2  Ratio: 160 Loose 0 
+
+                     
+        p            
+        o     V      
+    q   r  r  i      
+  gaudeetlaetare     
+    i   a  g  g      
+ quiasurrexitDominus 
+    q   e  n  M      
+    u      a  a      
+    e         r      
+    m         i      
+              a      
+                     
+
+Dim: 19 by 11, Words: 6 out of 15, Cross: 8, Mix: 216  Ratio: 160 Loose 0 
+
+                     
+   c   r   m  p      
+  gaudeetlaetare     
+   e   s   r  o      
+   l   u   u  n      
+ quiasurrexitDominus 
+       r   s  b      
+       e   t  i      
+       x   i  s      
+       i             
+       t             
+                     
+
+Dim: 19 by 10, Words: 6 out of 15, Cross: 8, Mix: 280  Ratio: 160 Loose 0 
+
+           
+       g   
+       a   
+  quiaquem 
+  u    d   
+  i  c e   
+ laetare   
+  s  e t   
+  u  l l   
+  regina   
+  r    e   
+ meruisti  
+  x    a   
+  i    r   
+  t    e   
+  D        
+  o        
+  m        
+  i        
+  n        
+  u        
+  s        
+           
+
+Dim: 9 by 21, Words: 7 out of 15, Cross: 10, Mix: 1897  Ratio: 166 Loose 0 
+
+           
+   g       
+   a   q   
+  quiaquem 
+   d   i   
+  regina   
+   e   s   
+   t   u   
+   l   r   
+   a c r   
+ laetare   
+   t e x   
+   a l i   
+ meruisti  
+   e   D   
+       o   
+       m   
+       i   
+       n   
+       u   
+       s   
+           
+
+Dim: 9 by 20, Words: 7 out of 15, Cross: 10, Mix: 1897  Ratio: 166 Loose 0 
+
+                     
+              V c    
+           r  i a s  
+          resurrexit 
+           g  g l c  
+ quiasurrexitDominus 
+           n  M   t  
+          laetare    
+              r      
+              i      
+              a      
+                     
+
+Dim: 19 by 10, Words: 7 out of 15, Cross: 10, Mix: 6085  Ratio: 166 Loose 0 
+
+              
+      q       
+    g u       
+    a i  v    
+   quiaquem   
+    d s  r    
+   resurrexit 
+    e r       
+ portare      
+    l e       
+    a x       
+   regina     
+    t t       
+    a D       
+  VirgoMaria  
+    e m       
+      i       
+      n       
+      u       
+      s       
+              
+
+Dim: 12 by 19, Words: 8 out of 15, Cross: 12, Mix: 8199  Ratio: 171 Loose 0 
+
+             
+     q       
+   g u       
+   a i  v    
+  quiaquem   
+   d s  r    
+  resurrexit 
+   e r       
+   t r       
+   laetare   
+   a x       
+  regina     
+   t t       
+   a D       
+ VirgoMaria  
+   e m       
+     i       
+     n       
+     u       
+     s       
+             
+
+Dim: 11 by 19, Words: 8 out of 15, Cross: 12, Mix: 11033  Ratio: 171 Loose 0 
+
+                
+           q    
+           u    
+       r V i    
+      regina    
+       s r s    
+       u g u    
+       r o r    
+       r M r    
+     laetare    
+       x r x    
+       i i i    
+ gaudeetlaetare 
+           D    
+           o    
+           m    
+           i    
+           n    
+           u    
+           s    
+                
+
+Dim: 14 by 19, Words: 6 out of 15, Cross: 9, Mix: 12575  Ratio: 180 Loose 0 
+
+                     
+  g                  
+  a                  
+ quiasurrexitDominus 
+  d                  
+  e                  
+  e                  
+  t                  
+  l                  
+  a                  
+  e                  
+  t                  
+  a                  
+  r                  
+  e                  
+                     
+
+Dim: 19 by 14, Words: 2 out of 15, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+ VirgoMaria            
+    a                  
+   quiasurrexitDominus 
+    d                  
+    e                  
+    e                  
+    t                  
+    l                  
+    a                  
+    e                  
+    t                  
+    a                  
+    r                  
+    e                  
+                       
+
+Dim: 21 by 14, Words: 3 out of 15, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+  r                    
+  e                    
+  s                    
+  u                    
+  r                    
+  r                    
+  e                    
+  x                    
+ VirgoMaria            
+  t a                  
+   quiasurrexitDominus 
+    d                  
+    e                  
+    e                  
+    t                  
+    l                  
+    a                  
+    e                  
+    t                  
+    a                  
+    r                  
+    e                  
+                       
+
+Dim: 21 by 22, Words: 4 out of 15, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ meruisti               
+   e                    
+   s                    
+   u                    
+   r                    
+   r                    
+   e                    
+   x                    
+  VirgoMaria            
+   t a                  
+    quiasurrexitDominus 
+     d                  
+     e                  
+     e                  
+     t                  
+     l                  
+     a                  
+     e                  
+     t                  
+     a                  
+     r                  
+     e                  
+                        
+
+Dim: 22 by 22, Words: 5 out of 15, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ q                      
+ u                      
+ i                      
+ a                      
+ q                      
+ u                      
+ e                      
+ meruisti               
+   e                    
+   s                    
+   u                    
+   r                    
+   r                    
+   e                    
+   x                    
+  VirgoMaria            
+   t a                  
+    quiasurrexitDominus 
+     d                  
+     e                  
+     e                  
+     t                  
+     l                  
+     a                  
+     e                  
+     t                  
+     a                  
+     r                  
+     e                  
+                        
+
+Dim: 22 by 29, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+     q                  
+     u                  
+ meruisti               
+   e a                  
+   s q                  
+   u u                  
+   r e                  
+   r m                  
+   e                    
+   x                    
+  VirgoMaria            
+   t a                  
+    quiasurrexitDominus 
+     d                  
+     e                  
+     e                  
+     t                  
+     l                  
+     a                  
+     e                  
+     t                  
+     a                  
+     r                  
+     e                  
+                        
+
+Dim: 22 by 24, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ meruisti               
+   e                    
+   s                    
+  quiaquem              
+   r                    
+   r                    
+   e                    
+   x                    
+  VirgoMaria            
+   t a                  
+    quiasurrexitDominus 
+     d                  
+     e                  
+     e                  
+     t                  
+     l                  
+     a                  
+     e                  
+     t                  
+     a                  
+     r                  
+     e                  
+                        
+
+Dim: 22 by 22, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+  r                    
+ meruisti              
+  s                    
+ quiaquem              
+  r                    
+  r                    
+  e                    
+  x                    
+ VirgoMaria            
+  t a                  
+   quiasurrexitDominus 
+    d                  
+    e                  
+    e                  
+    t                  
+    l                  
+    a                  
+    e                  
+    t                  
+    a                  
+    r                  
+    e                  
+                       
+
+Dim: 21 by 22, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+  m                    
+  e                    
+  r                    
+ quiaquem              
+  i                    
+  s                    
+  t                    
+ VirgoMaria            
+    a                  
+   quiasurrexitDominus 
+    d                  
+   resurrexit          
+    e                  
+    t                  
+    l                  
+    a                  
+    e                  
+    t                  
+    a                  
+    r                  
+    e                  
+                       
+
+Dim: 21 by 21, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                          
+  q VirgoMaria            
+  u    a                  
+  i   quiasurrexitDominus 
+  a    d                  
+  q   resurrexit          
+  u    e                  
+ meruisti                 
+  m    l                  
+       a                  
+       e                  
+       t                  
+       a                  
+       r                  
+       e                  
+                          
+
+Dim: 24 by 14, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+ VirgoMaria            
+    a                  
+   quiasurrexitDominus 
+    d                  
+   resurrexit          
+    e                  
+    t                  
+    l                  
+    a q                
+   meruisti            
+    t i                
+    a a                
+    r q                
+    e u                
+      e                
+      m                
+                       
+
+Dim: 21 by 16, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+ VirgoMaria            
+    a                  
+   quiasurrexitDominus 
+    d                  
+   resurrexit          
+    e                  
+    t                  
+    l  q               
+    a  u               
+   meruisti            
+    t  a               
+    a  q               
+    r  u               
+    e  e               
+       m               
+                       
+
+Dim: 21 by 15, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+ VirgoMaria            
+    a                  
+   quiasurrexitDominus 
+    d                  
+   resurrexit          
+    e                  
+    t                  
+    l                  
+    a                  
+   meruisti            
+    t                  
+ quiaquem              
+    r                  
+    e                  
+                       
+
+Dim: 21 by 14, Words: 6 out of 15, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+ VirgoMaria            
+    a      m           
+   quiasurrexitDominus 
+    d      r           
+    e      u           
+   resurrexit          
+    t      s           
+    l      t           
+    a      i           
+    e                  
+    t                  
+    a                  
+    r                  
+    e                  
+                       
+
+Dim: 21 by 14, Words: 5 out of 15, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+                       
+        l              
+        a              
+     s  e              
+    dixit              
+     c  a              
+     u  r              
+  portare              
+  r                    
+  o                    
+  n                    
+  o                    
+  b                    
+ VirgoMaria            
+  s a      m           
+   quiasurrexitDominus 
+    d      r           
+    e      u           
+   resurrexit          
+    t  e   s           
+    l  g   t           
+   caeli quiaquem      
+    e  n               
+    t  a               
+    a                  
+    r                  
+    e                  
+                       
+
+Dim: 21 by 26, Words: 13 out of 15, Cross: 15, Mix: 1  Ratio: 125 Loose 0 
+
+                          
+     portare              
+     r                    
+     o                    
+     n                    
+     o                    
+     b                    
+    VirgoMaria            
+     s a      m           
+      quiasurrexitDominus 
+       d      r           
+       e      u           
+      resurrexit          
+       t  e   s           
+       l  g   t           
+      caeli quiaquem      
+    d  e  n               
+   sicut  a               
+    x  a                  
+    i  r                  
+ laetare                  
+                          
+
+Dim: 24 by 20, Words: 13 out of 15, Cross: 15, Mix: 1  Ratio: 125 Loose 0 
+
+                        
+   p                    
+   r    r               
+  portare               
+   n    g               
+   o   dixit            
+   b    n               
+  VirgoMaria            
+   s a      m           
+    quiasurrexitDominus 
+     d      r           
+     e      u           
+    resurrexit          
+     t      s           
+     l      t           
+     a    quiaquem      
+     e                  
+ sicut                  
+   a a                  
+   e r                  
+   laetare              
+   i                    
+                        
+
+Dim: 22 by 21, Words: 13 out of 15, Cross: 15, Mix: 1  Ratio: 125 Loose 0 
+
+                       
+         c   p         
+        laetare        
+         e   o         
+         l   n    r    
+ VirgoMaria portare    
+    a      m b    g    
+   quiasurrexitDominus 
+    d      r s    n    
+    e      u      a    
+   resurrexit          
+    t      s           
+    l      t           
+    a    quiaquem      
+    e                  
+    t                  
+    a                  
+    r                  
+    e                  
+                       
+
+Dim: 21 by 18, Words: 11 out of 15, Cross: 13, Mix: 1  Ratio: 130 Loose 0 
+
+                       
+ VirgoMaria            
+    a      m    p   q  
+   quiasurrexitDominus 
+    d      r    r   i  
+    e      u    t   a  
+   resurrexit   a   q  
+    t  e   s    r   u  
+    l  g   t  laetare  
+   caeli   i        m  
+    e  n               
+    t  a               
+    a                  
+   pronobis            
+    e                  
+                       
+
+Dim: 21 by 14, Words: 11 out of 15, Cross: 13, Mix: 1  Ratio: 130 Loose 0 
+
+                          
+                       q  
+                       u  
+                 pronobis 
+    VirgoMaria   o     a  
+       a      m  r     q  
+      quiasurrexitDominus 
+       d      r  a     e  
+       e      u  r     m  
+      resurrexit e        
+       t  e   s           
+       l  g   t           
+      caeli   i           
+    d  e  n               
+   sicut  a               
+    x  a                  
+    i  r                  
+ laetare                  
+                          
+
+Dim: 24 by 17, Words: 13 out of 15, Cross: 16, Mix: 1  Ratio: 133 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 9, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+  r u          
+  e l          
+  g c          
+ misericordiae 
+  n d          
+  a o          
+               
+
+Dim: 13 by 7, Words: 3 out of 9, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                   
+        d          
+      r u          
+      e l          
+      g c          
+     misericordiae 
+      n d          
+ nostra o          
+                   
+
+Dim: 17 by 7, Words: 4 out of 9, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                   
+        d          
+  mater u          
+      e l          
+      g c          
+     misericordiae 
+      n d          
+ nostra o          
+                   
+
+Dim: 17 by 7, Words: 5 out of 9, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                   
+   s    d          
+  mater u          
+   l  e l          
+   v  g c          
+   e misericordiae 
+      n d          
+ nostra o          
+                   
+
+Dim: 17 by 7, Words: 6 out of 9, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+  r u          
+  e l          
+  g c   n      
+ misericordiae 
+  n d   s      
+  a o mater    
+        r      
+       salve   
+               
+
+Dim: 13 by 9, Words: 6 out of 9, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u r        
+  salve        
+    c g n      
+ misericordiae 
+    d n s      
+    o a t      
+        r      
+       mater   
+               
+
+Dim: 13 by 9, Words: 6 out of 9, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+               
+    d    n     
+    u r  o     
+  salve  s     
+    c g  t  m  
+ misericordiae 
+    d n  a  t  
+    o a     e  
+            r  
+               
+
+Dim: 13 by 8, Words: 6 out of 9, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+               
+    d    n     
+    u r  o   m 
+  salve  s   a 
+    c g  t   t 
+ misericordiae 
+    d n  a   r 
+    o a        
+               
+
+Dim: 13 by 7, Words: 6 out of 9, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+               
+  r            
+  e            
+  g     n      
+ misericordiae 
+  n     s u    
+  a     t l    
+        r c    
+       mater   
+          d    
+          o    
+               
+
+Dim: 13 by 10, Words: 5 out of 9, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+               
+    r   n      
+ misericordiae 
+    g   s u    
+    i   t l    
+    n   r c    
+    a  mater   
+          d    
+          o    
+               
+
+Dim: 13 by 8, Words: 5 out of 9, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+               
+    s          
+    a r      m 
+  dulcedo    a 
+    v g      t 
+ misericordiae 
+      n      r 
+      a        
+               
+
+Dim: 13 by 7, Words: 5 out of 9, Cross: 5, Mix: 3  Ratio: 125 Loose 0 
+
+         
+     m   
+   d i   
+   u s   
+ salve   
+   c r   
+  regina 
+   d c   
+   o o   
+     r   
+     d   
+     i   
+     a   
+     e   
+         
+
+Dim: 7 by 13, Words: 4 out of 9, Cross: 4, Mix: 21  Ratio: 133 Loose 0 
+
+         
+   salve 
+   p  i  
+   e  t  
+ nostra  
+         
+
+Dim: 7 by 4, Words: 4 out of 9, Cross: 4, Mix: 157  Ratio: 133 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u          
+   clemens     
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d    n     
+    u    o     
+   clemens     
+    c    t     
+ misericordiae 
+    d    a     
+    o          
+               
+
+Dim: 13 by 7, Words: 4 out of 14, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                
+             n  
+             o  
+        dulcis  
+     c  u    t  
+     l  l    r  
+  misericordiae 
+  a  m  e       
+  t  e  d       
+ regina o       
+  r  s          
+                
+
+Dim: 14 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+               
+            n  
+            o  
+  r    dulcis  
+  e c  u    t  
+  g l  l    r  
+ misericordiae 
+  n m  e       
+ mater d       
+    n  o       
+    s          
+               
+
+Dim: 13 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+                    
+             c      
+             l   m  
+            regina  
+             m   t  
+ misericordiae   e  
+          u  nostra 
+        dulcis      
+       M  c         
+      salve         
+       r  d         
+      Virgo         
+       a            
+                    
+
+Dim: 18 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+               
+         n d c 
+  M      o u l 
+  a      salve 
+  r      t c m 
+ misericordiae 
+  a      a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 6 out of 14, Cross: 7, Mix: 85  Ratio: 140 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+         a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 5 out of 14, Cross: 6, Mix: 91  Ratio: 150 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u          
+   clemens     
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d    n     
+    u    o     
+   clemens     
+    c    t     
+ misericordiae 
+    d    a     
+    o          
+               
+
+Dim: 13 by 7, Words: 4 out of 14, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                
+             n  
+             o  
+        dulcis  
+     c  u    t  
+     l  l    r  
+  misericordiae 
+  a  m  e       
+  t  e  d       
+ regina o       
+  r  s          
+                
+
+Dim: 14 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+               
+            n  
+            o  
+  r    dulcis  
+  e c  u    t  
+  g l  l    r  
+ misericordiae 
+  n m  e       
+ mater d       
+    n  o       
+    s          
+               
+
+Dim: 13 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+                    
+             c      
+             l   m  
+            regina  
+             m   t  
+ misericordiae   e  
+          u  nostra 
+        dulcis      
+       M  c         
+      salve         
+       r  d         
+      Virgo         
+       a            
+                    
+
+Dim: 18 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+               
+         n d c 
+  M      o u l 
+  a      salve 
+  r      t c m 
+ misericordiae 
+  a      a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 6 out of 14, Cross: 7, Mix: 85  Ratio: 140 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+         a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 5 out of 14, Cross: 6, Mix: 91  Ratio: 150 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u          
+   clemens     
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d    n     
+    u    o     
+   clemens     
+    c    t     
+ misericordiae 
+    d    a     
+    o          
+               
+
+Dim: 13 by 7, Words: 4 out of 14, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+         
+   c     
+ dulcis  
+   e  p  
+   mater 
+   e  s  
+   n     
+   s     
+         
+
+Dim: 7 by 7, Words: 4 out of 14, Cross: 4, Mix: 24  Ratio: 133 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+         a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 5 out of 14, Cross: 6, Mix: 91  Ratio: 150 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u          
+   clemens     
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d    n     
+    u    o     
+   clemens     
+    c    t     
+ misericordiae 
+    d    a     
+    o          
+               
+
+Dim: 13 by 7, Words: 4 out of 14, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+         
+   c     
+ dulcis  
+   e  p  
+   mater 
+   e  s  
+   n     
+   s     
+         
+
+Dim: 7 by 7, Words: 4 out of 14, Cross: 4, Mix: 24  Ratio: 133 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+         a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 5 out of 14, Cross: 6, Mix: 91  Ratio: 150 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u          
+   clemens     
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d    n     
+    u    o     
+   clemens     
+    c    t     
+ misericordiae 
+    d    a     
+    o          
+               
+
+Dim: 13 by 7, Words: 4 out of 14, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                
+             n  
+             o  
+        dulcis  
+     c  u    t  
+     l  l    r  
+  misericordiae 
+  a  m  e       
+  t  e  d       
+ regina o       
+  r  s          
+                
+
+Dim: 14 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+               
+            n  
+            o  
+  r    dulcis  
+  e c  u    t  
+  g l  l    r  
+ misericordiae 
+  n m  e       
+ mater d       
+    n  o       
+    s          
+               
+
+Dim: 13 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+                    
+             c      
+             l   m  
+            regina  
+             m   t  
+ misericordiae   e  
+          u  nostra 
+        dulcis      
+       M  c         
+      salve         
+       r  d         
+      Virgo         
+       a            
+                    
+
+Dim: 18 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+               
+         n d c 
+  M      o u l 
+  a      salve 
+  r      t c m 
+ misericordiae 
+  a      a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 6 out of 14, Cross: 7, Mix: 85  Ratio: 140 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+         a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 5 out of 14, Cross: 6, Mix: 91  Ratio: 150 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u          
+   clemens     
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d    n     
+    u    o     
+   clemens     
+    c    t     
+ misericordiae 
+    d    a     
+    o          
+               
+
+Dim: 13 by 7, Words: 4 out of 14, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                
+             n  
+             o  
+        dulcis  
+     c  u    t  
+     l  l    r  
+  misericordiae 
+  a  m  e       
+  t  e  d       
+ regina o       
+  r  s          
+                
+
+Dim: 14 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+               
+            n  
+            o  
+  r    dulcis  
+  e c  u    t  
+  g l  l    r  
+ misericordiae 
+  n m  e       
+ mater d       
+    n  o       
+    s          
+               
+
+Dim: 13 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+                   
+  mater            
+  a   e            
+  r   g     s      
+ misericordiae     
+  a   n   u l      
+      a   l v      
+          clemens  
+          e    o   
+          dulcis   
+          o    t   
+             virgo 
+               a   
+                   
+
+Dim: 17 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+                  
+  mater           
+  a   e           
+  r   g     s     
+ misericordiae    
+  a   n   u l     
+      a   l v     
+          clemens 
+          e    o  
+          dulcis  
+      virgo    t  
+               r  
+               a  
+                  
+
+Dim: 16 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+ a       a s n 
+ r           s 
+ i             
+ a             
+               
+
+Dim: 13 by 9, Words: 6 out of 14, Cross: 7, Mix: 85  Ratio: 140 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+      v  t c m 
+ misericordiae 
+ a    t  a s n 
+ regina      s 
+ i             
+ a             
+               
+
+Dim: 13 by 9, Words: 8 out of 14, Cross: 10, Mix: 85  Ratio: 142 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+         a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 5 out of 14, Cross: 6, Mix: 91  Ratio: 150 Loose 0 
+
+          
+       m  
+       i  
+       s  
+     spes 
+     a r  
+   dulcis 
+     v c  
+ dulcedo  
+    l  r  
+    e  d  
+    maria 
+    e  a  
+    n  e  
+    s     
+          
+
+Dim: 8 by 14, Words: 7 out of 14, Cross: 9, Mix: 1766  Ratio: 150 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u          
+   clemens     
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d    n     
+    u    o     
+   clemens     
+    c    t     
+ misericordiae 
+    d    a     
+    o          
+               
+
+Dim: 13 by 7, Words: 4 out of 14, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                
+             n  
+             o  
+        dulcis  
+     c  u    t  
+     l  l    r  
+  misericordiae 
+  a  m  e       
+  t  e  d       
+ regina o       
+  r  s          
+                
+
+Dim: 14 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+               
+            n  
+            o  
+  r    dulcis  
+  e c  u    t  
+  g l  l    r  
+ misericordiae 
+  n m  e       
+ mater d       
+    n  o       
+    s          
+               
+
+Dim: 13 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+                   
+  mater            
+  a   e            
+  r   g     s      
+ misericordiae     
+  a   n   u l      
+      a   l v      
+          clemens  
+          e    o   
+          dulcis   
+          o    t   
+             virgo 
+               a   
+                   
+
+Dim: 17 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+                  
+  mater           
+  a   e           
+  r   g     s     
+ misericordiae    
+  a   n   u l     
+      a   l v     
+          clemens 
+          e    o  
+          dulcis  
+      virgo    t  
+               r  
+               a  
+                  
+
+Dim: 16 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+ a       a s n 
+ r           s 
+ i             
+ a             
+               
+
+Dim: 13 by 9, Words: 6 out of 14, Cross: 7, Mix: 85  Ratio: 140 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+      v  t c m 
+ misericordiae 
+ a    t  a s n 
+ regina      s 
+ i             
+ a             
+               
+
+Dim: 13 by 9, Words: 8 out of 14, Cross: 10, Mix: 85  Ratio: 142 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+         a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 5 out of 14, Cross: 6, Mix: 91  Ratio: 150 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u          
+   clemens     
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d    n     
+    u    o     
+   clemens     
+    c    t     
+ misericordiae 
+    d    a     
+    o          
+               
+
+Dim: 13 by 7, Words: 4 out of 14, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+         
+   c     
+ dulcis  
+   e  p  
+   mater 
+   e  s  
+   n     
+   s     
+         
+
+Dim: 7 by 7, Words: 4 out of 14, Cross: 4, Mix: 24  Ratio: 133 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+ a       a s n 
+ r           s 
+ i             
+ a             
+               
+
+Dim: 13 by 9, Words: 6 out of 14, Cross: 7, Mix: 85  Ratio: 140 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+      v  t c m 
+ misericordiae 
+ a    t  a s n 
+ regina      s 
+ i             
+ a             
+               
+
+Dim: 13 by 9, Words: 8 out of 14, Cross: 10, Mix: 85  Ratio: 142 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+         a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 5 out of 14, Cross: 6, Mix: 91  Ratio: 150 Loose 0 
+
+          
+       m  
+       i  
+       s  
+     spes 
+     a r  
+   dulcis 
+     v c  
+ dulcedo  
+    l  r  
+    e  d  
+    maria 
+    e  a  
+    n  e  
+    s     
+          
+
+Dim: 8 by 14, Words: 7 out of 14, Cross: 9, Mix: 1766  Ratio: 150 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u          
+   clemens     
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d    n     
+    u    o     
+   clemens     
+    c    t     
+ misericordiae 
+    d    a     
+    o          
+               
+
+Dim: 13 by 7, Words: 4 out of 14, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                
+             n  
+             o  
+        dulcis  
+     c  u    t  
+     l  l    r  
+  misericordiae 
+  a  m  e       
+  t  e  d       
+ regina o       
+  r  s          
+                
+
+Dim: 14 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+               
+            n  
+            o  
+  r    dulcis  
+  e c  u    t  
+  g l  l    r  
+ misericordiae 
+  n m  e       
+ mater d       
+    n  o       
+    s          
+               
+
+Dim: 13 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+                   
+  mater            
+  a   e            
+  r   g     s      
+ misericordiae     
+  a   n   u l      
+      a   l v      
+          clemens  
+          e    o   
+          dulcis   
+          o    t   
+             virgo 
+               a   
+                   
+
+Dim: 17 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+                  
+  mater           
+  a   e           
+  r   g     s     
+ misericordiae    
+  a   n   u l     
+      a   l v     
+          clemens 
+          e    o  
+          dulcis  
+      virgo    t  
+               r  
+               a  
+                  
+
+Dim: 16 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+ a       a s n 
+ r           s 
+ i             
+ a             
+               
+
+Dim: 13 by 9, Words: 6 out of 14, Cross: 7, Mix: 85  Ratio: 140 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+      v  t c m 
+ misericordiae 
+ a    t  a s n 
+ regina      s 
+ i             
+ a             
+               
+
+Dim: 13 by 9, Words: 8 out of 14, Cross: 10, Mix: 85  Ratio: 142 Loose 0 
+
+               
+         n d c 
+         o u l 
+         salve 
+         t c m 
+ misericordiae 
+         a s n 
+             s 
+               
+
+Dim: 13 by 7, Words: 5 out of 14, Cross: 6, Mix: 91  Ratio: 150 Loose 0 
+
+               
+    d          
+    u          
+    l          
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d          
+    u          
+   clemens     
+    c          
+ misericordiae 
+    d          
+    o          
+               
+
+Dim: 13 by 7, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+               
+    d    n     
+    u    o     
+   clemens     
+    c    t     
+ misericordiae 
+    d    a     
+    o          
+               
+
+Dim: 13 by 7, Words: 4 out of 14, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                
+             n  
+             o  
+        dulcis  
+     c  u    t  
+     l  l    r  
+  misericordiae 
+  a  m  e       
+  t  e  d       
+ regina o       
+  r  s          
+                
+
+Dim: 14 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+               
+            n  
+            o  
+  r    dulcis  
+  e c  u    t  
+  g l  l    r  
+ misericordiae 
+  n m  e       
+ mater d       
+    n  o       
+    s          
+               
+
+Dim: 13 by 10, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+                   
+  mater            
+  a   e            
+  r   g     s      
+ misericordiae     
+  a   n   u l      
+      a   l v      
+          clemens  
+          e    o   
+          dulcis   
+          o    t   
+             virgo 
+               a   
+                   
+
+Dim: 17 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+                  
+  mater           
+  a   e           
+  r   g     s     
+ misericordiae    
+  a   n   u l     
+      a   l v     
+          clemens 
+          e    o  
+          dulcis  
+      virgo    t  
+               r  
+               a  
+                  
+
+Dim: 16 by 12, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+            
+  l         
+  a         
+  c         
+  r         
+  i         
+  m         
+  a         
+  r         
+ suspiramus 
+  m         
+            
+
+Dim: 10 by 10, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+             
+   l         
+   a         
+   c         
+   r         
+   i         
+ gementes    
+   a         
+   r         
+  suspiramus 
+   m         
+             
+
+Dim: 11 by 10, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+             
+        c    
+        l    
+   l    a    
+   a    m    
+   c    a    
+   r    m    
+   i    u    
+ gementes    
+   a         
+   r         
+  suspiramus 
+   m         
+             
+
+Dim: 11 by 12, Words: 4 out of 14, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+               
+        c      
+       flentes 
+   l    a      
+   a    m      
+   c    a      
+   r    m      
+   i    u      
+ gementes      
+   a           
+   r           
+  suspiramus   
+   m           
+               
+
+Dim: 13 by 12, Words: 5 out of 14, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+               
+        c      
+       flentes 
+   l    a   x  
+   a    m   s  
+   c    a   u  
+   r    m   l  
+   i    u   e  
+ gementes   s  
+   a           
+   r           
+  suspiramus   
+   m           
+               
+
+Dim: 13 by 12, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+             
+        c    
+    exsules  
+   l    a    
+   a    m    
+   c    a  f 
+   r    m  l 
+   i    u  e 
+ gementes  n 
+   a       t 
+   r       e 
+  suspiramus 
+   m         
+             
+
+Dim: 11 by 12, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+             
+        e    
+   l    x    
+ clamamus    
+   c    u  f 
+   r    l  l 
+   i    e  e 
+ gementes  n 
+   a       t 
+   r       e 
+  suspiramus 
+   m         
+             
+
+Dim: 11 by 11, Words: 6 out of 14, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+             
+  flentes    
+   a   x     
+   c   s  c  
+   r   u  l  
+   i   l  a  
+ gementes m  
+   a   s  a  
+   r      m  
+  suspiramus 
+   m      s  
+             
+
+Dim: 11 by 10, Words: 6 out of 14, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+                
+          e     
+          x     
+          s     
+    clamamus    
+     a    l  g  
+   v c  flentes 
+   a r    s  m  
+ filii       e  
+   l m       n  
+  Hevae      t  
+     r       e  
+    suspiramus  
+     m          
+                
+
+Dim: 14 by 13, Words: 9 out of 14, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+              
+        e     
+   l    x     
+ clamamus  g  
+   c    u  e  
+   r    l  m  
+   i  flentes 
+   m  i s  n  
+   a  l    t  
+   r  i    e  
+  suspiramus  
+   m          
+              
+
+Dim: 12 by 11, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+              
+          l   
+       Hevae  
+   c    x c   
+  flentes r   
+   a    u i   
+   m    l m   
+   a    e a   
+ gementes r   
+   u      u   
+   suspiramus 
+              
+
+Dim: 12 by 10, Words: 7 out of 14, Cross: 8, Mix: 96  Ratio: 133 Loose 0 
+
+            
+ e     c    
+ x   f l    
+ suspiramus 
+ u   l m    
+ lacrimarum 
+ e   i m    
+ s     u    
+       s    
+            
+
+Dim: 10 by 8, Words: 5 out of 14, Cross: 6, Mix: 97  Ratio: 150 Loose 0 
+
+               
+ s             
+ u             
+ s             
+ p             
+ i             
+ r             
+ a             
+ misericordiae 
+ u             
+ s             
+               
+
+Dim: 13 by 10, Words: 2 out of 28, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+         s             
+ lacrimarum            
+         s             
+         p             
+         i             
+         r             
+         a             
+         misericordiae 
+         u             
+         s             
+                       
+
+Dim: 21 by 10, Words: 3 out of 28, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+      g                
+      e  s             
+ lacrimarum            
+      e  s             
+      n  p             
+      t  i             
+      e  r             
+      s  a             
+         misericordiae 
+         u             
+         s             
+                       
+
+Dim: 21 by 11, Words: 4 out of 28, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                         
+        g                
+        e  s             
+   lacrimarum            
+        e  s             
+        n  p             
+        t  i             
+        e  r             
+ clamamus  a             
+           misericordiae 
+           u             
+           s             
+                         
+
+Dim: 23 by 11, Words: 5 out of 28, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                         
+        g                
+        e  s             
+   lacrimarum            
+        e  s             
+        n  p             
+        t  i             
+        e  r             
+ clamamus  a             
+ l         misericordiae 
+ e         u             
+ m         s             
+ e                       
+ n                       
+ s                       
+                         
+
+Dim: 23 by 14, Words: 6 out of 28, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                         
+        g                
+        e  s             
+   lacrimarum            
+        e  s             
+        n  p             
+        t  i             
+  c     e  r             
+ clamamus  a             
+  e        misericordiae 
+  m        u             
+  e        s             
+  n                      
+  s                      
+                         
+
+Dim: 23 by 13, Words: 6 out of 28, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                         
+        g                
+        e  s             
+   lacrimarum            
+        e  s             
+    c   n  p             
+    l   t  i             
+    e   e  r             
+ clamamus  a             
+    e      misericordiae 
+    n      u             
+    s      s             
+                         
+
+Dim: 23 by 11, Words: 6 out of 28, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+      g                
+ c    e  s             
+ lacrimarum            
+ a l  e  s             
+ m e  n  p             
+ a m  t  i             
+ m e  e  r             
+ u n  s  a             
+ s s     misericordiae 
+         u             
+         s             
+                       
+
+Dim: 21 by 11, Words: 6 out of 28, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+       g                
+       e  s             
+  lacrimarum            
+    l  e  s             
+    a  n  p             
+    m  t  i             
+    a  e  r             
+ clemens  a             
+    u     misericordiae 
+    s     u             
+          s             
+                        
+
+Dim: 22 by 11, Words: 6 out of 28, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+                        
+       g                
+       e  s             
+  lacrimarum            
+    l  e  s             
+    a  n  p             
+  d m  t  i             
+  u a  e  r  f          
+ clemens  a  l          
+  c u     misericordiae 
+  exsules u  n          
+  d       s  t          
+  o          e          
+             s          
+                        
+
+Dim: 22 by 13, Words: 9 out of 28, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+                        
+       g                
+       e  s             
+  lacrimarum            
+    l  e  s             
+    a  n  p    d        
+  d m  t  i    u        
+  u a  e  r  filii      
+ clemens  a  l c        
+  c u     misericordiae 
+  exsules u  n s        
+  d       s  t          
+  o          e          
+           nostra       
+               e        
+               g        
+               i        
+               n        
+               a        
+                        
+
+Dim: 22 by 18, Words: 13 out of 28, Cross: 15, Mix: 1  Ratio: 125 Loose 0 
+
+                           
+          g                
+          e  s             
+     lacrimarum            
+       l  e  s             
+       a  n  p    d        
+     d m  t  i    u        
+     u a  e  r  filii      
+    clemens  a  l c        
+     c u     misericordiae 
+     exsules u  n s        
+     d       s  t          
+ virgo          e          
+              nostra       
+                  e        
+                m g        
+               maria       
+                t n        
+               Hevae       
+                r          
+                           
+
+Dim: 25 by 19, Words: 17 out of 28, Cross: 20, Mix: 1  Ratio: 125 Loose 0 
+
+                        
+    virgo               
+       e  s             
+  lacrimarum            
+    l  e  s             
+    a  n  p    d        
+  d m  t  i    u        
+  u a  e  r  filii      
+ clemens  a  l c        
+  c u     misericordiae 
+  exsules u  n s        
+  d       s  t          
+  o          e          
+           nostra       
+               e        
+             m g        
+            maria       
+             t n        
+            Hevae       
+             r          
+                        
+
+Dim: 22 by 19, Words: 17 out of 28, Cross: 20, Mix: 1  Ratio: 125 Loose 0 
+
+                         
+     m                   
+  vita                   
+  a  t g                 
+  l  e e  s              
+  lacrimarum             
+  e l  e  s              
+    a  n  p    d      H  
+  d m  t  i    u    m e  
+  u a  e  r  filii salve 
+ clemens  a  l c    r a  
+  c u     misericordiae  
+  exsules u  n s    a    
+  d       s  t           
+  o          e           
+           nostra        
+               e         
+            virgo        
+               i         
+               n         
+               a         
+                         
+
+Dim: 23 by 20, Words: 20 out of 28, Cross: 24, Mix: 1  Ratio: 126 Loose 0 
+
+                         
+     m                   
+  vita                   
+  a  t g                 
+  l  e e  s              
+  lacrimarum             
+  e l  e  s              
+    a  n  p    d      H  
+  d m  t  i    u    m e  
+  u a  e  r  filii salve 
+ clemens  a  l c    r a  
+  c u     misericordiae  
+  exsules u  n s  e a    
+  d       s  t    g      
+  o          e   virgo   
+           nostra n      
+                  a      
+                         
+
+Dim: 23 by 16, Words: 20 out of 28, Cross: 24, Mix: 1  Ratio: 126 Loose 0 
+
+                        
+     m                  
+  vita                  
+  a  t g                
+  l  e e  s             
+  lacrimarum            
+  e l  e  s             
+    a  n  p    d      s 
+  d m  t  i    u  maria 
+  u a  e  r  filii  e l 
+ clemens  a  l c    g v 
+  c u     misericordiae 
+  exsules u  n s    n   
+  d       s  t   Hevae  
+  o          e     i    
+           nostra  r    
+                   g    
+                   o    
+                        
+
+Dim: 22 by 17, Words: 20 out of 28, Cross: 24, Mix: 1  Ratio: 126 Loose 0 
+
+               
+ misericordiae 
+ i             
+ s             
+ e             
+ r             
+ i             
+ c             
+ o             
+ r             
+ d             
+ e             
+ s             
+               
+
+Dim: 13 by 12, Words: 2 out of 39, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e             
+ lacrimarum       
+    i             
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 12, Words: 3 out of 39, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s             
+  r e             
+ lacrimarum       
+  m i             
+  u c             
+  s o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 4 out of 39, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+        u               
+        s misericordiae 
+        p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 5 out of 39, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ a                      
+ d                      
+ v                      
+ o                      
+ clamamus               
+ a      u               
+ t      s misericordiae 
+ a      p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 18, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+   d    u               
+   v    s misericordiae 
+   o    p i             
+   c    i s             
+   a    r e             
+   t   lacrimarum       
+   a    m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+       s               
+ clamamus              
+   d   s misericordiae 
+   v   p i             
+   o   i s             
+   c   r e             
+   a  lacrimarum       
+   t   m i             
+   a   u c             
+       s o             
+         r             
+         d             
+         e             
+         s             
+                       
+
+Dim: 21 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s  c          
+  r e  l          
+ lacrimarum       
+  m i  m          
+  u c  advocata   
+  s o  m          
+    r  u          
+    d  s          
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e    s        
+ lacrimarum       
+  d i    s        
+  v c    p        
+  o o    i        
+  c r    r        
+  a d  clamamus   
+  t e    m        
+  a s    u        
+         s        
+                  
+
+Dim: 16 by 13, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                   
+     misericordiae 
+     i             
+     s  c          
+     e  l s        
+  lacrimarum       
+     i  m s        
+ advocata p        
+     o  m i        
+     r  u r        
+     d  s a        
+     e    m        
+     s    u        
+          s        
+                   
+
+Dim: 17 by 13, Words: 6 out of 39, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+                           
+       c                   
+ dulcedo                   
+    l  n     misericordiae 
+    e  v     i             
+    m gementes  c          
+    e  r     e  l s        
+    n  t  lacrimarum       
+  exsules    i  m s        
+         advocata p        
+             o  m i        
+             r  u r        
+             d  s a        
+             e    m        
+             s    u        
+                  s        
+                           
+
+Dim: 25 by 15, Words: 11 out of 39, Cross: 12, Mix: 1  Ratio: 120 Loose 0 
+
+                             
+         c                   
+   dulcedo   n               
+      l  n   o misericordiae 
+ flentes v   s i             
+      m gementes  c          
+      e  r   r e  l s        
+      n  t  lacrimarum       
+    exsules    i  m s        
+           advocata p        
+               o  m i        
+               r  u r        
+               d  s a        
+               e    m        
+               s    u        
+                    s        
+                             
+
+Dim: 27 by 15, Words: 13 out of 39, Cross: 15, Mix: 1  Ratio: 125 Loose 0 
+
+               
+ misericordiae 
+ i             
+ s             
+ e             
+ r             
+ i             
+ c             
+ o             
+ r             
+ d             
+ e             
+ s             
+               
+
+Dim: 13 by 12, Words: 2 out of 39, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e             
+ lacrimarum       
+    i             
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 12, Words: 3 out of 39, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s             
+  r e             
+ lacrimarum       
+  m i             
+  u c             
+  s o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 4 out of 39, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e    s        
+ lacrimarum       
+    i    s        
+    c    p        
+    o    i        
+    r    r        
+    d    a        
+    e    m        
+    s    u        
+         s        
+                  
+
+Dim: 16 by 13, Words: 4 out of 39, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+         s        
+         u        
+         s        
+         p        
+    misericordiae 
+    i    r        
+    s    a        
+    e    m        
+ lacrimarum       
+    i    s        
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 16, Words: 4 out of 39, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                  
+  a               
+  d               
+  v    g          
+  o    e          
+  clamamus        
+  a    e u        
+  t    n s        
+  a    t p        
+    misericordiae 
+    i  s r        
+    s    a        
+    e    m        
+ lacrimarum       
+    i    s        
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 20, Words: 7 out of 39, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+                       
+       a               
+       d               
+       v    g          
+       o    e          
+     c clamamus        
+     l a    e u        
+ converte   n s        
+     m a    t p        
+     e   misericordiae 
+     n   i  s r        
+   exsules    a        
+         e    m        
+      lacrimarum       
+         i    s        
+         c             
+         o             
+         r             
+         d             
+         e             
+         s             
+                       
+
+Dim: 21 by 20, Words: 10 out of 39, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+                       
+       a               
+       d               
+       v    g          
+ d     o    e          
+ u   c clamamus        
+ l   l a    e u        
+ converte   nostra     
+ e   m a    t p        
+ d f e   misericordiae 
+ o l n   i  s r        
+   exsules    a        
+   n     e    m        
+   t  lacrimarum       
+   e     i    s        
+   s     c             
+         o             
+         r             
+         d             
+         e             
+         s             
+                       
+
+Dim: 21 by 20, Words: 13 out of 39, Cross: 16, Mix: 1  Ratio: 133 Loose 0 
+
+                       
+       a               
+       d               
+       v    g          
+ d     o    e          
+ u   c clamamus        
+ l   l a    e u        
+ converte   nostra     
+ e   m a    t p        
+ d   e   misericordiae 
+ o   n   i  s r        
+   exsules    a        
+         e    m        
+      lacrimarum       
+         i    s        
+         c             
+         o             
+         regina        
+         d   o         
+       flentes         
+         s   t         
+             r         
+             a         
+                       
+
+Dim: 21 by 22, Words: 15 out of 39, Cross: 19, Mix: 1  Ratio: 135 Loose 0 
+
+                            
+            a               
+       dulcedo              
+            v    g          
+            o    e          
+          c clamamus v      
+      o   l a    e u i      
+      converte   nostra     
+      u   m a    t p g    r 
+     flentes  misericordiae 
+      o   n   i  s r    l g 
+ dulcis exsules    a  filii 
+              e    m    o n 
+           lacrimarum   s a 
+              i    s        
+              c             
+              o             
+          nostra            
+            a d             
+          valle             
+            v s             
+        Hevae               
+                            
+
+Dim: 26 by 21, Words: 23 out of 39, Cross: 30, Mix: 1  Ratio: 136 Loose 0 
+
+                         
+     f                   
+     i  a                
+   dulcedo               
+     i  v    g           
+     i  o    e           
+      c clamamus v       
+  o   l a    e u i       
+  converte   nostra      
+  u   m a    t p g    r  
+ flentes  misericordiae  
+  o   n   i  s r    l g  
+  s exsules    a  dulcis 
+          e    m    o n  
+       lacrimarum   s a  
+          i    s         
+          c              
+          o              
+      nostra             
+        a d              
+      valle              
+        v s              
+    Hevae                
+                         
+
+Dim: 23 by 22, Words: 23 out of 39, Cross: 30, Mix: 1  Ratio: 136 Loose 0 
+
+                        
+        a               
+   dulcedo              
+        v    g          
+        o    e          
+      c clamamus v      
+  o   l a    e u i      
+  converte   nostra     
+  u   m a    t p g    r 
+ flentes  misericordiae 
+  o   n   i  s r    l g 
+  s exsules    a  filii 
+          e    m    o n 
+       lacrimarum   s a 
+          i    s        
+       dulcis           
+          o             
+      nostra            
+        a d             
+      valle             
+        v s             
+    Hevae               
+                        
+
+Dim: 22 by 21, Words: 23 out of 39, Cross: 30, Mix: 1  Ratio: 136 Loose 0 
+
+                        
+        a               
+        d         n     
+        v    g    o     
+        o    e    s     
+      c clamamus  t     
+  o   l a    e u  r     
+  converte   nostra     
+  u   m a    t p        
+ flentes  misericordiae 
+  o   n   i  s r        
+  s exsules    a        
+          e    m        
+       lacrimarum       
+          i    s        
+       dulcedo          
+          o u           
+          r l           
+          d c           
+         regina         
+          s s           
+                        
+
+Dim: 22 by 20, Words: 17 out of 39, Cross: 22, Mix: 1  Ratio: 137 Loose 0 
+
+                        
+     Hevae              
+        d               
+        v    g          
+        o    e          
+      c clamamus v      
+  o   l a    e u i      
+  converte   nostra     
+  u   m a    t p g    r 
+ flentes  misericordiae 
+  o   n   i  s r    l g 
+  s exsules    a  filii 
+          e  m m    o n 
+       lacrimarum   s a 
+          i  t s        
+          c  e          
+       v nostra         
+       a  r             
+     dulcedo            
+     u l  e             
+   salve  s             
+     c                  
+  maria                 
+     s                  
+                        
+
+Dim: 22 by 23, Words: 25 out of 39, Cross: 33, Mix: 1  Ratio: 137 Loose 0 
+
+                        
+        a               
+        d         r     
+        v    g    e     
+        o    e    g     
+      c clamamus  i     
+  o   l a    e u  n     
+  converte   nostra     
+  u   m a    t p        
+ flentes  misericordiae 
+  o   n   i  s r        
+  s exsules    a        
+          e    m        
+       lacrimarum       
+          i    s        
+          c             
+          o             
+      nostra            
+        a d             
+      dulcedo           
+      u v s             
+    valle               
+      c                 
+      i                 
+      s                 
+                        
+
+Dim: 22 by 24, Words: 19 out of 39, Cross: 25, Mix: 1  Ratio: 138 Loose 0 
+
+                        
+          r             
+       mater            
+        d g             
+        v i  g          
+        o n  e          
+      c clamamus v      
+  o   l a    e u i      
+  converte   nostra     
+  u   m a    t p g  f H 
+ flentes  misericordiae 
+  o   n   i  s r    l v 
+  s exsules    a   vita 
+          e  m m    i e 
+       lacrimarum       
+          i  r s        
+          c  i          
+          o  a          
+      nostra            
+        a d             
+      dulcedo           
+      u v s             
+    valle               
+      c                 
+      illos             
+   tuos                 
+                        
+
+Dim: 22 by 25, Words: 27 out of 39, Cross: 36, Mix: 1  Ratio: 138 Loose 0 
+
+                          
+        a                 
+        d                 
+        v    g            
+        o    e       r m  
+      c clamamus v  Hevae 
+  o   l a    e u i   g r  
+  converte   nostra filii 
+  u   m a    t p g   n a  
+ flentes  misericordiae   
+  o   n   i  s r          
+  s exsules    a          
+          e    m          
+       lacrimarum         
+          i    s          
+          c               
+          o               
+      nostra              
+        a d               
+      dulcedo             
+      u v s               
+    valle                 
+      c                   
+      illos               
+      s                   
+                          
+
+Dim: 24 by 24, Words: 24 out of 39, Cross: 32, Mix: 1  Ratio: 139 Loose 0 
+
+                        
+        a               
+        d               
+        v    g          
+        o    e          
+      c clamamus v      
+  o   l a    e u i      
+  converte   nostra     
+  u   m a    t p g    r 
+ flentes  misericordiae 
+  o   n   i  s r    l g 
+  s exsules    a  filii 
+          e    m    o n 
+       lacrimarum   s a 
+          i    s        
+          c             
+          o             
+      nostra            
+        a d             
+    H dulcedo           
+    e u v s             
+    valle               
+    a c                 
+    e i                 
+      s                 
+                        
+
+Dim: 22 by 24, Words: 23 out of 39, Cross: 31, Mix: 1  Ratio: 140 Loose 0 
+
+                         
+    nostra               
+     c   d               
+     u   v    g          
+   dulcedo    e          
+   u o   clamamus v      
+ illos   a    e u i      
+   c     t    nostra     
+   i     a    t p g      
+   salve   misericordiae 
+      a    i  s r        
+     flentes    a        
+      l    e    m        
+      e lacrimarum       
+           i    s        
+         H c             
+         e o             
+      converte           
+         a d x           
+       clemens f         
+           s u i         
+             l l         
+            regina       
+             s i         
+                         
+
+Dim: 23 by 23, Words: 23 out of 39, Cross: 31, Mix: 1  Ratio: 140 Loose 0 
+
+                       
+  nostra               
+   c   d               
+   u   v    g          
+ dulcedo    e          
+ u o   clamamus v      
+ l s   a    e u i      
+ c     t    nostra     
+ i     a    t p g    r 
+ salve   misericordiae 
+    a    i  s r    l g 
+   flentes    a  filii 
+    l    e    m    o n 
+    e lacrimarum   s a 
+         i    s        
+       H c             
+       e o             
+    converte           
+       a d x           
+     clemens           
+         s u           
+           l           
+           e           
+           s           
+                       
+
+Dim: 21 by 23, Words: 23 out of 39, Cross: 31, Mix: 1  Ratio: 140 Loose 0 
+
+               
+ misericordiae 
+ i             
+ s             
+ e             
+ r             
+ i             
+ c             
+ o             
+ r             
+ d             
+ e             
+ s             
+               
+
+Dim: 13 by 12, Words: 2 out of 39, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e             
+ lacrimarum       
+    i             
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 12, Words: 3 out of 39, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s             
+  r e             
+ lacrimarum       
+  m i             
+  u c             
+  s o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 4 out of 39, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+        u               
+        s misericordiae 
+        p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 5 out of 39, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ a                      
+ d                      
+ v                      
+ o                      
+ clamamus               
+ a      u               
+ t      s misericordiae 
+ a      p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 18, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+   d    u               
+   v    s misericordiae 
+   o    p i             
+   c    i s             
+   a    r e             
+   t   lacrimarum       
+   a    m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+       s               
+ clamamus              
+   d   s misericordiae 
+   v   p i             
+   o   i s             
+   c   r e             
+   a  lacrimarum       
+   t   m i             
+   a   u c             
+       s o             
+         r             
+         d             
+         e             
+         s             
+                       
+
+Dim: 21 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s  c          
+  r e  l          
+ lacrimarum       
+  m i  m          
+  u c  advocata   
+  s o  m          
+    r  u          
+    d  s          
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e    s        
+ lacrimarum       
+  d i    s        
+  v c    p        
+  o o    i        
+  c r    r        
+  a d  clamamus   
+  t e    m        
+  a s    u        
+         s        
+                  
+
+Dim: 16 by 13, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                   
+     misericordiae 
+     i             
+     s  c          
+     e  l s        
+  lacrimarum       
+     i  m s        
+ advocata p        
+     o  m i        
+     r  u r        
+     d  s a        
+     e    m        
+     s    u        
+          s        
+                   
+
+Dim: 17 by 13, Words: 6 out of 39, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+                           
+       c                   
+ dulcedo                   
+    l  n     misericordiae 
+    e  v     i             
+    m gementes  c          
+    e  r     e  l s        
+    n  t  lacrimarum       
+  exsules    i  m s        
+         advocata p        
+             o  m i        
+             r  u r        
+             d  s a        
+             e    m        
+             s    u        
+                  s        
+                           
+
+Dim: 25 by 15, Words: 11 out of 39, Cross: 12, Mix: 1  Ratio: 120 Loose 0 
+
+                             
+         c                   
+   dulcedo   n               
+      l  n   o misericordiae 
+ flentes v   s i             
+      m gementes  c          
+      e  r   r e  l s        
+      n  t  lacrimarum       
+    exsules    i  m s        
+           advocata p        
+               o  m i        
+               r  u r        
+               d  s a        
+               e    m        
+               s    u        
+                    s        
+                             
+
+Dim: 27 by 15, Words: 13 out of 39, Cross: 15, Mix: 1  Ratio: 125 Loose 0 
+
+               
+ misericordiae 
+ i             
+ s             
+ e             
+ r             
+ i             
+ c             
+ o             
+ r             
+ d             
+ e             
+ s             
+               
+
+Dim: 13 by 12, Words: 2 out of 39, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e             
+ lacrimarum       
+    i             
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 12, Words: 3 out of 39, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s             
+  r e             
+ lacrimarum       
+  m i             
+  u c             
+  s o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 4 out of 39, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+        u               
+        s misericordiae 
+        p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 5 out of 39, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ a                      
+ d                      
+ v                      
+ o                      
+ clamamus               
+ a      u               
+ t      s misericordiae 
+ a      p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 18, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+   d    u               
+   v    s misericordiae 
+   o    p i             
+   c    i s             
+   a    r e             
+   t   lacrimarum       
+   a    m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+       s               
+ clamamus              
+   d   s misericordiae 
+   v   p i             
+   o   i s             
+   c   r e             
+   a  lacrimarum       
+   t   m i             
+   a   u c             
+       s o             
+         r             
+         d             
+         e             
+         s             
+                       
+
+Dim: 21 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s  c          
+  r e  l          
+ lacrimarum       
+  m i  m          
+  u c  advocata   
+  s o  m          
+    r  u          
+    d  s          
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e    s        
+ lacrimarum       
+  d i    s        
+  v c    p        
+  o o    i        
+  c r    r        
+  a d  clamamus   
+  t e    m        
+  a s    u        
+         s        
+                  
+
+Dim: 16 by 13, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                   
+     misericordiae 
+     i             
+     s  c          
+     e  l s        
+  lacrimarum       
+     i  m s        
+ advocata p        
+     o  m i        
+     r  u r        
+     d  s a        
+     e    m        
+     s    u        
+          s        
+                   
+
+Dim: 17 by 13, Words: 6 out of 39, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+                           
+       c                   
+ dulcedo                   
+    l  n     misericordiae 
+    e  v     i             
+    m gementes  c          
+    e  r     e  l s        
+    n  t  lacrimarum       
+  exsules    i  m s        
+         advocata p        
+             o  m i        
+             r  u r        
+             d  s a        
+             e    m        
+             s    u        
+                  s        
+                           
+
+Dim: 25 by 15, Words: 11 out of 39, Cross: 12, Mix: 1  Ratio: 120 Loose 0 
+
+                             
+         c                   
+   dulcedo   n               
+      l  n   o misericordiae 
+ flentes v   s i             
+      m gementes  c          
+      e  r   r e  l s        
+      n  t  lacrimarum       
+    exsules    i  m s        
+           advocata p        
+               o  m i        
+               r  u r        
+               d  s a        
+               e    m        
+               s    u        
+                    s        
+                             
+
+Dim: 27 by 15, Words: 13 out of 39, Cross: 15, Mix: 1  Ratio: 125 Loose 0 
+
+               
+ misericordiae 
+ i             
+ s             
+ e             
+ r             
+ i             
+ c             
+ o             
+ r             
+ d             
+ e             
+ s             
+               
+
+Dim: 13 by 12, Words: 2 out of 39, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e             
+ lacrimarum       
+    i             
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 12, Words: 3 out of 39, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s             
+  r e             
+ lacrimarum       
+  m i             
+  u c             
+  s o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 4 out of 39, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+        u               
+        s misericordiae 
+        p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 5 out of 39, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+       s               
+ clamamus              
+       s misericordiae 
+       p i             
+       i s             
+       r e             
+      lacrimarum       
+       m i             
+       u c             
+       s o             
+         r             
+         d             
+         e             
+         s             
+                       
+
+Dim: 21 by 14, Words: 5 out of 39, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s  c          
+  r e  l          
+ lacrimarum       
+  m i  m          
+  u c  a          
+  s o  m          
+    r  u          
+    d  s          
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 5 out of 39, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e    s        
+ lacrimarum       
+    i    s        
+    c    p        
+    o    i        
+    r    r        
+    d  clamamus   
+    e    m        
+    s    u        
+         s        
+                  
+
+Dim: 16 by 13, Words: 5 out of 39, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+         s        
+         u        
+         s        
+         p        
+    misericordiae 
+    i    r        
+    s    a        
+    e    m        
+ lacrimarum       
+    i    s        
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 16, Words: 4 out of 39, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+                  
+  a               
+  d               
+  v    g          
+  o    e          
+  clamamus        
+  a    e u        
+  t    n s        
+  a    t p        
+    misericordiae 
+    i  s r        
+    s    a        
+    e    m        
+ lacrimarum       
+    i    s        
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 20, Words: 7 out of 39, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+                  
+       g          
+       e          
+  clamamus        
+       e u        
+       n s        
+       t p        
+    misericordiae 
+    i  s r        
+    s    advocata 
+    e    m        
+ lacrimarum       
+    i    s        
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 18, Words: 7 out of 39, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+                  
+         s        
+         u        
+         s        
+         p        
+    misericordiae 
+    i    r        
+    s    a        
+ c  e    m        
+ lacrimarum       
+ a  i    s        
+ m  c             
+ advocata         
+ m  r             
+ u  d             
+ s  e             
+    s             
+                  
+
+Dim: 16 by 16, Words: 6 out of 39, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+                    
+       c            
+       o            
+       n            
+     c v            
+   dulcedo          
+     e r            
+     m t            
+    gementes        
+     n     u        
+     s     s        
+           p        
+      misericordiae 
+      i    r        
+      s    a        
+   c  e    m        
+   lacrimarum       
+   a  i    s        
+   m  c             
+   advocata         
+   m  r             
+   u  d             
+ exsules            
+      s             
+                    
+
+Dim: 18 by 23, Words: 11 out of 39, Cross: 14, Mix: 1  Ratio: 140 Loose 0 
+
+                      
+                  c   
+                  o   
+               d  n   
+    gementes   u  v   
+           u  clemens 
+           s   c  r   
+           p   e  t   
+      misericordiae   
+      i    r   o      
+      s    a          
+   c  e    m          
+   lacrimarum         
+   a  i    s          
+   m  c               
+   advocata           
+   m  r               
+   u  d               
+ exsules              
+      s               
+                      
+
+Dim: 20 by 19, Words: 11 out of 39, Cross: 14, Mix: 1  Ratio: 140 Loose 0 
+
+                    
+     d              
+     u  g           
+    clemens         
+     c  m           
+ converte  s        
+     d  n  u        
+     o  t  s        
+        e  p        
+      misericordiae 
+      i    r        
+      s    a        
+   c  e    m        
+   lacrimarum       
+   a  i    s        
+   m  c             
+   advocata         
+   m  r             
+   u  d             
+ exsules            
+      s             
+                    
+
+Dim: 18 by 20, Words: 11 out of 39, Cross: 14, Mix: 1  Ratio: 140 Loose 0 
+
+                      
+                  g   
+              clemens 
+           s  o   m   
+           u  n   e   
+           s  v   n   
+           p  e   t   
+      misericordiae   
+      i    r  t   s   
+      s    a  e       
+   c  e    m          
+   lacrimarum         
+   a  i    s          
+   m  c               
+   advocata           
+   m  r               
+   u  d               
+ exsules              
+      s               
+                      
+
+Dim: 20 by 18, Words: 10 out of 39, Cross: 13, Mix: 1  Ratio: 144 Loose 0 
+
+                 
+   misericordiae 
+   i     l       
+   suspiramus    
+   e     m       
+   r     a       
+   i     m       
+ lacrimarum      
+   o     s       
+   r             
+   d             
+   e             
+   s             
+                 
+
+Dim: 15 by 12, Words: 5 out of 39, Cross: 6, Mix: 1  Ratio: 150 Loose 0 
+
+                  
+               g  
+   misericordiae  
+   i     l     m  
+   suspiramus  e  
+   e     m     n  
+   r     advocata 
+   i     m     e  
+ lacrimarum    s  
+   o     s        
+   r              
+   d              
+   e              
+   s              
+                  
+
+Dim: 16 by 13, Words: 7 out of 39, Cross: 9, Mix: 1  Ratio: 150 Loose 0 
+
+                
+       l        
+       a     g  
+ misericordiae  
+ i u   r     m  
+ s s   i     e  
+ e p   m     n  
+ r i   advocata 
+ i r   r     e  
+ clamamus    s  
+ o m   m        
+ r u            
+ d s            
+ e              
+ s              
+                
+
+Dim: 14 by 14, Words: 7 out of 39, Cross: 9, Mix: 1  Ratio: 150 Loose 0 
+
+                         
+                     f   
+                 a   l   
+                 dulcedo 
+                 v   n   
+                 o   t   
+        m        clemens 
+        i        a x s   
+        s      l t s     
+ converte    clamamus    
+        r g    c   l     
+       misericordiae     
+        c m    i   s     
+        o e    m         
+        r nostra         
+        d t    r         
+        e e    u         
+        suspiramus       
+                         
+
+Dim: 23 by 17, Words: 13 out of 39, Cross: 18, Mix: 1  Ratio: 150 Loose 0 
+
+                        
+             s          
+             u          
+         c   s          
+         l m p          
+         a i i          
+         misericordiae  
+    c    a e a    u d   
+    lacrimarum    l v   
+    e o  u i u    c o   
+  gementes c s    e c   
+    e v    o      d a   
+ flentes   r     nostra 
+    s r    d        a   
+      t    e            
+ exsules   s            
+                        
+
+Dim: 22 by 15, Words: 13 out of 39, Cross: 18, Mix: 1  Ratio: 150 Loose 0 
+
+                        
+             s          
+             u          
+         c   s          
+         l m p          
+         a i i          
+         misericordiae  
+    c    a e a    u d   
+    lacrimarum    l v   
+    e o  u i u    c o   
+  gementes c s    e c   
+    e v    o      d a   
+ flentes   r     nostra 
+    s r    d     o  a   
+      t    exsules      
+      e    s     t      
+                 r      
+                 a      
+                        
+
+Dim: 22 by 17, Words: 14 out of 39, Cross: 20, Mix: 1  Ratio: 153 Loose 0 
+
+                  
+            f     
+          g l     
+          e e     
+       clemens    
+        a e t     
+        converte  
+        r t s     
+        i e       
+   clamamus       
+      i a         
+    misericordiae 
+      e u         
+ suspiramus       
+      i           
+      c           
+   advocata       
+    u r           
+    l d           
+    c e           
+    exsules       
+    d             
+    o             
+                  
+
+Dim: 16 by 22, Words: 12 out of 39, Cross: 17, Mix: 1  Ratio: 154 Loose 0 
+
+                      
+ e                    
+ x                    
+ s     c              
+ u     l              
+ lacrimarum           
+ e     m  i           
+ suspiramus           
+       m  e      c    
+       u  r   a  l    
+     misericordiae    
+          c   v  m    
+          o  converte 
+          r   c  n    
+          d   a  s    
+         gementes     
+          s   a       
+                      
+
+Dim: 20 by 16, Words: 10 out of 39, Cross: 14, Mix: 1  Ratio: 155 Loose 0 
+
+              
+       a      
+       d      
+       v      
+       o      
+ misericordes 
+       a      
+       t      
+       a      
+              
+
+Dim: 12 by 8, Words: 2 out of 11, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+              
+       a      
+       d      
+    converte  
+       o      
+ misericordes 
+       a      
+       t      
+       a      
+              
+
+Dim: 12 by 8, Words: 3 out of 11, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+              
+       a      
+       d      
+       v      
+       o      
+ misericordes 
+       a      
+ converte     
+  c    a      
+  u           
+  l           
+  o           
+  s           
+              
+
+Dim: 12 by 12, Words: 4 out of 11, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+              
+       a      
+       d      
+       v      
+       o      
+ misericordes 
+       a      
+ converte     
+  c    a      
+  u           
+  l           
+ nostra       
+  s           
+              
+
+Dim: 12 by 12, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              
+   o          
+   c   a n    
+   u   d o    
+   l   v s    
+   o   o t    
+ misericordes 
+       a a    
+ converte     
+       a      
+              
+
+Dim: 12 by 9, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              
+            o 
+    c       c 
+   nostra   u 
+    n   d   l 
+    v   v   o 
+ misericordes 
+    r   c     
+    t   a     
+    e   t     
+        a     
+              
+
+Dim: 12 by 10, Words: 5 out of 11, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+              
+       a   c  
+       d   o  
+       v   n  
+     e o   v  
+ misericordes 
+     g a   r  
+    nostra t  
+       a   e  
+              
+
+Dim: 12 by 8, Words: 5 out of 11, Cross: 5, Mix: 2  Ratio: 125 Loose 0 
+
+              
+       a      
+       d      
+       v      
+       o e    
+ misericordes 
+       a g    
+       tuos   
+       a      
+              
+
+Dim: 12 by 8, Words: 4 out of 11, Cross: 4, Mix: 23  Ratio: 133 Loose 0 
+
+        
+ c      
+ o      
+ nostra 
+ v  u   
+ ergo   
+ r  s   
+ t      
+ e      
+        
+
+Dim: 6 by 8, Words: 4 out of 11, Cross: 4, Mix: 38  Ratio: 133 Loose 0 
+
+         
+  nostra 
+   c u   
+   u o   
+ illos   
+   o     
+   s     
+         
+
+Dim: 7 by 6, Words: 4 out of 11, Cross: 4, Mix: 133  Ratio: 133 Loose 0 
+
+             
+    m        
+    i        
+    s        
+    e        
+    r  a     
+    i  d     
+    converte 
+    o  o     
+    r  c     
+    d  a     
+    e  t     
+  nostra     
+   c u       
+   u o       
+ illos       
+   o         
+   s         
+             
+
+Dim: 11 by 17, Words: 7 out of 11, Cross: 8, Mix: 198  Ratio: 133 Loose 0 
+
+          
+    i m   
+    l i   
+ oculos   
+  o o e   
+  nostra  
+  v   i   
+  e   c   
+  r tuos  
+  t   r   
+  e   d   
+      eia 
+      s   
+          
+
+Dim: 8 by 12, Words: 7 out of 11, Cross: 8, Mix: 260  Ratio: 133 Loose 0 
+
+              
+   o    e     
+   converte   
+   u o  g i   
+ illos  o a   
+   o t        
+ misericordes 
+     a        
+              
+
+Dim: 12 by 7, Words: 7 out of 11, Cross: 8, Mix: 280  Ratio: 133 Loose 0 
+
+            
+   m        
+   i        
+   s        
+   e        
+   r  a     
+   i  d     
+   converte 
+   o  o  u  
+   r oculos 
+   d  a  s  
+   e  t     
+ nostra     
+            
+
+Dim: 10 by 12, Words: 6 out of 11, Cross: 7, Mix: 395  Ratio: 140 Loose 0 
+
+              
+   o          
+   converte   
+   u o        
+ illos        
+   o t        
+ misericordes 
+     a        
+              
+
+Dim: 12 by 7, Words: 5 out of 11, Cross: 6, Mix: 518  Ratio: 150 Loose 0 
+
+               
+ misericordiae 
+ i             
+ s             
+ e             
+ r             
+ i             
+ c             
+ o             
+ r             
+ d             
+ e             
+ s             
+               
+
+Dim: 13 by 12, Words: 2 out of 39, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e             
+ lacrimarum       
+    i             
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 12, Words: 3 out of 39, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s             
+  r e             
+ lacrimarum       
+  m i             
+  u c             
+  s o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 4 out of 39, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+        u               
+        s misericordiae 
+        p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 5 out of 39, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ a                      
+ d                      
+ v                      
+ o                      
+ clamamus               
+ a      u               
+ t      s misericordiae 
+ a      p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 18, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+   d    u               
+   v    s misericordiae 
+   o    p i             
+   c    i s             
+   a    r e             
+   t   lacrimarum       
+   a    m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+       s               
+ clamamus              
+   d   s misericordiae 
+   v   p i             
+   o   i s             
+   c   r e             
+   a  lacrimarum       
+   t   m i             
+   a   u c             
+       s o             
+         r             
+         d             
+         e             
+         s             
+                       
+
+Dim: 21 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s  c          
+  r e  l          
+ lacrimarum       
+  m i  m          
+  u c  advocata   
+  s o  m          
+    r  u          
+    d  s          
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e    s        
+ lacrimarum       
+  d i    s        
+  v c    p        
+  o o    i        
+  c r    r        
+  a d  clamamus   
+  t e    m        
+  a s    u        
+         s        
+                  
+
+Dim: 16 by 13, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                   
+     misericordiae 
+     i             
+     s  c          
+     e  l s        
+  lacrimarum       
+     i  m s        
+ advocata p        
+     o  m i        
+     r  u r        
+     d  s a        
+     e    m        
+     s    u        
+          s        
+                   
+
+Dim: 17 by 13, Words: 6 out of 39, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+                           
+       c                   
+ dulcedo                   
+    l  n     misericordiae 
+    e  v     i             
+    m gementes  c          
+    e  r     e  l s        
+    n  t  lacrimarum       
+  exsules    i  m s        
+         advocata p        
+             o  m i        
+             r  u r        
+             d  s a        
+             e    m        
+             s    u        
+                  s        
+                           
+
+Dim: 25 by 15, Words: 11 out of 39, Cross: 12, Mix: 1  Ratio: 120 Loose 0 
+
+                             
+         c                   
+   dulcedo   n               
+      l  n   o misericordiae 
+ flentes v   s i             
+      m gementes  c          
+      e  r   r e  l s        
+      n  t  lacrimarum       
+    exsules    i  m s        
+           advocata p        
+               o  m i        
+               r  u r        
+               d  s a        
+               e    m        
+               s    u        
+                    s        
+                             
+
+Dim: 27 by 15, Words: 13 out of 39, Cross: 15, Mix: 1  Ratio: 125 Loose 0 
+
+               
+ misericordiae 
+ i             
+ s             
+ e             
+ r             
+ i             
+ c             
+ o             
+ r             
+ d             
+ e             
+ s             
+               
+
+Dim: 13 by 12, Words: 2 out of 39, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e             
+ lacrimarum       
+    i             
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 12, Words: 3 out of 39, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s             
+  r e             
+ lacrimarum       
+  m i             
+  u c             
+  s o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 4 out of 39, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+        u               
+        s misericordiae 
+        p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 5 out of 39, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ a                      
+ d                      
+ v                      
+ o                      
+ clamamus               
+ a      u               
+ t      s misericordiae 
+ a      p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 18, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+   d    u               
+   v    s misericordiae 
+   o    p i             
+   c    i s             
+   a    r e             
+   t   lacrimarum       
+   a    m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+       s               
+ clamamus              
+   d   s misericordiae 
+   v   p i             
+   o   i s             
+   c   r e             
+   a  lacrimarum       
+   t   m i             
+   a   u c             
+       s o             
+         r             
+         d             
+         e             
+         s             
+                       
+
+Dim: 21 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s  c          
+  r e  l          
+ lacrimarum       
+  m i  m          
+  u c  advocata   
+  s o  m          
+    r  u          
+    d  s          
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e    s        
+ lacrimarum       
+  d i    s        
+  v c    p        
+  o o    i        
+  c r    r        
+  a d  clamamus   
+  t e    m        
+  a s    u        
+         s        
+                  
+
+Dim: 16 by 13, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                   
+     misericordiae 
+     i             
+     s  c          
+     e  l s        
+  lacrimarum       
+     i  m s        
+ advocata p        
+     o  m i        
+     r  u r        
+     d  s a        
+     e    m        
+     s    u        
+          s        
+                   
+
+Dim: 17 by 13, Words: 6 out of 39, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+                           
+       c                   
+ dulcedo                   
+    l  n     misericordiae 
+    e  v     i             
+    m gementes  c          
+    e  r     e  l s        
+    n  t  lacrimarum       
+  exsules    i  m s        
+         advocata p        
+             o  m i        
+             r  u r        
+             d  s a        
+             e    m        
+             s    u        
+                  s        
+                           
+
+Dim: 25 by 15, Words: 11 out of 39, Cross: 12, Mix: 1  Ratio: 120 Loose 0 
+
+                             
+         c                   
+   dulcedo   n               
+      l  n   o misericordiae 
+ flentes v   s i             
+      m gementes  c          
+      e  r   r e  l s        
+      n  t  lacrimarum       
+    exsules    i  m s        
+           advocata p        
+               o  m i        
+               r  u r        
+               d  s a        
+               e    m        
+               s    u        
+                    s        
+                             
+
+Dim: 27 by 15, Words: 13 out of 39, Cross: 15, Mix: 1  Ratio: 125 Loose 0 
+
+               
+ misericordiae 
+ i             
+ s             
+ e             
+ r             
+ i             
+ c             
+ o             
+ r             
+ d             
+ e             
+ s             
+               
+
+Dim: 13 by 12, Words: 2 out of 39, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e             
+ lacrimarum       
+    i             
+    c             
+    o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 12, Words: 3 out of 39, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s             
+  r e             
+ lacrimarum       
+  m i             
+  u c             
+  s o             
+    r             
+    d             
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 4 out of 39, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+        u               
+        s misericordiae 
+        p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 5 out of 39, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ a                      
+ d                      
+ v                      
+ o                      
+ clamamus               
+ a      u               
+ t      s misericordiae 
+ a      p i             
+        i s             
+        r e             
+       lacrimarum       
+        m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 18, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                        
+ clamamus               
+   d    u               
+   v    s misericordiae 
+   o    p i             
+   c    i s             
+   a    r e             
+   t   lacrimarum       
+   a    m i             
+        u c             
+        s o             
+          r             
+          d             
+          e             
+          s             
+                        
+
+Dim: 22 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                       
+       s               
+ clamamus              
+   d   s misericordiae 
+   v   p i             
+   o   i s             
+   c   r e             
+   a  lacrimarum       
+   t   m i             
+   a   u c             
+       s o             
+         r             
+         d             
+         e             
+         s             
+                       
+
+Dim: 21 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+  s               
+  u               
+  s misericordiae 
+  p i             
+  i s  c          
+  r e  l          
+ lacrimarum       
+  m i  m          
+  u c  advocata   
+  s o  m          
+    r  u          
+    d  s          
+    e             
+    s             
+                  
+
+Dim: 16 by 14, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                  
+    misericordiae 
+    i             
+    s             
+    e    s        
+ lacrimarum       
+  d i    s        
+  v c    p        
+  o o    i        
+  c r    r        
+  a d  clamamus   
+  t e    m        
+  a s    u        
+         s        
+                  
+
+Dim: 16 by 13, Words: 6 out of 39, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+                   
+     misericordiae 
+     i             
+     s  c          
+     e  l s        
+  lacrimarum       
+     i  m s        
+ advocata p        
+     o  m i        
+     r  u r        
+     d  s a        
+     e    m        
+     s    u        
+          s        
+                   
+
+Dim: 17 by 13, Words: 6 out of 39, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+                           
+       c                   
+ dulcedo                   
+    l  n     misericordiae 
+    e  v     i             
+    m gementes  c          
+    e  r     e  l s        
+    n  t  lacrimarum       
+  exsules    i  m s        
+         advocata p        
+             o  m i        
+             r  u r        
+             d  s a        
+             e    m        
+             s    u        
+                  s        
+                           
+
+Dim: 25 by 15, Words: 11 out of 39, Cross: 12, Mix: 1  Ratio: 120 Loose 0 
+
+                             
+         c                   
+   dulcedo   n               
+      l  n   o misericordiae 
+ flentes v   s i             
+      m gementes  c          
+      e  r   r e  l s        
+      n  t  lacrimarum       
+    exsules    i  m s        
+           advocata p        
+               o  m i        
+               r  u r        
+               d  s a        
+               e    m        
+               s    u        
+                    s        
+                             
+
+Dim: 27 by 15, Words: 13 out of 39, Cross: 15, Mix: 1  Ratio: 125 Loose 0 
+
+                              
+                  H d         
+                  e u         
+         c        valle       
+   dulcedo   n    a c    f    
+      l  n   o misericordiae  
+ flentes v   s i    s    l r  
+      m gementes  c     virgo 
+      e  r   r e  l s    i o  
+      n  t  lacrimarum        
+    exsules    i  m s         
+           advocata p         
+             i o  m i         
+           mater  u r         
+           a a d  s a         
+           r   e    m         
+           illos    u         
+           a      nostra      
+                   c  e       
+                   u  g       
+                   l  i       
+                 tuos n       
+                   s salve    
+                     p        
+                     e        
+                     s        
+                              
+
+Dim: 28 by 25, Words: 29 out of 39, Cross: 35, Mix: 1  Ratio: 125 Loose 0 
+
+                              
+                  H d         
+                  e u         
+         c        valle       
+   dulcedo   n    a c    f    
+      l  n   o misericordiae  
+ flentes v   s i    s    l r  
+      m gementes  c     virgo 
+      e  r   r e  l s    i o  
+      n  t  lacrimarum        
+    exsules    i  m s         
+           advocata p         
+             i o  m i         
+           mater  u r         
+           a a d  s a         
+           r   e    m         
+           illos    u         
+           a      nostra      
+                   c  e       
+                   u  g       
+                   l  i  s    
+                 tuos n  p    
+                   s salve    
+                         s    
+                              
+
+Dim: 28 by 23, Words: 29 out of 39, Cross: 35, Mix: 1  Ratio: 125 Loose 0 
+
+                              
+                  H d         
+                  e u         
+         c        valle       
+   dulcedo   n    a c    f    
+      l  n   o misericordiae  
+ flentes v   s i    s    l r  
+      m gementes  c     virgo 
+    spes r   r e  l s    i o  
+      n  t  lacrimarum        
+    exsules    i  m s         
+           advocata p         
+             i o  m i         
+           mater  u r         
+           a a d  s a         
+           r   e    m         
+           illos    u         
+           a      nostra      
+                   c  e       
+                   u  g       
+                   l  i       
+                 tuos n       
+                   s salve    
+                              
+
+Dim: 28 by 22, Words: 29 out of 39, Cross: 35, Mix: 1  Ratio: 125 Loose 0 
+
+                              
+                  H d         
+                  e u         
+         c        valle       
+   dulcedo   n    a c    f    
+      l  n   o misericordiae  
+ flentes v   s i    s    l r  
+    o m gementes  c     virgo 
+    spes r   r e  l s    i o  
+      n  t  lacrimarum        
+    exsules    i  m s         
+           advocata p         
+             i o  m i         
+           mater  u r         
+         eia a d  s a         
+           r   e    m         
+           illos    u         
+         pia      nostra      
+                   c  e       
+                   u  g       
+                   l  i       
+                 tuos n       
+                   s salve    
+                              
+
+Dim: 28 by 22, Words: 32 out of 39, Cross: 39, Mix: 1  Ratio: 125 Loose 0 
+
+                              
+                  H d         
+                  e u         
+         c        valle       
+   dulcedo   n    a c    f    
+      l  n   o misericordiae  
+ flentes v   s i    s    l r  
+    o m gementes  c     virgo 
+    spes r   r e  l s    i o  
+      n  t  lacrimarum        
+    exsules    i  m s h       
+           advocata pia       
+             i o  m i c       
+           mater  u r         
+         eia a d  s a         
+           r   e    m         
+           illos    u         
+           a      nostra      
+                   c  e       
+                   u  g       
+                   l  i       
+                 tuos n       
+                   s salve    
+                              
+
+Dim: 28 by 22, Words: 33 out of 39, Cross: 40, Mix: 1  Ratio: 125 Loose 1 

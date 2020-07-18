@@ -35,6 +35,9 @@
 	  {% if page.spotify %}
 	  <li><a href="https://open.spotify.com/playlist/{{ page.spotify }}"><i class="icon-spotify"></i> Spotify playlist (external link)</a></li>
           {% endif %}
+	  {% if page.podcast %}
+	  <li><a href="{{ page.podcast }}"><i class="icon-headphones"></i> mp3</a></li>
+	  {% endif %}
 	  </ul>
 
     {{ content }}
