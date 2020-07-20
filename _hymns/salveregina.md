@@ -10,6 +10,7 @@ pageno: 61
 gloss: true
 crossword: salve.pdf
 podcast: https://anchor.fm/s/e38cd50/podcast/play/16736089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-18%2F3773649f-c9db-490d-0a10-d576d3a70cba.mp3
+spotify: 2CeybWUjTtpWCAkZivSYu9
 ---
 
 Simple Roman Salve Regina - the [Marian Antiphon]({{ site.url }}{{ site.baseurl }}/2017/03/08/marian-antiphons.html) for "Ordinary Time" or Time after Pentecost.
@@ -20,8 +21,9 @@ About 2014 I taught this over a few lessons and made graded crossword puzzles, l
 I also put together a [Memrise Course](http://www.memrise.com/course/377696/salve-regina/) :
 Memrise is a handy thing and the free level is fine for learning stuff. For third party memrise courses like mine, you need to log in and add them to your account in a web browser, then they're available through the app. You can't find it by searching through the app itself.
 
+Here's the Spotify playlist:
 
-
+<iframe src="https://open.spotify.com/embed/playlist/2CeybWUjTtpWCAkZivSYu9" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Corpus Christi Watershed have a page with [12 Organ Accompaniments for the Simple Salve Regina](https://www.ccwatershed.org/2020/06/04/pdf-download-12-accompaniments-for-simple-salve-regina/) You're sure to find one you like there!
 
