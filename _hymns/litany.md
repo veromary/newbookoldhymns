@@ -6,10 +6,18 @@ lesson: 22
 quizlet: https://quizlet.com/_gwnou
 gloss: true
 img: sanctamaria.png
+memrise: https://www.memrise.com/course/5763941/litany-of-loreto-litaniae-lauretanae/
+podcast: https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2020-6-26/5a797017-7235-f640-c0ec-0d8374ba1051.mp3
 crossword: litany.pdf
 pageno: 64
 video: https://youtu.be/CZXc3JtNAwk
 ---
+
+Litanies are great for processions - one person has all the heavy lifting and the rest float along with the easy responses.
+
+Some places recite this during Benediction of the Blessed Sacrament - which used to seem odd to me, but Our Lady carried Our Lord, so there is a strong link between the Holy Eucharist and Mary.
+
+Recently, Pope Francis added in three new invocations. I still haven't added them in yet. Also, I found a typo - I've been emphasising the first syllable of gaudere all this time and it should be the second syllable. I've ammended this in the podcast, but still have to fix the hymnbook.
 
 <div data-gloss>
 <p>Kyrie eleison, Christe eleison, Kyrie eleison.</p>

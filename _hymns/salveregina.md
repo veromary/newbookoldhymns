@@ -10,6 +10,7 @@ pageno: 61
 gloss: true
 crossword: salve.pdf
 podcast: https://anchor.fm/s/e38cd50/podcast/play/16736089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-18%2F3773649f-c9db-490d-0a10-d576d3a70cba.mp3
+memrise: https://www.memrise.com/course/377696/salve-regina/
 spotify: 2CeybWUjTtpWCAkZivSYu9
 ---
 
