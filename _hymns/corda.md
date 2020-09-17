@@ -6,6 +6,7 @@ lesson: 30
 video: https://www.youtube.com/watch?v=vnxO4q49EOA
 gloss: true
 quizlet: https://quizlet.com/_3qt2wt
+podcast: https://anchor.fm/s/e38cd50/podcast/play/19729086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-17%2Fabfb0b95-b446-e6ef-fdd6-8e597ced35d0.mp3
 ---
 
 This one is a gem. [Maternal Heart](http://maternalheart.org) has a bit of a Franciscan background along with it's Benedictine tendencies. The first priest was a Franciscan and setting up the community co-incided with some Franciscan feasts and novenas to St Francis. Each year about this time they have a novena to st Francis which includes this hymn.
