@@ -48,3 +48,6 @@ mktexpk --mfmode / --bdpi 600 --mag 2+44/600 --dpi 1244 priory
 mktexpk --mfmode / --bdpi 600 --mag 2+44/600 --dpi 1244 priory
 mktextfm priory
 mktextfm priory
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 oslz20
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 oslz20
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 oslz20
