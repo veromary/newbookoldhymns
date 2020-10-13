@@ -8,6 +8,7 @@ video: https://youtu.be/sjWjnhfEto8
 lesson: 32
 pageno: 56
 gloss: true
+img: ducdeberryfuneral.jpg
 ---
 
 This is the Introit or Entrance Antiphon for a Mass of the Dead.  

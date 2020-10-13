@@ -83,3 +83,7 @@
 .icon-youtube:before { content: '\f167'; } /* '' */
 .icon-youtube-play:before { content: '\f16a'; } /* '' */
 .icon-spotify:before { content: '\f1bc'; } /* '' */
+
+img.hymnthumb {
+	margin: 0 0 1em 0;
+}
