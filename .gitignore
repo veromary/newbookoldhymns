@@ -30,3 +30,7 @@
 *.vrb
 *.xdy
 *.tdo
+*.gtex
+*.glog
+*.gaux
+

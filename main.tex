@@ -1,57 +1,27 @@
-% !TEX TS-program = lualatex
-% !TEX encoding = UTF-8
-
-% This is a simple template for a LuaLaTeX document using gregorio scores.
-
-\documentclass[11pt]{article} % use larger type; default would be 10pt
+\documentclass[12pt,a5paper]{memoir}
 
 % usual packages loading:
 \usepackage{fontspec}
-\setmainfont{EB Garamond}
-\usepackage{graphicx} % support the \includegraphics command and options
-\usepackage{geometry} % See geometry.pdf to learn the layout options. There are lots.
-\geometry{a5paper} % or letterpaper (US) or a5paper or....
-\usepackage{gregoriotex} % for gregorio score inclusion
-\usepackage[cm]{fullpage} % to reduce the margins
+\setmainfont{Calluna}
+\usepackage[autocompile]{gregoriotex} % for gregorio score inclusion
 \usepackage{multicol}
+\usepackage{graphicx} % support the \includegraphics command and options
+\usepackage[pass-fonts=true,program=/usr/bin/lilypond]{lyluatex}
+\setlength{\trimtop}{0pt}
+\setlength{\trimedge}{0pt}
+\settypeblocksize{170mm}{105mm}{*} % Was 101mm in a5
+\setulmargins{*}{*}{1.4}
+\setlrmargins{*}{*}{1.2}
+\setheadfoot{\onelineskip}{2\onelineskip}
+\setheaderspaces{*}{.8\onelineskip}{*}
+\checkandfixthelayout
 
-% to change the font to something better, you can install the kpfonts package (if not already installed). To do so
-% go open the "TeX Live Manager" in the Menu Start->All Programs->TeX Live 2010
-
-\let\oldtextbf\textbf
-
-\renewcommand\textbf[1]{%
-    \pdfliteral direct {2 Tr 0.2 w}%
-     \oldtextbf{#1}%
-    \pdfliteral direct {0 Tr 0 w}%
-}
-\newcommand\embolden[1]{%
-    \pdfliteral direct {2 Tr 0.2 w}%
-     #1%
-    \pdfliteral direct {0 Tr 0 w}%
-}
-\renewcommand\greboldfont[1]{%
-    \pdfliteral direct {2 Tr 0.2 w}%
-    \oldtextbf{#1}%
-    \pdfliteral direct {0 Tr 0 w}%
-}
+\tolerance=1000
+\pretolerance=800
 
 
-% here we begin the document
+
 \begin{document}
-
-% Here we set the space around the initial.
-% Please report to http://home.gna.org/gregorio/gregoriotex/details for more details and options
-\setspaceafterinitial{2.2mm plus 0em minus 0em}
-\setspacebeforeinitial{2.2mm plus 0em minus 0em}
-
-% Here we set the initial font. Change 43 if you want a bigger initial.
-\def\greinitialformat#1{%
-{\fontsize{43}{43}\selectfont #1}%
-}
-
-% We set red lines here, comment it if you want black ones.
-\redlines
 
 
 \begin{center}
@@ -77,79 +47,161 @@ of the Church's year
 \end{center}
 
 First Edition July 2004
+
 Second Edition January 2006
+
 Third Edition October 2007
 
 Compiled by Veronica Brandt http://brandt.id.au.
 
 \tableofcontents
 
-\includescore{gabc/va--oremus_pro_pontifice--solesmes}
+\begin{center}
+\includegraphics[width=7cm]{images/papab16}
+\end{center}
+
+\gregorioscore{gabc/va--oremus_pro_pontifice--solesmes}
 
 \section{Advent}
 
-\includescore{gabc/hy--conditor_alme_siderum-v1--solesme}
+\subsection{Conditor Alme Siderum}
 
-Veni veni Emmanuel - need to type it up in Lilypond or something like that.
+\gregorioscore{gabc/hy--conditor_alme_siderum-v1--solesme}
+
+\subsection{Veni O Sapientia}
+
+\begin{lilypond}
+emphasize = {
+  \override Lyrics.LyricText.font-shape = #'italic
+}
+
+normal = {
+  \revert Lyrics.LyricText.font-shape
+}
+music = \relative {
+	\key g \major
+\time 4/4
+	\partial 4
+	e g b b b a( c b) a g2.
+	a4 b g e g a( fis e) d e2.
+	a4 a e e fis g2( fis4) e d2.
+	g4 a b b b a( c b) a g2.
+	d'4 d2. b4 b2. b4 a( c b) a g
+	\partial 4 a4 b g e g a( fis e) d e2. ||
+}
+	\addlyrics {
+		Ve -- ni O Sa -- pi -- én -- ti -- a,
+		Quae hic dis -- pón -- is óm -- ni -- a,
+		Ve -- ni, vi -- am pru -- dén -- ti -- a,
+		Ut dó -- ce -- as et gló -- ri -- ae.
+		Gau -- de! Gau -- de! Em -- má -- nu -- el
+		Na -- scé -- tur pro te Is -- ra -- el.
+		}
+		\addlyrics { 
+\emphasize O come Thou Wis -- dom from on high
+		Who ord -- rest all things might -- i -- ly
+		To us the path of know -- ledge show,
+		And teach us in her ways to go.
+		Re -- joice! Re -- joice! Em -- ma -- nu -- el
+		shall come to thee O Is -- ra -- el.
+		}
+	harmony = \relative {
+	\key g \major
+		\partial 4
+		b'4 g e e g a2( g4) fis g2.
+		fis4 e g b g fis( a g) fis e2.
+		a4 c b b a g( b a) g a2.
+		g4 fis e e e fis( a g) fis g2.
+		g4 b2. b4 b2. g4 a2( g4) fis g
+		fis4 e g b g fis( a g) fis e2.
+		}
+\score {
+   \new ChoirStaff <<
+   \new Staff \transpose c c' \music
+   \new Staff {
+      \harmony
+   }
+   >>
+}
+\end{lilypond}
 
 
-\includescore{gabc/va--rorate_caeli--solesmes.1}
+\subsection{Rorate Caeli}
 
-\includescore{gabc/va--rorate_caeli--solesmes.2}
+\gregorioscore{gabc/va--rorate_caeli--solesmes.1}
 
-\includescore{gabc/va--rorate_caeli--solesmes.3}
+\gregorioscore{gabc/va--rorate_caeli--solesmes.2}
 
-\includescore{gabc/va--rorate_caeli--solesmes.4}
+\gregorioscore{gabc/va--rorate_caeli--solesmes.3}
 
-\includescore{gabc/va--rorate_caeli--solesmes.5}
+\gregorioscore{gabc/va--rorate_caeli--solesmes.4}
+
+\gregorioscore{gabc/va--rorate_caeli--solesmes.5}
 
 \section{Christmas}
 
-\includescore{gabc/hy--puer_natus_in_bethlehem--solesmes}
+\subsection{Puer Natus in Bethlehem}
+
+\gregorioscore{gabc/hy--puer_natus_in_bethlehem--solesmes}
 
 \section{Holy Name}
 
-\includescore{gabc/hy--jesu_dulcis_memoria--solesmes}
+\subsection{Jesu Dulcis Memoria}
 
-\includescore{gabc/an--lumen_ad_revelationem--solesmes}
+\gregorioscore{gabc/hy--jesu_dulcis_memoria--solesmes}
+
 
 \section{Epiphany}
 
 \section{Candlemas}
 
+\subsection{Lumen ad Revelationem Gentium}
+
+\gregorioscore{gabc/an--lumen_ad_revelationem--solesmes}
+
 \section{Lent}
 
-\includescore{gabc/va--attende_domine--solesmes.1}
+\subsection{Attende Domine}
 
-\includescore{gabc/va--attende_domine--solesmes.2}
+\gregorioscore{gabc/va--attende_domine--solesmes}
 
-\includescore{gabc/an--parce_domine--solesmes}
+%\gregorioscore{gabc/va--attende_domine--solesmes.2}
+
+\subsection{Parce Domine}
+
+\gregorioscore{gabc/an--parce_domine--solesmes}
 
 \section{Passiontide}
 
 %Gloria Laus
+\subsection{Gloria Laus}
 
-\includescore{gabc/hy--gloria_laus--solesmes.1}
-
-
-\includescore{gabc/hy--gloria_laus--solesmes.2}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.1}
 
 
-\includescore{gabc/hy--gloria_laus--solesmes.3}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.2}
 
 
-\includescore{gabc/hy--gloria_laus--solesmes.4}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.3}
 
 
-\includescore{gabc/hy--gloria_laus--solesmes.5}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.4}
 
 
-\includescore{gabc/hy--gloria_laus--solesmes.6}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.5}
 
-\includescore{gabc/hy--vexilla_regis_prodeunt--solesmes.1verse}
+
+\gregorioscore{gabc/hy--gloria_laus--solesmes.6}
+
+
+\subsection{Vexilla Regis}
+
+\gregorioscore{gabc/hy--vexilla_regis_prodeunt--solesmes.1verse}
 
 
 \section{Easter}
+
+
 
 \section{Ascension}
 
@@ -174,11 +226,8 @@ Veni veni Emmanuel - need to type it up in Lilypond or something like that.
 \% The title:
 \begin{center}\begin{huge}\textsc{For Peace}\end{huge}\end{center}
 
-% We set VII above the initial.
-\gresetfirstlineaboveinitial{\small \textsc{\textbf{II}}}{\small \textsc{\textbf{II}}}
 
-% and finally we include the score. The file must be in the same directory as this one.
-\includescore{gabc/an--da_pacem_domine--solesmes.tex}
+\gregorioscore{gabc/an--da_pacem_domine--solesmes}
 
 \bigskip
 

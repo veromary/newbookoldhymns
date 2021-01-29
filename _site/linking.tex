@@ -1,0 +1,51 @@
+\newbox\linkbox
+\newbox\wordbox
+%\newdimen\boxwid
+
+\def\lyrlink{%
+  % Bogen erstellen: Put the smilie in the box:
+  \setbox\linkbox=\hbox{$\smile$}%
+  % In Box der Breite eines Wortzwischenraums einsetzen:
+  % Make the box one space wide:
+  \setbox\linkbox=\hbox to\the\fontdimen2\the\font{%
+    \hss
+    % Unter die Grundlinie druecken:
+    % Lower the box under the word:
+    \lower\ht\linkbox\hbox{%
+      % Zusaetzlicher vertikaler Abstand zur Wortunterseite:
+      % lower the smile a little bit more:
+      \lower1pt\hbox{%
+	\relax
+	  \hbox{$\smile$}%
+	}}%
+    \hss}%
+  % Keine zusaetzliche Tiefe fuer Bogen anrechnen:
+  % Make the depth of the box zero:
+  \dp\linkbox=0pt
+  % Bogen setzen:
+  \box\linkbox}
+
+\def\intralink#1{%
+  \setbox\linkbox=\hbox{$\smile$}%
+  \setbox\wordbox=\hbox{#1}%
+  \setbox\linkbox=\hbox to\wd\wordbox{%
+    \hss
+    % Unter die Grundlinie druecken:
+    % Lower the box under the word:
+    \lower\ht\linkbox\hbox{%
+      % Zusaetzlicher vertikaler Abstand zur Wortunterseite:
+      % lower the smile a little bit more:
+      \lower1pt\hbox{%
+	\relax
+	  \hbox{$\smile$}%
+	}}%
+    \hss}%
+  % Keine zusaetzliche Tiefe fuer Bogen anrechnen:
+  % Make the depth of the box zero:
+  \dp\linkbox=0pt
+%  \let\boxwid=\the\wd\wordbox
+%  \lower\ht\linkbox%
+  \box\wordbox \llap{\box\linkbox}}
+
+
+

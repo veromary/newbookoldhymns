@@ -1,0 +1,120 @@
+\input opustex
+\input opusgreg
+%\input opuslit % for the breve in Adoremus
+\input eplain
+
+\abovesystem1
+\belowsystem8
+
+\font\smallcaps = cmcsc10 scaled 900
+\font\caps = \fontid csc10
+\font\boldcaps = cmcsc10 scaled \magstep5
+\font\rmlyrics = cmr9
+\font\itlyrics = cmti9
+\font\smallrm = cmr8
+\font\itbfsm = cmbxti10 scaled 900
+%\font\title = hmin10 scaled \magstep1 %= cmbx12 scaled 1200
+\font\smallit = cmti8
+\font\smalltt = cmtt8
+\font\smold = cmmi10 scaled 900
+\font\amssymbols = msam10
+\font\numerical = cmbx12
+
+% Humanist Minuscule font
+
+%\font\bigtype = hmin10 scaled \magstep2
+%\font\Bigtype = hmin17 scaled \magstep2
+%\font\musicaps = hmin17 scaled \magstep4
+%\font\textcaps = hmin17 scaled \magstep3
+
+%\musicinitialfont\musicaps
+%\textinitialfont\textcaps
+
+\newcount\hymnno
+\hymnno=1
+
+\def\ngl#1{\cchar{-6}{\itlyrics #1}}
+\def\engl#1{\cchar{-7}{\itlyrics #1}}
+\def\sengl#1{\cchar{-9}{\itlyrics #1}}
+\def\subengl#1{\cchar{-13}{\itlyrics #1}}
+
+\def\tocsectionentry#1#2{\smallskip\goodbreak\line{{\bf #1}\dotfill {\oldstyle #2}\quad}}
+
+\def\tocsubsectionentry#1#2{\line{\qquad \smallrm #1 \hfil}}
+
+\def\beginpart #1\par{\writetocentry{section}{#1}\mark{#1}}
+
+%\def\beginpart #1\par{\mark{#1}}
+
+%\def\beginhymn #1\par{\centerline{\title #1}\par\bigskip}
+
+%\def\beginhymn #1.{\writetocentry{subsection}{#1}\sidx{#1}
+%\def\beginhymn #1.{\line{\numerical\the\hymnno . \hfil \bigtype \idx{#1} \hfil }\advance\hymnno by 1\par\bigskip}
+\def\beginhymn #1.{\line{ \hfil \bigtype \idx{#1} \hfil }\advance\hymnno by 1\par\bigskip}
+
+\def\endhymn{\vfill\eject}
+
+\def\mycr{\par\vskip-\parskip}
+
+\def\beginlyrics{\begingroup
+                       \def\\{\mycr}
+                       \pretolerance=10000
+                       \raggedright
+                       \parskip=5pt
+                       \parindent-3mm}
+\def\endlyrics{\endgroup}
+
+\def\verse#1. {\hskip2mm\llap{{\oldstyle #1}. }}
+
+\def\raggedcenter{\leftskip=0pt plus4em \rightskip=\leftskip
+  \parfillskip=0pt \spaceskip=.3333em \xspaceskip=.5em
+  \pretolerance=9999 \tolerance=9999 \parindent=0pt
+  \hyphenpenalty=9999 \exhyphenpenalty=9999 }
+
+\def\source#1\par{\rightline{\smallrm #1}}
+
+\def\dottyline{\par}
+
+\def\maltese{\begingroup\amssymbols \char122 \endgroup}
+
+\def\doubleline{\vbox{\offinterlineskip
+\line{\hfill \vrule width50mm height0.6pt \hfill}
+\vskip1pt
+\line{\hfill \vrule width50mm height0.6pt \hfill}
+}}
+
+\def\namebook#1{\def\booktitle{#1}}
+
+%\def\righthead{\hfil{\smallcaps \botmark}\hfil \rlap{\hskip10mm\oldstyle\folio}}
+\def\righthead{\hfil{\smallcaps \botmark}\hfil \llap{\hskip10mm\oldstyle\folio}}
+
+%\def\lefthead{\llap{\oldstyle\folio\hskip10mm} \hfil {\smallcaps \botmark} \hfil}
+\def\lefthead{\rlap{\oldstyle\folio\hskip10mm} \hfil {\smallcaps \botmark} \hfil}
+
+\headline{\ifnum\pageno<0 \hfill \else \ifodd\pageno \righthead \else \lefthead \fi \fi}
+
+
+\let\textini=\textinitial
+
+\def\textinitial#1#2{\textini#1{\caps#2}}
+
+\tolerance=1500
+
+\def\bgenerale{\ateverysystem{\znotes\bmolle b\gen}}
+
+\def\today{\number\day\space
+           \ifcase\month\or
+           January\or February\or March\or April\or May\or June\or
+           July\or August\or September\or October\or November\or December\fi
+           \space \number\year}
+
+
+\nopagenumbers
+
+\def\paginaproxima{\vfill\eject}
+
+
+
+\def\bighead#1{\centerline{\bigtype#1}}
+
+\def\medhead#1{\noindent {\bf #1 }}
