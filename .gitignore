@@ -33,4 +33,5 @@
 *.gtex
 *.glog
 *.gaux
-
+tmp-ly/*
+tmp-ly/

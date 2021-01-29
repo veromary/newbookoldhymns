@@ -1,2 +1,0 @@
-@image{75ed4855f5d971af161c878f97b97be4-1}
-@c eof

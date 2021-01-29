@@ -1,4 +1,0 @@
-@image{8b0817629160de9cb3277f8ce9fdfdf1-1}
-@image{8b0817629160de9cb3277f8ce9fdfdf1-2}
-@image{8b0817629160de9cb3277f8ce9fdfdf1-3}
-@c eof
