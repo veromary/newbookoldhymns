@@ -29,6 +29,9 @@ $(document).ready(function($) {
 
 })(jQuery);
 </script>
+{% if page.content contains "gumroad" %}
+  <script src="https://gumroad.com/js/gumroad-embed.js"></script>
+{% endif %}
  {% if page.gloss %}
   <link rel="stylesheet" href="{{ site.baseurl }}/js/leipzig.css">
  {% endif %}

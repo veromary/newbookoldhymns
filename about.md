@@ -26,7 +26,6 @@ Contents
 Download
 ========
 
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-gumroad-product-id="JZEWi"><a href="https://gumroad.com/l/JZEWi">Loading...</a></div>
+{% include gumroad-embed.html %}
 
 
