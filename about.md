@@ -26,14 +26,7 @@ Contents
 Download
 ========
 
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-gumroad-product-id="JZEWi"><a href="https://gumroad.com/l/JZEWi">Loading...</a></div>
 
-<div style="max-width: 500px; margin: 0 auto">
-<script data-selz-a="modal" data-selz-cb="374fa1" data-selz-chbg="374fa1" data-selz-w="http://selz.co/VyRKtLLC$" data-text="Get it now">
-if (typeof _$elz === "undefined") { var _$elz = {}; }
-if (typeof _$elz.w === "undefined") { 
-_$elz.w = { e: document.createElement("script") }; 
-_$elz.w.e.src = "https://selz.com/embed/widget"; 
-document.body.appendChild(_$elz.w.e); }
-</script>
-<noscript><a href="http://selz.co/VyRKtLLC$" target="_blank">Get it now</a><a href="https://selz.com/info/sell-online" target="_blank">Sell online</a></noscript>
-</div>
+
