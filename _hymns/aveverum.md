@@ -44,9 +44,9 @@ The triple O at the end is a little like the Salve Regina
 <div data-gloss>
 <p>Esto nobis praegustatum in mortis examine.</p>
 <p>Esto nobis praegustatum in mortis examine.</p>
-<p>Be {to us} food in death's trial</p>
+<p>{Be ye eaten} {to us} {tasted beforehand} in death's trial</p>
 <p>Suffer us to taste of Thee,
-⁠In our life's last aony.</p>
+⁠In our life's last gony.</p>
 </div>
 
 <div data-gloss>
