@@ -35,3 +35,4 @@
 *.gaux
 tmp-ly/*
 tmp-ly/
+.*swp
