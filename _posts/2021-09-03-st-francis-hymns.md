@@ -39,3 +39,5 @@ And here's the [PDF](/pdf/francis.pdf)
 
 If you have more information on this hymn, I would love to be able to properly credit the author and composer.
 
+**UPDATE!** This hymn was written by Shane Leslie (1885-1971) and appears in the New Westminster Hymnal. My rusty grasp of copyright law suggests that this means that I need to ask someone permission to publish these words. If you know who to ask, drop us a line!
+
