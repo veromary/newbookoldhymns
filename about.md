@@ -7,12 +7,10 @@ permalink: /about/
 Get your copy
 =============
 
-* Available in [paperback](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns/paperback/product-22569619.html), [spiral bound](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns-spiral-bound/paperback/product-22569618.html) and [large print](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns-large-print/paperback/product-22569622.html) through lulu.
-* It’s also available through [Amazon](https://www.amazon.com/New-Book-Old-Hymns/dp/1502395509).  
+* Available at [Shop Jubilus](https://shop.jubil.us), my new online shop.
+* Also from [Lulu](https://www.lulu.com/spotlight/brandt/) - in case Shop Jubilus is down.
 
 The source code is up at [Github](http://github.com/veromary/newbookoldhymns).
-
-Printable pdf available by donation or free [via Selz](http://selz.co/VyRKtLLC$)
 
 A collection of hymns focusing on chant, including a litany, rounds, antiphons, carols, for all seasons of the Church's year, plus Ordinaries of the Mass, Benediction and some English hymns. Chant is newly typeset, not photocopied. English translations accompany each Latin hymn. Indexed for easy reference.
 
