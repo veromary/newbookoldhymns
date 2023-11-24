@@ -32,3 +32,7 @@
 *.tdo
 _site/*
 to_publish/*
+tmp-ly/*
+*.gtex
+*.glog
+*.gaux
