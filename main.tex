@@ -3,6 +3,7 @@
 % usual packages loading:
 \usepackage{fontspec}
 \setmainfont{Linux Libertine O}
+\newfontface{\lombard}{EasyLombardic Two}
 \usepackage{graphicx} % support the \includegraphics command and options
 \usepackage[autocompile]{gregoriotex} % for gregorio score inclusion
 \usepackage{multicol}
@@ -22,6 +23,8 @@
 \setlength{\parindent}{0pt}
 \setlength{\stanzaskip}{6pt plus 2pt minus 1pt}
 
+\grechangestyle{initial}{\lombard \fontsize{38}{38}\selectfont}
+\gresetlinecolor{gregoriocolor}
 
 % to change the font to something better, you can install the kpfonts package (if not already installed). To do so
 % go open the "TeX Live Manager" in the Menu Start->All Programs->TeX Live 2010
@@ -233,7 +236,37 @@ Veni veni Emmanuel - need to type it up in Lilypond or something like that.
 
 \gregorioscore{gabc/se--dies_irae--vatican}
 
+\newpage
+
 \section{Marian}
+
+\hymntitle{Alma Redemptoris}
+
+First Vespers of First Sunday of Advent to Second Vespers of Purification
+
+\gregorioscore{gabc/an--alma_redemptoris--simplex}
+
+\newpage
+
+\hymntitle{Ave Regina Caelorum}
+
+Compline of Purification to Compline of Holy Wednesday
+
+\gregorioscore{gabc/an--ave_regina_caelorum--simplex}
+
+\hymntitle{Regina Caeli}
+
+Easter to None of Pentecost Saturday
+
+\gregorioscore{gabc/an--regina_caeli--simplex}
+
+\newpage
+
+\hymntitle{Salve Regina}
+
+First Vespers of Trinity Sunday to Saturday None before the First Sunday of Advent
+
+\gregorioscore{gabc/an--salve_regina_(simple_tone)--solesmes}
 
 \section{For Peace}
 
