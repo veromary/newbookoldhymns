@@ -1,15 +1,8 @@
-% !TEX TS-program = lualatex
-% !TEX encoding = UTF-8
-
-% This is a simple template for a LuaLaTeX document using gregorio scores.
-
 \documentclass[11pt]{article} % use larger type; default would be 10pt
 
 % usual packages loading:
 \usepackage{fontspec}
-<<<<<<< Updated upstream
-\setmainfont{Linux Libertine O}
-=======
+%\setmainfont{Linux Libertine O}
 \setmainfont{Calluna}
 %\newfontface{\vectis}{EBH Alternates}
 %\newfontface{\vectis}{Beowulf Modern}
@@ -19,18 +12,16 @@
 \newfontface{\inglesh}{Calluna Sans}
 \usepackage[autocompile]{gregoriotex} % for gregorio score inclusion
 \usepackage{multicol}
->>>>>>> Stashed changes
+%>>>>>>> Stashed changes
 \usepackage{graphicx} % support the \includegraphics command and options
 \usepackage{geometry} % See geometry.pdf to learn the layout options. There are lots.
 \geometry{a5paper} % or letterpaper (US) or a5paper or....
-\usepackage{gregoriotex} % for gregorio score inclusion
 \usepackage[cm]{fullpage} % to reduce the margins
-\usepackage{multicol}
 
-<<<<<<< Updated upstream
+%<<<<<<< Updated upstream
 % to change the font to something better, you can install the kpfonts package (if not already installed). To do so
 % go open the "TeX Live Manager" in the Menu Start->All Programs->TeX Live 2010
-=======
+%=======
 \tolerance=1000
 \pretolerance=800
 
@@ -39,24 +30,14 @@
 
 \grechangestyle{initial}{\lombard \fontsize{38}{38}\selectfont}
 \grechangestyle{annotation}{\tiny}
->>>>>>> Stashed changes
+%>>>>>>> Stashed changes
 
 
 % here we begin the document
 \begin{document}
 
-% Here we set the space around the initial.
-% Please report to http://home.gna.org/gregorio/gregoriotex/details for more details and options
-\setspaceafterinitial{2.2mm plus 0em minus 0em}
-\setspacebeforeinitial{2.2mm plus 0em minus 0em}
-
-% Here we set the initial font. Change 43 if you want a bigger initial.
-\def\greinitialformat#1{%
-{\fontsize{43}{43}\selectfont #1}%
-}
-
 % We set red lines here, comment it if you want black ones.
-\redlines
+\gresetlinecolor{gregoriocolor}
 
 
 ~
@@ -115,16 +96,14 @@ Compiled by Veronica Brandt http://brandt.id.au.
 
 \tableofcontents
 
-\includescore{gabc/va--oremus_pro_pontifice--solesmes}
+\gregorioscore{gabc/va--oremus_pro_pontifice--solesmes}
 
 \section{Advent}
 
-\includescore{gabc/hy--conditor_alme_siderum-v1--solesme}
+\gregorioscore{gabc/hy--conditor_alme_siderum-v1--solesme}
 
 Veni veni Emmanuel - need to type it up in Lilypond or something like that.
 
-<<<<<<< Updated upstream
-=======
 or with all the verses
 
 \subsection{Conditor Alme Siderum}
@@ -134,25 +113,25 @@ or with all the verses
 \subsection{Veni O Sapientia}
 >>>>>>> Stashed changes
 
-\includescore{gabc/va--rorate_caeli--solesmes.1}
+\gregorioscore{gabc/va--rorate_caeli--solesmes.1}
 
-\includescore{gabc/va--rorate_caeli--solesmes.2}
+\gregorioscore{gabc/va--rorate_caeli--solesmes.2}
 
-\includescore{gabc/va--rorate_caeli--solesmes.3}
+\gregorioscore{gabc/va--rorate_caeli--solesmes.3}
 
-\includescore{gabc/va--rorate_caeli--solesmes.4}
+\gregorioscore{gabc/va--rorate_caeli--solesmes.4}
 
-\includescore{gabc/va--rorate_caeli--solesmes.5}
+\gregorioscore{gabc/va--rorate_caeli--solesmes.5}
 
 \section{Christmas}
 
-\includescore{gabc/hy--puer_natus_in_bethlehem--solesmes}
+\gregorioscore{gabc/hy--puer_natus_in_bethlehem--solesmes}
 
 \section{Holy Name}
 
-\includescore{gabc/hy--jesu_dulcis_memoria--solesmes}
+\gregorioscore{gabc/hy--jesu_dulcis_memoria--solesmes}
 
-\includescore{gabc/an--lumen_ad_revelationem--solesmes}
+\gregorioscore{gabc/an--lumen_ad_revelationem--solesmes}
 
 \section{Epiphany}
 
@@ -160,34 +139,34 @@ or with all the verses
 
 \section{Lent}
 
-\includescore{gabc/va--attende_domine--solesmes.1}
+\gregorioscore{gabc/va--attende_domine--solesmes.1}
 
-\includescore{gabc/va--attende_domine--solesmes.2}
+\gregorioscore{gabc/va--attende_domine--solesmes.2}
 
-\includescore{gabc/an--parce_domine--solesmes}
+\gregorioscore{gabc/an--parce_domine--solesmes}
 
 \section{Passiontide}
 
 %Gloria Laus
 
-\includescore{gabc/hy--gloria_laus--solesmes.1}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.1}
 
 
-\includescore{gabc/hy--gloria_laus--solesmes.2}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.2}
 
 
-\includescore{gabc/hy--gloria_laus--solesmes.3}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.3}
 
 
-\includescore{gabc/hy--gloria_laus--solesmes.4}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.4}
 
 
-\includescore{gabc/hy--gloria_laus--solesmes.5}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.5}
 
 
-\includescore{gabc/hy--gloria_laus--solesmes.6}
+\gregorioscore{gabc/hy--gloria_laus--solesmes.6}
 
-\includescore{gabc/hy--vexilla_regis_prodeunt--solesmes.1verse}
+\gregorioscore{gabc/hy--vexilla_regis_prodeunt--solesmes.1verse}
 
 
 \section{Easter}
@@ -210,16 +189,18 @@ or with all the verses
 
 \section{Marian}
 
+\gregorioscore{gabc/an--ave_regina_caelorum--simplex}
+
 \section{For Peace}
 
 % The title:
 %\begin{center}\begin{huge}\textsc{For Peace}\end{huge}\end{center}
 
 % We set VII above the initial.
-\gresetfirstlineaboveinitial{\small \textsc{\textbf{II}}}{\small \textsc{\textbf{II}}}
+%\gresetfirstlineaboveinitial{\small \textsc{\textbf{II}}}{\small \textsc{\textbf{II}}}
 
 % and finally we include the score. The file must be in the same directory as this one.
-\includescore{gabc/an--da_pacem_domine--solesmes.tex}
+\gregorioscore{gabc/an--da_pacem_domine--solesmes.tex}
 
 \bigskip
 
