@@ -23,7 +23,7 @@ Nevertheless this remains one of my favourites.
 
 ### Chorus or refrain
 
-Little [crossword puzzle](/crossword/crux0.pdf) just for this stanza
+Little [crossword puzzle](/crosswords/crux0.pdf) just for this stanza
 
 <div data-gloss>
 <p>
@@ -64,6 +64,8 @@ Sweetest weight is hung on thee!</p>
 
 ### First Verse
 
+Little [crossword puzzle](/crosswords/crux1.pdf) just for this stanza
+
 <div data-gloss>
 <p>Pange, lingua, gloriosi
 proelium certaminis</p>
@@ -78,7 +80,7 @@ proelium certaminis</p>
 dic triumphum nobilem,</p>
 <p>et super crucis trophaeo
 dic triumphum nobilem,</p>
-<p>and above cross trophy say triumph noble</p>
+<p>and over {of the cross} trophy say triumph noble</p>
 <p>o’er the Cross, the victor’s trophy,
 sound the high triumphal lay,</p>
 </div>
