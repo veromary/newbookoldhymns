@@ -95,5 +95,33 @@ immolatus vicerit.</p>
 earth’s Redeemer won the day.</p>
 </div>
 
+### Second Verse
 
+<div data-gloss>
+<p>De parentis protoplasti
+fraude Factor condolens,</p>
+<p>De parentis protoplasti
+fraude Factor condolens,</p>
+<p>from parents archetypal cheating maker {suffering greatly}</p>
+<p>Eating of the tree forbidden,
+man had sunk in Satan's snare,</p>
+</div>
+<div data-gloss>
+<p>quando pomi noxialis
+morte morsu corruit,</p>
+<p>quando pomi noxialis
+morte morsu corruit,</p>
+<p>when apple noxious death bitten {it falls down}</p>
+<p>when our pitying Creator did
+this second tree prepare;</p>
+</div>
+<div data-gloss>
+<p>ipse lignum tunc notavit,
+damna ligni ut solveret.</p>
+<p>ipse lignum tunc notavit,
+damna ligni ut solveret.</p>
+<p>itself wood then {has noted} damage {of the wood} {in order to} fix</p>
+<p>destined, many ages later,
+that first evil to repair.</p>
+</div>
 
