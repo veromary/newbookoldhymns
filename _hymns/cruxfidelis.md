@@ -97,6 +97,8 @@ earth’s Redeemer won the day.</p>
 
 ### Second Verse
 
+Little [crossword puzzle](/crosswords/crux2.pdf) just for this stanza
+
 <div data-gloss>
 <p>De parentis protoplasti
 fraude Factor condolens,</p>
@@ -111,7 +113,7 @@ man had sunk in Satan's snare,</p>
 morte morsu corruit,</p>
 <p>quando pomi noxialis
 morte morsu corruit,</p>
-<p>when apple noxious death bitten {it falls down}</p>
+<p>when apple noxious death bitten {it collapses}</p>
 <p>when our pitying Creator did
 this second tree prepare;</p>
 </div>
