@@ -8,12 +8,12 @@
 \GreHeader{book}{Graduale Romanum, 1974, p. 182}%
 \GreHeader{transcriber}{Stephan Tilch}%
 \GreEndHeaders %
-\GreBeginScore{227dd89835aa059c2a1ac929c1bd1e5325e1e935}{14}{5}{1}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{71190dbfacae1ab9555d7d2a516c66ff4e0c52fe}{14}{5}{1}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{1}}{}{}%
-\GreSetLargestClef{c}{3}{3}{c}{0}{3}%
+\GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
-\GreSetInitialClef{c}{3}{3}{c}{0}{3}{0}%
+\GreSetInitialClef{c}{4}{3}{c}{0}{3}{0}%
 }{%
 }{\GreSyllable}{\GreSetFirstSyllableText{D}{e}{}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{e}}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{D}}}}{\GreFirstWord{\GreFirstSyllable{e}}}{}}{}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{p}{a}{}{p}{a}}{}{{0}{0}}{%
 \GreWriteTranslation{From parents}%
