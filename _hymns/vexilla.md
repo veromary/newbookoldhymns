@@ -13,6 +13,8 @@ The Vespers hymn for Passiontide - the time from the Sunday before Palm Sunday u
 
 This is yet another hymn that suffered revisions under Pope Urban VIII. In A New Book of Old Hymns I followed the Urbanite text as in the Liber Usualis. Below I go back to the older text, though they are very similar.
 
+[Little Crossword of verses 1 and 6](/crosswords/vexilla1.pdf)
+
 ### Following the words by Venantius Fortunatus
 
 <div data-gloss>
@@ -56,20 +58,11 @@ of precious water mixed with blood.</p>
 </div>
 
 <div data-gloss>
-<p>Impleta sunt quae concinit
-David fideli carmine,
-dicendo nationibus:
-regnavit a ligno Deus.</p>
-<p>Impleta sunt quae concinit
-David fideli carmine,
-dicendo nationibus:
-regnavit a ligno Deus.</p>
-<p>Fulfilled are what 
-David faithful 
-{saying} {to the nations}
-{he has ruled} from wood God
+<p>Impleta sunt quae concinit David fideli carmine, dicendo nationibus: regnavit a ligno Deus.</p>
+<p>Impleta sunt quae concinit David fideli carmine, dicendo nationibus: regnavit a ligno Deus.</p>
+<p>Fulfilled are what {sing together} David faithful song {saying} {to the nations} {he has ruled} from wood God
 </p>
-</p>That which the prophet-king of old
+<p>That which the prophet-king of old
 hath in mysterious verse foretold,
 is now accomplished, whilst we see
 God ruling the nations from a Tree.</p>
@@ -85,8 +78,8 @@ hoc Passionis tempore!
 piis adauge gratiam,
 reisque dele crimina.</p>
 <p>O Cross hail! hope only this {of Passion} time
-loving increase grace
-{and of the thing} delete crimes</p>
+{for the loving} increase grace
+{and for the guilty} delete crimes</p>
 <p>Hail Cross, of hopes the most sublime!
 Now, in the mournful Passion time;
 grant to the just increase of grace,
