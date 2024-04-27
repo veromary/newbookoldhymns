@@ -6,9 +6,17 @@ lesson: 17
 spotify: 77Xt9Vm1uBhhLkQYABlKRF
 video: https://www.youtube.com/watch?v=kolNLjxuwk8
 gloss: true
+quizlet: https://quizlet.com/909406122/veni-sancte-spiritus-flash-cards/
+crossword: venisancte1.pdf
 ---
 
 The Sequence for Pentecost - each pair of verses has a new tune. Also known as the Golden Sequence because it's so beautiful - a masterpiece of Latin poetry.
+
+I have a plan to break this up into 3 parts:
+
+1. verses 1-4: [crossword](/crosswords/venisancte1.pdf)
+2. verses 5-8
+3. verses 9-10
 
 <div data-gloss>
 <p>Veni sancte Spiritus, et emitte caelitus lucis tuae radium.</p>
