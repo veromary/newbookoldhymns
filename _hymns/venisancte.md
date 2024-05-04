@@ -15,7 +15,7 @@ The Sequence for Pentecost - each pair of verses has a new tune. Also known as t
 I have a plan to break this up into 3 parts:
 
 1. verses 1-4: [crossword](/crosswords/venisancte1.pdf)
-2. verses 5-8
+2. verses 5-8: [crossword](/crosswords/venisancte2.pdf)
 3. verses 9-10
 
 <div data-gloss>
@@ -39,7 +39,7 @@ Come, Thou Light of all that live.</p>
 <div data-gloss>
 <p>Consolator optime, dulcis hospes animae, dulce refrigerium.</p>
 <p>Consolator optime, dulcis hospes animae, dulce refrigerium.</p>
-<p>Consoler best sweet guest {of the soul} sweet {place of rest}</p>
+<p>Consoler best sweet guest {of the soul} sweet refreshment</p>
 <p>Thou, of all consolers best,
 Thou, the soul’s delightsome Guest,
 Dost refreshing peace bestow.</p>
