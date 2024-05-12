@@ -12,11 +12,11 @@ crossword: venisancte1.pdf
 
 The Sequence for Pentecost - each pair of verses has a new tune. Also known as the Golden Sequence because it's so beautiful - a masterpiece of Latin poetry.
 
-I have a plan to break this up into 3 parts:
+Here are crosswords covering the whole sequence in three installments:
 
 1. verses 1-4: [crossword](/crosswords/venisancte1.pdf)
 2. verses 5-8: [crossword](/crosswords/venisancte2.pdf)
-3. verses 9-10
+3. verses 9-10: [crossword](/crosswords/venisancte3.pdf)
 
 <div data-gloss>
 <p>Veni sancte Spiritus, et emitte caelitus lucis tuae radium.</p>
@@ -130,7 +130,7 @@ da perenne gaudium,</p>
 <p>Da virtutis meritum,
 da salutis exitum,
 da perenne gaudium,</p>
-<p>Give power meriting, give salvation exiting, give endless joys.</p>
+<p>Give powerful merit, give {of salvation} exit, give perennial joys.</p>
 <p>Give them comfort when they die,
 Give them life with Thee on high;
 Give them joys that never end.</p>
