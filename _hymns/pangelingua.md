@@ -15,4 +15,11 @@ There are two Pange Lingua hymns.  The first was written by Venantius Fortunatus
 
 This is a later Pange Lingua written by St Thomas Aquinas.
 
-Apologies 
+Revisiting this in three parts:
+
+* verses 1-2, [crossword](/crosswords/pangelingua1.pdf)
+* verses 3-4
+* verses 5-6
+
+
+
