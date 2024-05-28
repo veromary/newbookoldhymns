@@ -7,7 +7,7 @@
 \GreHeader{book}{Graduale simplex, 1975, p. 137}%
 \GreHeader{transcriber}{Mateusz Ciesiółka}%
 \GreEndHeaders %
-\GreBeginScore{e9743a155af4e27d405522b1b3e49fc7b3224a94}{13}{6}{1}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{bc7c4dccdacee6ec132f19a75ecd25f3000d406b}{13}{6}{1}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -564,7 +564,7 @@
 }%
 %
 \GreSyllable{\GreSetThisSyllable{f}{i}{t}{f}{it}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{qu}{e}{}{q}{ue}}{}{{0}{0}}{%
-\GreWriteTranslation{and makes blood of Christ wine}%
+\GreWriteTranslationWithCenterBeginning{and becomes blood of Christ wine}%
 }{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
@@ -610,7 +610,9 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{m}{e}{}{m}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r}{u}{m\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{r}{um\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{m}{e}{}{m}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r}{u}{m\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{r}{um\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{%
+\GreTranslationCenterEnd %
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{9}{}}{0}%
 {%
