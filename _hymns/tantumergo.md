@@ -6,9 +6,11 @@ pageno: 84
 video: https://www.youtube.com/watch?v=ExNIxKsGTn8
 gloss: true
 crossword: tantum.pdf
+quizlet: https://quizlet.com/921088838/tantum-ergo-flash-cards/
+spotify: 0FlXX7fdYfLRoZsMI6r7VF
 ---
 
-The last two verses of [Pange Lingua](http://www.brandt.id.au/newbookoldhymns/hymns/pangelingua.html) are often sung at Benediction of the Blessed Sacrament - usually at the conclusion of exposition, just before the actual Benediction.
+The last two verses of [Pange Lingua](/hymns/pangelingua.html) are often sung at Benediction of the Blessed Sacrament - usually at the conclusion of exposition, just before the actual Benediction.
 
 <div data-gloss>
 <p>Tantum ergo Sacramentum veneremur cernui</p>
