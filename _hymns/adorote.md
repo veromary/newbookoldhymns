@@ -6,32 +6,39 @@ lesson: 19
 pageno: 38
 gloss: true
 spotify: 30i6MTd6F5RgKFzXS3YEuA
+quizlet: https://quizlet.com/922885461/adoro-te-devote-flash-cards/
 ---
 
 Thomas Aquinas is the Best!
 
+Crossword in three or four parts:
+* [verses 1-2](/crosswords/adorote1.pdf)
+* verses 3-4
+* verses 5-6
+* verse 7
+
 <div data-gloss>
 <p>Adoro te devote, latens Deitas Quae sub his figuris vere latitas: Tibi se cor meum totum subjicit, Quia te contemplans totum deficit.</p>
-<p>Adoro te devote, latens Deitas Quae sub his figuris vere latitas: Tibi se {cor meum} totum subjicit, Quia te contemplans totum deficit.</p>
-<p>{I adore} thee devoutly hidden Godliness who under this figure true {you are hiding} {to thee} itself {my heart} all submits who thee contemplates all deficient</p>
+<p>Adoro te devote, latens Deitas Quae sub his figuris vere latitas: Tibi se {cor meum} totum subjicit, Quia contemplans te totum deficit.</p>
+<p>{I adore} thee devoutly hidden Godliness who under these figures truly {you are hiding} {to thee} itself {my heart} wholly submits because contemplating thee {(it) wholly} fails </p>
 <p>I devoutly adore you, O hidden Deity,
 Truly hidden beneath these appearances.
 My whole heart submits to you,
 And in contemplating you, It surrenders itself completely.</p>
 </div>
 <div data-gloss>
-<p>Visus, tactus, gustus in te fallitur,\\
-Sed auditu solo tuto creditur.\\
-Credo quidquid dixit Dei Filius;\\
+<p>Visus, tactus, gustus in te fallitur,
+Sed auditu solo tuto creditur.
+Credo quidquid dixit Dei Filius;
 Nil hoc verbo veritátis verius.</p>
 <p>Visus, tactus, gustus in te fallitur,
 Sed auditu solo tuto creditur.
 Credo quidquid dixit Dei Filius;
 Nil hoc verbo veritátis verius.</p>
-<p>Seeing touching tasting in thee fail but hearing alone all {be believed} {I believe} anything said {by God} {the Son} nothing this word truth true</p>
-<p>Sight, touch, taste are all deceived in their judgment of you,\\
-But hearing suffices firmly to believe.\\
-I believe all that the Son of God has spoken;\\
+<p>Sight touch taste in thee {are mistaken} but hearing alone safely {be believed} {I believe} whatsoever said {by God} {the Son} nothing this word {of truth} truer</p>
+<p>Sight, touch, taste are all deceived in their judgment of you,
+But hearing suffices firmly to believe.
+I believe all that the Son of God has spoken;
 There is nothing truer than this word of truth.</p>
 </div>
 <div data-gloss>
