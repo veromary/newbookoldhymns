@@ -13,7 +13,7 @@ Thomas Aquinas is the Best!
 
 Crossword in three or four parts:
 * [verses 1-2](/crosswords/adorote1.pdf)
-* verses 3-4
+* [verses 3-4](/crosswords/adorote2.pdf)
 * verses 5-6
 * verse 7
 
