@@ -14,7 +14,7 @@ Thomas Aquinas is the Best!
 Crossword in three or four parts:
 * [verses 1-2](/crosswords/adorote1.pdf)
 * [verses 3-4](/crosswords/adorote2.pdf)
-* verses 5-6
+* [verses 5-6](/crosswords/adorote3.pdf)
 * verse 7
 
 <div data-gloss>
@@ -80,9 +80,32 @@ Et te illi semper dulce sapere.</p>
 Panis vivus, vitam præstans homini,
 Præsta meæ menti de te vívere,
 Et te illi semper dulce sapere.</p>
-<p>O memorial {of the death} {of the Lord} bread {of life} life providing {to men} supply {to my} mind of thy {to live} and thee something always sweet {to know}</p>
+<p>O memorial {of the death} {of the Lord} 
+bread living life providing {to men} 
+supply {to my} mind of thy {to live} 
+and thee {in that way} always sweet {to know/taste}</p>
 <p>O memorial of our Lord's death,
 Living bread that gives life to man,
 Grant my soul to live on you,
 And always to savor your sweetness.</p>
 </div>
+
+<div data-gloss>
+<p>Pie Pelicane, Jesu Domine,
+Me immundum munda tuo Sanguine:[6]
+Cujus una stilla salvum facere
+Totum mundum quit ab omni scelere.</p>
+<p>Pie Pelicane, Jesu Domine,
+Me immundum munda tuo Sanguine:
+Cujus una stilla salvum facere
+Totum mundum quit ab omni scelere.</p>
+<p>Loving Pelican, Jesus Lord, 
+me {unclean} clean {by thy} Blood 
+{to whom} one drop safe {to make} 
+all world {it can} from every {evil deed} </p>
+<p>Lord Jesus, Good Pelican,
+clean me, the unclean, with Your Blood,
+One drop of which can heal
+the entire world of all its sins.</p>
+</div>
+

@@ -1,0 +1,15 @@
+  \Clue{22}{vitam}{life}
+  \Clue{21}{pie}{loving}
+  \Clue{12}{mundum}{the world}
+  \Clue{5}{illi}{in that way}
+  \Clue{6}{ette}{and thee}
+  \Clue{4}{scelere}{evil deed}
+  \Clue{8}{Jesu}{O Jesus}
+  \Clue{3}{quit}{it can}
+  \Clue{9}{sapere}{to know or taste}
+  \Clue{7}{dulce}{sweet}
+  \Clue{2}{omni}{every}
+  \Clue{16}{panis}{bread}
+  \Clue{18}{semper}{always}
+  \Clue{15}{vivus}{living}
+
