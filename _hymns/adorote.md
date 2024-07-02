@@ -15,7 +15,7 @@ Crossword in three or four parts:
 * [verses 1-2](/crosswords/adorote1.pdf)
 * [verses 3-4](/crosswords/adorote2.pdf)
 * [verses 5-6](/crosswords/adorote3.pdf)
-* verse 7
+* [verse 7 + review](/crosswords/adorote4.pdf)
 
 <div data-gloss>
 <p>Adoro te devote, latens Deitas Quae sub his figuris vere latitas: Tibi se cor meum totum subjicit, Quia te contemplans totum deficit.</p>
@@ -107,5 +107,16 @@ all world {it can} from every {evil deed} </p>
 clean me, the unclean, with Your Blood,
 One drop of which can heal
 the entire world of all its sins.</p>
+</div>
+
+<div data-gloss>
+<p>Iesu, quem velatum nunc aspicio, oro fiat illud quod tam sitio; ut te revelata cernens facie, visu sim beatus tuae gloriae. Amen.</p>
+<p>Iesu, quem nunc aspicio velatum, oro {fiat illud} quod {tam sitio;} ut cernens te facie revelata, sim beatus visu tuae gloriae. Amen.</p>
+<p>{O Jesus}, whom now {I see} veiled, {I pray} {that it may come to pass} which {I so thirst for;} that beholding thee {with face} unveiled, {I may be} blessed {with the sight} {of thy} glory. Amen.</p>
+<p>
+Jesus whom I look at shrouded here below,
+I beseech thee, send me what I thirst for so,
+Some day to gaze on thee face to face in light
+And be blest forever with thy glory's sight.</p>
 </div>
 
