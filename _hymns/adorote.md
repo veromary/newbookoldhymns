@@ -111,8 +111,8 @@ the entire world of all its sins.</p>
 
 <div data-gloss>
 <p>Iesu, quem velatum nunc aspicio, oro fiat illud quod tam sitio; ut te revelata cernens facie, visu sim beatus tuae gloriae. Amen.</p>
-<p>Iesu, quem nunc aspicio velatum, oro {fiat illud} quod {tam sitio;} ut cernens te facie revelata, sim beatus visu tuae gloriae. Amen.</p>
-<p>{O Jesus}, whom now {I see} veiled, {I pray} {that it may come to pass} which {I so thirst for;} that beholding thee {with face} unveiled, {I may be} blessed {with the sight} {of thy} glory. Amen.</p>
+<p>Jesu, quem nunc aspicio velatum, oro {fiat illud} quod {tam sitio;} ut cernens te facie revelata, sim beatus visu tuae gloriae. Amen.</p>
+<p>{O Jesus,} whom now {I see} veiled, {I pray} {that it may come to pass} which {I so thirst for;} that beholding thee {with face} unveiled, {I may be} blessed {with the sight} {of thy} glory. Amen.</p>
 <p>
 Jesus whom I look at shrouded here below,
 I beseech thee, send me what I thirst for so,
