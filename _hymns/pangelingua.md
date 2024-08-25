@@ -19,7 +19,7 @@ Revisiting this in three parts:
 
 * verses 1-2, [crossword](/crosswords/pangelingua1.pdf)
 * verses 3-4, [crossword](/crosswords/pangelingua2.pdf)
-* verses 5-6
+* verses 5-6  [crossowrd](/crosswords/tantum.pdf)
 
 
 
