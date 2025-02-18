@@ -1,0 +1,16 @@
+
+Usage: cwg [options]
+  -i file   : set input file.
+  -W int    : set the width of the crosswords.
+  -H int    : set the height of the crosswords.
+  -t string : set the title of the crosswords.
+  -n int    : number of runs, best crossword kept.
+  -v        : verbose mode.
+  -l        : latex format.
+  -w        : web format.
+  -h        : display this help message.
+Examples:
+  cwg -i words.txt > crossword.txt
+  cwg -li words.txt | rubber-pipe --pdf > crossword.pdf
+  cwg -wi words.txt > crossword.html
+
