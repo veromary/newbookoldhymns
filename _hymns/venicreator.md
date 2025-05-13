@@ -65,7 +65,7 @@ infunde amorem cordibus:
 firmans nostri infirma corporis
 perpeti virtute.</p>
 <p>Kindle light {to the senses} 
-fill hearts {with love}
+infuse love {into hearts}
 reinforce our infirm bodies {(with) eternal} power</p>
 <p>Kindle our sense from above,
 and make our hearts o'erflow with love;

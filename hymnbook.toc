@@ -1,0 +1,20 @@
+\tocsectionentry {Advent }{1}
+\tocsectionentry {Christmas }{6}
+\tocsectionentry {Holy Name }{9}
+\tocsectionentry {Candlemas }{11}
+\tocsectionentry {Lent }{12}
+\tocsectionentry {Passiontide }{14}
+\tocsectionentry {Easter }{27}
+\tocsectionentry {Pentecost }{34}
+\tocsectionentry {Trinity }{37}
+\tocsectionentry {Corpus Christi }{38}
+\tocsectionentry {Sacred Heart/Precious Blood }{43}
+\tocsectionentry {Christ the King }{44}
+\tocsectionentry {All Saints }{48}
+\tocsectionentry {All Souls }{52}
+\tocsectionentry {Marian }{57}
+\tocsectionentry {For Peace }{69}
+\tocsectionentry {Thanksgiving }{71}
+\tocsectionentry {Kyriale }{76}
+\tocsectionentry {Benediction }{83}
+\tocsectionentry {Index }{87}
