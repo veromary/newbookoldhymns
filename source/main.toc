@@ -1,88 +1,36 @@
 \contentsline {chapter}{Contents}{3}{}%
-\contentsline {chapter}{Contents}{3}{}%
-\contentsline {chapter}{Contents}{3}{}%
+\contentsline {subsection}{Oremus pro Pontifice nostro}{4}{}%
 \contentsline {section}{\numberline {0.1}Advent}{5}{}%
 \contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
-\contentsline {section}{\numberline {0.1}Advent}{5}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{5}{}%
-\contentsline {subsection}{Veni O Sapientia}{5}{}%
+\contentsline {subsection}{Veni O Sapientia}{6}{}%
 \contentsline {subsection}{Rorate Caeli}{7}{}%
-\contentsline {section}{\numberline {0.2}Christmas}{7}{}%
-\contentsline {subsection}{Puer Natus in Bethlehem}{7}{}%
-\contentsline {section}{\numberline {0.3}Holy Name}{7}{}%
-\contentsline {subsection}{Jesu Dulcis Memoria}{7}{}%
-\contentsline {section}{\numberline {0.4}Epiphany}{7}{}%
-\contentsline {section}{\numberline {0.5}Candlemas}{7}{}%
-\contentsline {subsection}{Lumen ad Revelationem Gentium}{7}{}%
-\contentsline {section}{\numberline {0.6}Lent}{7}{}%
-\contentsline {subsection}{Attende Domine}{7}{}%
-\contentsline {subsection}{Parce Domine}{7}{}%
-\contentsline {section}{\numberline {0.7}Passiontide}{7}{}%
-\contentsline {subsection}{Gloria Laus}{7}{}%
-\contentsline {subsection}{Vexilla Regis}{7}{}%
-\contentsline {section}{\numberline {0.8}Easter}{7}{}%
-\contentsline {section}{\numberline {0.9}Ascension}{7}{}%
-\contentsline {section}{\numberline {0.10}Pentecost}{7}{}%
-\contentsline {section}{\numberline {0.11}Trinity}{7}{}%
-\contentsline {section}{\numberline {0.12}Sacred Heart}{7}{}%
-\contentsline {section}{\numberline {0.13}Corpus Christi}{7}{}%
-\contentsline {section}{\numberline {0.14}Christ the King}{7}{}%
-\contentsline {section}{\numberline {0.15}All Saints}{7}{}%
-\contentsline {section}{\numberline {0.16}All Souls}{7}{}%
-\contentsline {subsection}{Dies Irae}{7}{}%
-\contentsline {section}{\numberline {0.17}Marian}{7}{}%
-\contentsline {section}{\numberline {0.18}For Peace}{7}{}%
-\contentsline {subsection}{Da Pacem Dómine}{7}{}%
-\contentsline {section}{\numberline {0.19}Thanksgiving}{7}{}%
-\contentsline {section}{\numberline {0.20}Kyriale}{7}{}%
-\contentsline {section}{\numberline {0.21}Benediction}{7}{}%
-\contentsline {section}{\numberline {0.22}Index}{7}{}%
+\contentsline {section}{\numberline {0.2}Christmas}{9}{}%
+\contentsline {subsection}{Puer Natus in Bethlehem}{9}{}%
+\contentsline {section}{\numberline {0.3}Holy Name}{10}{}%
+\contentsline {subsection}{Jesu Dulcis Memoria}{10}{}%
+\contentsline {section}{\numberline {0.4}Epiphany}{12}{}%
+\contentsline {section}{\numberline {0.5}Candlemas}{13}{}%
+\contentsline {subsection}{Lumen ad Revelationem Gentium}{13}{}%
+\contentsline {section}{\numberline {0.6}Lent}{14}{}%
+\contentsline {subsection}{Attende Domine}{14}{}%
+\contentsline {subsection}{Parce Domine}{16}{}%
+\contentsline {section}{\numberline {0.7}Passiontide}{17}{}%
+\contentsline {subsection}{Gloria Laus}{17}{}%
+\contentsline {subsection}{Vexilla Regis}{19}{}%
+\contentsline {section}{\numberline {0.8}Easter}{20}{}%
+\contentsline {section}{\numberline {0.9}Ascension}{21}{}%
+\contentsline {section}{\numberline {0.10}Pentecost}{21}{}%
+\contentsline {section}{\numberline {0.11}Trinity}{21}{}%
+\contentsline {section}{\numberline {0.12}Sacred Heart}{21}{}%
+\contentsline {section}{\numberline {0.13}Corpus Christi}{21}{}%
+\contentsline {section}{\numberline {0.14}Christ the King}{21}{}%
+\contentsline {section}{\numberline {0.15}All Saints}{21}{}%
+\contentsline {section}{\numberline {0.16}All Souls}{21}{}%
+\contentsline {subsection}{Dies Irae}{21}{}%
+\contentsline {section}{\numberline {0.17}Marian}{25}{}%
+\contentsline {section}{\numberline {0.18}For Peace}{25}{}%
+\contentsline {subsection}{Da Pacem Dómine}{25}{}%
+\contentsline {section}{\numberline {0.19}Thanksgiving}{26}{}%
+\contentsline {section}{\numberline {0.20}Kyriale}{26}{}%
+\contentsline {section}{\numberline {0.21}Benediction}{26}{}%
+\contentsline {section}{\numberline {0.22}Index}{26}{}%

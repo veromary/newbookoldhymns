@@ -1,10 +1,12 @@
-\documentclass[11pt,a5paper]{memoir}
+\documentclass[10pt,a5paper]{memoir}
 
 % usual packages loading:
 \usepackage{fontspec}
 \setmainfont{Calluna}
 %\newfontface{\vectis}{EBH Alternates}
-\newfontface{\vectis}{BeowulfOT}
+\usepackage{humanist}
+\newfontface{\vectis}{Mezalia}
+\newfontface{\priory}{Priory}
 \newfontface{\inglesh}{Calluna Sans}
 \usepackage[autocompile]{gregoriotex} % for gregorio score inclusion
 \usepackage{multicol}
@@ -12,7 +14,7 @@
 \usepackage[pass-fonts=true,program=/home/veronica/bin/lilypond]{lyluatex}
 \setlength{\trimtop}{0pt}
 \setlength{\trimedge}{0pt}
-\settypeblocksize{170mm}{115mm}{*} % Was 101mm in a5
+\settypeblocksize{170mm}{110mm}{*} % Was 101mm in a5
 \setulmargins{*}{*}{1.4}
 \setlrmargins{*}{*}{1.2}
 \setheadfoot{\onelineskip}{2\onelineskip}
@@ -25,12 +27,12 @@
 \grechangestyle{translation}{\inglesh \fontsize{10}{11}\selectfont}
 \newcommand\translationfont[1]{{\inglesh \fontsize{10}{11}\selectfont #1}}
 
-\grechangestyle{initial}{\vectis \fontsize{38}{38}\selectfont}
+\grechangestyle{initial}{\priory \fontsize{32}{32}\selectfont}
 \grechangestyle{annotation}{\tiny}
 
+\grechangestaffsize{16}
 
-
-\setsubsecheadstyle{\centering\vectis\huge}
+\setsubsecheadstyle{\centering\hminfamily\LARGE}
 %\setbeforesecskip{-\onelineskip}
 %\setaftersecskip{\onelineskip}
 
@@ -42,25 +44,59 @@
 
 \begin{center}
 
-\textsc{ \fontsize{38}{48}\selectfont \vectis A New Book}
+	{\fontsize{32}{48} \hminfamily A New Book}
 
-\textsc{ \fontsize{38}{48}\selectfont \vectis of Old Hymns}
+\quad
 
-	\textsc{\fontsize{32}{40}\selectfont\vectis in Latin and English}
+
+	{\fontsize{32}{48} \texthmin{of Old Hymns}}
+
+\quad
 
 \bigskip
 
-chant
+	{\texthmin{ \LARGE in Latin and English}}
 
-polyphony
+\quad
 
-rounds
 
-a litany
+\bigskip
 
-for all the seasons
+plainchant, polyphony,
 
-of the Church's year
+\quad
+
+sequences, a litany,
+
+\quad
+
+
+rounds, antiphons, carols
+
+\quad
+
+
+for all the seasons of the Church's year,
+
+\quad
+
+
+plus Ordinaries of the Mass,
+
+\quad
+
+
+Benediction
+
+\quad
+
+
+and some English hymns.
+
+\vfill
+\vfill
+
+Fifth Edition
 
 \end{center}
 
@@ -92,8 +128,10 @@ Compiled by Veronica Brandt http://brandt.id.au.
 \vfill
 
 \begin{center}
-\includegraphics[width=4cm]{images/papab16}
+\includegraphics[width=4cm]{images/pope-leo}
 \end{center}
+
+\subsection{Oremus pro Pontifice nostro}
 
 \gregorioscore{gabc/va--oremus_pro_pontifice--solesmes}
 
@@ -105,9 +143,14 @@ Compiled by Veronica Brandt http://brandt.id.au.
 
 \gregorioscore{gabc/hy--conditor_alme_siderum-v1--solesme}
 
+\newpage
+
 \subsection{Veni O Sapientia}
 
 \input veniosapientia
+
+\newpage
+
 
 \subsection{Rorate Caeli}
 
@@ -121,11 +164,17 @@ Compiled by Veronica Brandt http://brandt.id.au.
 
 \gregorioscore{gabc/va--rorate_caeli--solesmes.5}
 
+\newpage
+
+
 \section{Christmas}
 
 \subsection{Puer Natus in Bethlehem}
 
 \gregorioscore{gabc/hy--puer_natus_in_bethlehem--solesmes}
+
+\newpage
+
 
 \section{Holy Name}
 
@@ -134,13 +183,22 @@ Compiled by Veronica Brandt http://brandt.id.au.
 \gregorioscore{gabc/hy--jesu_dulcis_memoria--solesmes}
 
 
+\newpage
+
+
 \section{Epiphany}
+
+\newpage
+
 
 \section{Candlemas}
 
 \subsection{Lumen ad Revelationem Gentium}
 
 \gregorioscore{gabc/an--lumen_ad_revelationem--solesmes}
+
+\newpage
+
 
 \section{Lent}
 
@@ -150,9 +208,15 @@ Compiled by Veronica Brandt http://brandt.id.au.
 
 %\gregorioscore{gabc/va--attende_domine--solesmes.2}
 
+\newpage
+
+
 \subsection{Parce Domine}
 
 \gregorioscore{gabc/an--parce_domine--solesmes}
+
+\newpage
+
 
 \section{Passiontide}
 
@@ -177,13 +241,22 @@ Compiled by Veronica Brandt http://brandt.id.au.
 \gregorioscore{gabc/hy--gloria_laus--solesmes.6}
 
 
+\newpage
+
+
 \subsection{Vexilla Regis}
 
 \gregorioscore{gabc/hy--vexilla_regis_prodeunt--solesmes.1verse}
 
 
+\newpage
+
+
 \section{Easter}
 
+
+
+\newpage
 
 
 \section{Ascension}
@@ -206,6 +279,9 @@ Compiled by Veronica Brandt http://brandt.id.au.
 
 \gregorioscore{gabc/se--dies_irae--vatican}
 
+\newpage
+
+
 \section{Marian}
 
 \section{For Peace}
@@ -218,6 +294,9 @@ Compiled by Veronica Brandt http://brandt.id.au.
 \gregorioscore{gabc/an--da_pacem_domine--solesmes}
 
 \bigskip
+
+
+\newpage
 
 
 \section{Thanksgiving}
