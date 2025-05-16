@@ -82,7 +82,7 @@ vitemus omne noxium.</p>
 pacemque dones protinus:
 ductore sic te praevio
 vitemus omne noxium.</p>
-<p>army repel {far away} {and peace} grant immediately leader thus thee {leading the way} {let us avoid} all hurtful</p>
+<p>army repel {far away,} {and peace} {may you grant} immediately: {with the leader} thus thee {leading the way} {let us avoid} all hurtful</p>
 <p>Far from us drive the foe we dread,
 and grant us Thy peace instead;
 so shall we not, with Thee for guide,
