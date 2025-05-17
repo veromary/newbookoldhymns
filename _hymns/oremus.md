@@ -8,6 +8,7 @@ spotify: 3etZanqRz9Z3GluCb8EQuy
 
 As an historical record, here are the pages from earlier editions featuring 
 
-* [Pope St John Paul II](/excerpts/jp2.pdf) and 
+* [Pope St John Paul II](/excerpts/jp2.pdf)
 * [Pope Benedict XVI](/excerpts/b16.pdf)
+* [Pope Francis](/excerpts/f.pdf)
 
