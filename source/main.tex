@@ -32,6 +32,21 @@
 
 \grechangestaffsize{16}
 
+\makepagestyle{myheadings}
+\makeevenfoot{myheadings}{}{}{<draft>} % page numbers at the outside
+\makeoddfoot{myheadings}{}{}{}
+\makeevenhead{myheadings}{\thepage}{\textsc{\leftmark}}{} % small caps
+\makeoddhead{myheadings}{}{\textsc{\rightmark}}{\thepage}
+
+\createmark{section}{both}{nonumber}{}{}
+
+\newcommand\invisiblesection[1]{%
+  \refstepcounter{section}%
+  \addcontentsline{toc}{section}{#1}%
+  \sectionmark{#1}
+  \markboth{#1}{#1}}
+
+
 \setsubsecheadstyle{\centering\hminfamily\LARGE}
 %\setbeforesecskip{-\onelineskip}
 %\setaftersecskip{\onelineskip}
@@ -39,6 +54,8 @@
 \newcommand\mysource[1]{\begingroup \raggedleft \footnotesize #1 \par \endgroup}
 
 \begin{document}
+\pagenumbering{roman}
+\pagestyle{empty}
 
 \ 
 
@@ -126,16 +143,17 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \eject
 
-\tableofcontents
+\tableofcontents*
 
 \newpage
+
 
 \ 
 
 \vfill
 
 \begin{center}
-\includegraphics[width=6cm]{images/Pope_Leo_XIV-mypaint}
+\includegraphics[width=5cm]{images/pope-leo-official}
 \end{center}
 
 \subsection{Oremus pro Pontifice nostro}
@@ -144,7 +162,12 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \eject
 
-\section{Advent}
+
+\invisiblesection{Advent}
+
+\setcounter{page}{1}
+\pagenumbering{arabic}
+\pagestyle{myheadings}
 
 \subsection{Conditor Alme Siderum}
 
@@ -158,25 +181,42 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \input veniosapientia
 
-\newpage
-
 
 \subsection{Rorate Caeli}
 
+
 \gregorioscore{gabc/va--rorate_caeli--solesmes.1}
+
+\bigskip
 
 \gregorioscore{gabc/va--rorate_caeli--solesmes.2}
 
+\bigskip
+
+
+\gregorioscore{gabc/va--rorate_caeli--solesmes.1}
+
+\bigskip
+
+
 \gregorioscore{gabc/va--rorate_caeli--solesmes.3}
 
+\bigskip
+
+Roráte.
+
 \gregorioscore{gabc/va--rorate_caeli--solesmes.4}
+
+\bigskip
+
+Roráte.
 
 \gregorioscore{gabc/va--rorate_caeli--solesmes.5}
 
 \newpage
 
 
-\section{Christmas}
+\invisiblesection{Christmas}
 
 \subsection{Puer Natus in Bethlehem}
 
@@ -185,7 +225,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \newpage
 
 
-\section{Holy Name}
+\invisiblesection{Holy Name}
 
 \subsection{Jesu Dulcis Memoria}
 
@@ -195,12 +235,12 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \newpage
 
 
-\section{Epiphany}
+\invisiblesection{Epiphany}
 
 \newpage
 
 
-\section{Candlemas}
+\invisiblesection{Candlemas}
 
 \subsection{Lumen ad Revelationem Gentium}
 
@@ -209,7 +249,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \newpage
 
 
-\section{Lent}
+\invisiblesection{Lent}
 
 \subsection{Attende Domine}
 
@@ -227,7 +267,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \newpage
 
 
-\section{Passiontide}
+\invisiblesection{Passiontide}
 
 %Gloria Laus
 \subsection{Gloria Laus}
@@ -261,28 +301,28 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \newpage
 
 
-\section{Easter}
+\invisiblesection{Easter}
 
 
 
 \newpage
 
 
-\section{Ascension}
+\invisiblesection{Ascension}
 
-\section{Pentecost}
+\invisiblesection{Pentecost}
 
-\section{Trinity}
+\invisiblesection{Trinity}
 
-\section{Sacred Heart}
+\invisiblesection{Sacred Heart}
 
-\section{Corpus Christi}
+\invisiblesection{Corpus Christi}
 
-\section{Christ the King}
+\invisiblesection{Christ the King}
 
-\section{All Saints}
+\invisiblesection{All Saints}
 
-\section{All Souls}
+\invisiblesection{All Souls}
 
 \subsection{Dies Irae}
 
@@ -291,9 +331,9 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \newpage
 
 
-\section{Marian}
+\invisiblesection{Marian}
 
-\section{For Peace}
+\invisiblesection{For Peace}
 
 % The title:
 %\begin{center}\begin{huge}\textsc{For Peace}\end{huge}\end{center}
@@ -308,12 +348,12 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \newpage
 
 
-\section{Thanksgiving}
+\invisiblesection{Thanksgiving}
 
-\section{Kyriale}
+\invisiblesection{Kyriale}
 
-\section{Benediction}
+\invisiblesection{Benediction}
 
-\section{Index}
+\invisiblesection{Index}
 
 \end{document}
