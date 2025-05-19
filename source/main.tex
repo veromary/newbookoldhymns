@@ -14,7 +14,7 @@
 \usepackage[pass-fonts=true,program=/home/veronica/bin/lilypond]{lyluatex}
 \setlength{\trimtop}{0pt}
 \setlength{\trimedge}{0pt}
-\settypeblocksize{170mm}{110mm}{*} % Was 101mm in a5
+\settypeblocksize{173mm}{110mm}{*} % Was 101mm in a5
 \setulmargins{*}{*}{1.4}
 \setlrmargins{*}{*}{1.2}
 \setheadfoot{\onelineskip}{2\onelineskip}
@@ -33,7 +33,7 @@
 \grechangestaffsize{16}
 
 \makepagestyle{myheadings}
-\makeevenfoot{myheadings}{}{}{<draft>} % page numbers at the outside
+\makeevenfoot{myheadings}{}{}{} % page numbers at the outside
 \makeoddfoot{myheadings}{}{}{}
 \makeevenhead{myheadings}{\thepage}{\textsc{\leftmark}}{} % small caps
 \makeoddhead{myheadings}{}{\textsc{\rightmark}}{\thepage}
@@ -191,25 +191,15 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \gregorioscore{gabc/va--rorate_caeli--solesmes.2}
 
-\bigskip
-
 
 \gregorioscore{gabc/va--rorate_caeli--solesmes.1}
-
-\bigskip
 
 
 \gregorioscore{gabc/va--rorate_caeli--solesmes.3}
 
-\bigskip
-
-Roráte.
 
 \gregorioscore{gabc/va--rorate_caeli--solesmes.4}
 
-\bigskip
-
-Roráte.
 
 \gregorioscore{gabc/va--rorate_caeli--solesmes.5}
 
@@ -217,6 +207,18 @@ Roráte.
 
 
 \invisiblesection{Christmas}
+
+\subsection{Gaudete, gaudete}
+
+\input gaudete
+
+\newpage
+
+\subsection{Adeste, fideles}
+
+\input adeste
+
+\newpage
 
 \subsection{Puer Natus in Bethlehem}
 

@@ -4,28 +4,30 @@
 \contentsline {subsection}{Veni O Sapientia}{2}{}%
 \contentsline {subsection}{Rorate Caeli}{3}{}%
 \contentsline {section}{Christmas}{6}{}%
-\contentsline {subsection}{Puer Natus in Bethlehem}{6}{}%
-\contentsline {section}{Holy Name}{7}{}%
-\contentsline {subsection}{Jesu Dulcis Memoria}{7}{}%
-\contentsline {section}{Epiphany}{8}{}%
-\contentsline {section}{Candlemas}{8}{}%
-\contentsline {subsection}{Lumen ad Revelationem Gentium}{8}{}%
-\contentsline {section}{Lent}{9}{}%
-\contentsline {subsection}{Attende Domine}{9}{}%
-\contentsline {subsection}{Parce Domine}{11}{}%
-\contentsline {section}{Passiontide}{12}{}%
-\contentsline {subsection}{Gloria Laus}{12}{}%
-\contentsline {subsection}{Vexilla Regis}{14}{}%
-\contentsline {section}{Easter}{15}{}%
-\contentsline {section}{Ascension}{15}{}%
-\contentsline {section}{Pentecost}{15}{}%
-\contentsline {section}{Trinity}{15}{}%
-\contentsline {section}{Sacred Heart}{15}{}%
-\contentsline {section}{Corpus Christi}{15}{}%
-\contentsline {section}{Christ the King}{15}{}%
-\contentsline {section}{All Saints}{15}{}%
-\contentsline {section}{All Souls}{15}{}%
-\contentsline {subsection}{Dies Irae}{15}{}%
-\contentsline {section}{Marian}{18}{}%
-\contentsline {section}{For Peace}{18}{}%
-\contentsline {subsection}{Da Pacem Dómine}{18}{}%
+\contentsline {subsection}{Gaudete, gaudete}{6}{}%
+\contentsline {subsection}{Adeste, fideles}{7}{}%
+\contentsline {subsection}{Puer Natus in Bethlehem}{8}{}%
+\contentsline {section}{Holy Name}{9}{}%
+\contentsline {subsection}{Jesu Dulcis Memoria}{9}{}%
+\contentsline {section}{Epiphany}{10}{}%
+\contentsline {section}{Candlemas}{10}{}%
+\contentsline {subsection}{Lumen ad Revelationem Gentium}{10}{}%
+\contentsline {section}{Lent}{11}{}%
+\contentsline {subsection}{Attende Domine}{11}{}%
+\contentsline {subsection}{Parce Domine}{13}{}%
+\contentsline {section}{Passiontide}{14}{}%
+\contentsline {subsection}{Gloria Laus}{14}{}%
+\contentsline {subsection}{Vexilla Regis}{16}{}%
+\contentsline {section}{Easter}{17}{}%
+\contentsline {section}{Ascension}{17}{}%
+\contentsline {section}{Pentecost}{17}{}%
+\contentsline {section}{Trinity}{17}{}%
+\contentsline {section}{Sacred Heart}{17}{}%
+\contentsline {section}{Corpus Christi}{17}{}%
+\contentsline {section}{Christ the King}{17}{}%
+\contentsline {section}{All Saints}{17}{}%
+\contentsline {section}{All Souls}{17}{}%
+\contentsline {subsection}{Dies Irae}{17}{}%
+\contentsline {section}{Marian}{20}{}%
+\contentsline {section}{For Peace}{20}{}%
+\contentsline {subsection}{Da Pacem Dómine}{20}{}%

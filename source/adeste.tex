@@ -1,0 +1,31 @@
+
+\begin{lilypond}
+
+melody = \relative c'' {
+  \clef treble
+  \key g \major
+  \time 4/4
+
+  \partial 4 g4 g2 d4 g a2 d,2 b'4 a b c b2 a4
+  g g2 fis4 e fis( g) a b fis2( e4.) d8 d1
+
+}
+
+text = \lyricmode {
+  A -- dés -- te, fi -- dé -- les, Læ -- ti tri -- um -- phan -- tes;
+Ve -- ní -- te, ve -- ní -- te in Beth -- le -- hem;
+}
+
+\score{
+  <<
+    \new Voice = "one" {
+      \autoBeamOff
+      \melody
+    }
+    \new Lyrics \lyricsto "one" \text
+  >>
+  \layout { }
+  \midi { }
+}
+
+\end{lilypond}
