@@ -46,19 +46,68 @@ Ve -- ní -- te ad -- o -- ré -- mus Dó -- mi -- num.
     \new Lyrics \lyricsto "one" \text
     \new Lyrics \lyricsto "one" \english
   >>
-  \layout { }
+
+\layout { 
+    \context {
+      \Score
+        \omit BarNumber
+}
+	} 
   \midi { }
 }
 
 \end{lilypond}
 
-\noindent\begin{minipage}{0.45\textwidth}
+\noindent\begin{minipage}[t]{0.45\textwidth}
 \hskip-3pt{2.} 
-Deus homo factus est,
+Deum de Deo, lumen de\\
+\phantom{tab}	lúmine,\\
+Gestant puéllae víscera;\\
+Deum verum, génitum non\\
+\phantom{tab} factum.
 \end{minipage}%
+\hskip5pt
+\begin{minipage}[t]{0.55\textwidth}
+\itshape
+\hskip-3pt{2.} True God of true God, Light from\\
+	\phantom{tab} Light,\\
+Lo, He shuns not the Virgin’s womb;\\
+	Son of the Father, begotten, not created;
+\end{minipage}
+
+\bigskip
+
+\noindent\begin{minipage}{0.45\textwidth}
+\hskip-3pt{3.} Cantet nunc Io! Chorus\\
+	\phantom{tab} angelórum:\\
+	Cantet nunc aula caeléstium:\\
+Gloria in excélsis Deo!
+\end{minipage}%
+\hskip5pt
 \begin{minipage}{0.55\textwidth}
 \itshape
-\hskip-3pt{2.} God is made man,
+\hskip-3pt{3.} Sing, choirs of angels, sing in\\
+	\phantom{tab} exultation;\\
+	Sing, all ye citizens of heaven above!\\
+	Glory to God, in the highest;
+\end{minipage}
+
+\bigskip
+
+\noindent\begin{minipage}[t]{0.45\textwidth}
+\hskip-3pt{4.} 
+Ergo qui natus die hodiérna,\\
+Jesu tibi sit glória:\\
+Patris aetérni Verbum caro\\
+	\phantom{tab} factum!
+\end{minipage}%
+\hskip5pt
+\begin{minipage}[t]{0.55\textwidth}
+\itshape
+\hskip-3pt{4.} Yea, Lord, we greet Thee, born this happy\\
+	\phantom{tab} morning;\\
+Jesus, to Thee be glory given;\\
+Word of the Father, now in flesh appearing.
 \end{minipage}
 
 \bigskip
