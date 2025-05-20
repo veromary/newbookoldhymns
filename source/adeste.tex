@@ -1,20 +1,41 @@
 
 \begin{lilypond}
+emphasize = {
+  \override Lyrics.LyricText.font-shape = #'italic
+}
 
+normal = {
+  \revert Lyrics.LyricText.font-shape
+}
 melody = \relative c'' {
   \clef treble
   \key g \major
   \time 4/4
 
-  \partial 4 g4 g2 d4 g a2 d,2 b'4 a b c b2 a4
-  g g2 fis4 e fis( g) a b fis2( e4.) d8 d1
-
+  \partial 4 g4 g2 d4 g a2 d,2 b'4 a b c b2 a4 \break \bar "|"
+	g g2 fis4 e fis( g) a b fis2( e4.) d8 d1
+ d'2 c4 b c2 b a4 b g a fis4.( e8) d4 \break \bar "|"
+	g4 g fis g a g2 d4 b' b a b c b2 a4 \break \bar "|"
+	b4 c b a g fis2 g4( c) b2( a4.) g8 g1 \bar "||"
 }
 
 text = \lyricmode {
   A -- dés -- te, fi -- dé -- les, Læ -- ti tri -- um -- phan -- tes;
 Ve -- ní -- te, ve -- ní -- te in Beth -- le -- hem;
+Na -- tum vi -- dé -- te Re -- gem an -- ge -- ló -- rum:
+Ve -- ní -- te ad -- o -- ré -- mus,
+Ve -- ní -- te ad -- o -- ré -- mus,
+Ve -- ní -- te ad -- o -- ré -- mus Dó -- mi -- num.
 }
+
+	english = \lyricmode {
+		\emphasize
+		O come, all ye faith -- ful Joy -- ful and tri -- um -- phant;
+		O come ye, O come ye to Beth -- le -- hem;
+		Come and be -- hold Him born the King of an -- gels:
+		O come let us ad -- ore Him
+		O come let us ad -- ore Him
+		O come let us ad -- ore Him Christ the Lord.}
 
 \score{
   <<
@@ -23,9 +44,23 @@ Ve -- ní -- te, ve -- ní -- te in Beth -- le -- hem;
       \melody
     }
     \new Lyrics \lyricsto "one" \text
+    \new Lyrics \lyricsto "one" \english
   >>
   \layout { }
   \midi { }
 }
 
 \end{lilypond}
+
+\noindent\begin{minipage}{0.45\textwidth}
+\hskip-3pt{2.} 
+Deus homo factus est,
+\end{minipage}%
+\begin{minipage}{0.55\textwidth}
+\itshape
+\hskip-3pt{2.} God is made man,
+\end{minipage}
+
+\bigskip
+
+\mysource{Translated by F.~Oakeley, 1841 and W.~T.~Brooke, 1848--1917}

@@ -6,58 +6,94 @@ emphasize = {
 normal = {
   \revert Lyrics.LyricText.font-shape
 }
-music = \relative c'' {
-	\key c \major
-a2 a g a4 b c2 \bar "|"
+
+SopranoInstrumentName = ""
+AltoInstrumentName = ""
+TenorInstrumentName = ""
+BassInstrumentName = ""
+
+ SopranoMusic = \relative c'' { \cadenzaOn a2 a g a4 b c2 \bar "|"
 c4 b2 a4 g2 g \bar "|"
 g2 a b2. a4 \bar "|"
-g2 a4 b2 a4 g2 a \bar "|"
+g2 a4 b2 a4 g2 a \cadenzaOff \bar "|"
 }
-	\addlyrics {
+  AltoMusic = \relative c' { e2 e e e4 g g2 g4 g2 e4 e2 e
+	e e g2. e4 e2 d4 g2 d4 e2 e }
+  VerseOne = \lyricmode {
 Gau -- de -- te, gau -- de -- te! Christ -- us est na -- tus,
 Ex Ma -- rí -- a Vír -- gi -- ne, gau -- de -- te.
-		}
-		\addlyrics { 
-\emphasize Re -- joice, re -- joice! Christ _ is born,
-of the Virgin Mary, rejoice!
-		}
-	harmony = \relative {
-\clef "bass"
-	\key c \major
-a2 a e a4 g c,2 \bar "|"
+  }
+  VerseTwo = \lyricmode {
+\emphasize Re _ -- joice, re _ -- joice! Christ _ is born, _
+of the Vir _ -- gin _ Ma -- ry, re -- joice!
+    }
+  TenorMusic = \relative { a2 c b c4 d e2 e4 d2 c4 b2 b
+	b c d2. c4 b2 a4 g2 a4 b2 a2 }
+  BassMusic = \relative {a2 a e a4 g c,2 \bar "|"
 c4 g'2 a4 e2 e \bar "|"
 e2 a g2. a4 \bar "|"
 e2 fis4 g2 fis4 e2 a,2 \bar "|"
-		}
-\score {
-   \new ChoirStaff <<
-   \new Staff \music
-   \new Staff {
-      \harmony
-   }
-   >>
+}
+  TwoVoicesPerStaff = ##t
+  \layout {
+    \context {
+      \Staff
+      \remove Time_signature_engraver
+    }
+  }
+
+  \include "satb.ly"
+
+melody = \relative c'' {
+  \clef treble
+  \key g \major
+  \time 8/4
+a4 a g a c b a2 \bar "|"
+a4 fis e fis d2 d \bar "|"
+d4 d fis d fis g a2 \bar "|"
+c4 a b c a2 a \bar "||"
+	}
+
+text = \lyricmode {
+Tem -- pus ad est gra -- ti -- ae
+Hoc quod op -- ta -- ba -- mus,
+Car -- mi -- na læ -- ti -- ti -- æ
+De -- vo -- te red -- da -- mus.
 }
 
- SopranoMusic = \relative { a' a a a }
-  AltoMusic = \relative { f' f f f }
-  VerseOne = \lyricmode {
-    \set stanza = "1."
-    Words to verse one
-  }
-  VerseTwo = \lyricmode {
-    \set stanza = "2."
-    Words to verse two
-  }
-  VerseThree = \lyricmode {
-    \set stanza = "3."
-    Words to verse three
-  }
-  TenorMusic = \relative { a a a a }
-  BassMusic = \relative { f f f f }
-  TwoVoicesPerStaff = ##t
-  \include "satb.ly"
+english = \lyricmode {
+	\emphasize The time of grace has _ come
+	For which we have pray -- ed
+	Let _ us _ de -- vout -- ly
+	Sing _ songs of joy _}
+
+
+\score{
+  <<
+    \new Voice = "one" {
+      \autoBeamOff
+      \melody
+    }
+    \new Lyrics \lyricsto "one" \text
+    \new Lyrics \lyricsto "one" \english
+  >>
+  \layout { }
+  \midi { }
+}
+
+
 
 
 \end{lilypond}
 
+\noindent\begin{minipage}{0.45\textwidth}
+\hskip-3pt{2.} 
+Deus homo factus est,
+\end{minipage}%
+\begin{minipage}{0.55\textwidth}
+\itshape
+\hskip-3pt{2.} God is made man,
+\end{minipage}
+
+\bigskip
 
