@@ -1,0 +1,30 @@
+\begin{lilypond}
+  \score {
+    \relative c' {
+      \key f \major
+      \time 3/4
+      f8( c) a'2 | g8( c,) bes'2 | a4( g) f | f e2 |
+      d'4( c8 bes) a( g) | c4.( bes8) a4 | a8( g f4 e) | f2. | \break
+      c'2.^"*" | c2. | c4( bes) a | a g2 |
+      d'4 d2 | c2 c4 | c8( bes a4 g) | f2. | \break
+      f | e | f4.( g8) a( bes) | c4 c,2 |
+      bes'4 bes2 | a4 a2 | f8( a c4 c,) | f2. \bar "||"
+    }
+
+    \addlyrics {
+      Do -- na no -- bis pa -- cem, pa -- cem,
+      Do -- na no -- bis pa -- cem.
+      Do -- na no -- bis pa -- cem,
+      Do -- na no -- bis pa -- cem.
+      Do -- na no -- bis pa -- cem,
+      Do -- na no -- bis pa -- cem.
+    }
+
+    \header {
+      title = "Dona Nobis Pacem"
+      composer = "Traditional"
+    }
+  }
+
+\end{lilypond}
+

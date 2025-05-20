@@ -1,0 +1,26 @@
+\begin{lilypond}
+
+	 \score {
+    \relative c' {
+      \key c \major
+      \time 2/2
+      c2^\fermata d4^"* (5th below)" e | f4.^\fermata f8 e4^\fermata^"* (oct. below)" e | d2 c | r4 g' a8 a f4 |
+      c'2 c4 bes | a4. a8 g2 | r4 d e8 e c4 |
+      g'2 g4 f | e4. e8 d2 \bar "||"
+    }
+
+    \addlyrics {
+      Non no -- bis Do -- mi -- ne, non no -- bis,
+      sed no -- mi -- ni tu -- o da glo -- ri -- am,
+      sed no -- mi -- ni tu -- o da glo -- ri -- am.
+    }
+
+    \header {
+      title = "Non nobis, Domine"
+      composer = "William Byrd?"
+    }
+  }
+
+\end{lilypond}
+
+The second part comes in on ‘g’ below middle ‘c’ and is sung a fourth below.
