@@ -47,11 +47,14 @@
   \markboth{#1}{#1}}
 
 
+\newcommand\hymntitle[1]{\subsection{#1}\index{#1}}
 \setsubsecheadstyle{\centering\hminfamily\LARGE}
 %\setbeforesecskip{-\onelineskip}
 %\setaftersecskip{\onelineskip}
 
 \newcommand\mysource[1]{\begingroup \raggedleft \footnotesize #1 \par \endgroup}
+
+\makeindex
 
 \begin{document}
 \pagenumbering{roman}
@@ -156,7 +159,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \includegraphics[width=5cm]{images/pope-leo-official}
 \end{center}
 
-\subsection{Oremus pro Pontifice nostro}
+\hymntitle{Oremus pro Pontifice nostro}
 
 \gregorioscore{gabc/va--oremus_pro_pontifice--solesmes}
 
@@ -169,7 +172,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \pagenumbering{arabic}
 \pagestyle{myheadings}
 
-\subsection{Conditor Alme Siderum}
+\hymntitle{Conditor alme Siderum}
 
 \gregorioscore{gabc/hy--conditor_alme_siderum-v1--solesme}
 
@@ -177,12 +180,12 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \newpage
 
-\subsection{Veni O Sapientia}
+\hymntitle{Veni O Sapientia}
 
 \input veniosapientia
 
 
-\subsection{Rorate Caeli}
+\hymntitle{Rorate Caeli}
 
 
 \gregorioscore{gabc/va--rorate_caeli--solesmes.1}
@@ -208,19 +211,19 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \invisiblesection{Christmas}
 
-\subsection{Gaudete, gaudete}
+\hymntitle{Gaudete, gaudete}
 
 \input gaudete
 
 \newpage
 
-\subsection{Adeste, fideles}
+\hymntitle{Adeste, fideles}
 
 \input adeste
 
 \newpage
 
-\subsection{Puer Natus in Bethlehem}
+\hymntitle{Puer Natus in Bethlehem}
 
 \gregorioscore{gabc/hy--puer_natus_in_bethlehem--solesmes}
 
@@ -231,7 +234,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \invisiblesection{Holy Name}
 
-\subsection{Jesu Dulcis Memoria}
+\hymntitle{Jesu Dulcis Memoria}
 
 \gregorioscore{gabc/hy--jesu_dulcis_memoria--solesmes}
 
@@ -243,9 +246,13 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \newpage
 
-\subsection{Non nobis, Domine}
+\hymntitle{Non nobis, Domine}
 
 \input non-nobis
+
+\hymntitle{Laudate nomen Domini}
+
+\input laudate
 
 \invisiblesection{Epiphany}
 
@@ -254,7 +261,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \invisiblesection{Candlemas}
 
-\subsection{Lumen ad Revelationem Gentium}
+\hymntitle{Lumen ad Revelationem Gentium}
 
 \gregorioscore{gabc/an--lumen_ad_revelationem--solesmes}
 
@@ -263,7 +270,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \invisiblesection{Lent}
 
-\subsection{Attende Domine}
+\hymntitle{Attende Domine}
 
 \gregorioscore{gabc/va--attende_domine--solesmes}
 
@@ -272,7 +279,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \newpage
 
 
-\subsection{Parce Domine}
+\hymntitle{Parce Domine}
 
 \gregorioscore{gabc/an--parce_domine--solesmes}
 
@@ -282,7 +289,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \invisiblesection{Passiontide}
 
 %Gloria Laus
-\subsection{Gloria Laus}
+\hymntitle{Gloria Laus}
 
 \gregorioscore{gabc/hy--gloria_laus--solesmes.1}
 
@@ -305,7 +312,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \newpage
 
 
-\subsection{Vexilla Regis}
+\hymntitle{Vexilla Regis}
 
 \gregorioscore{gabc/hy--vexilla_regis_prodeunt--solesmes.1verse}
 
@@ -315,9 +322,11 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \invisiblesection{Easter}
 
-\subsection{Haec dies}
+\hymntitle{Haec dies}
 
-\subsection{Jubilate Deo}
+\gregorioscore{gabc/an--haec_dies--solesmes_1961.1}
+
+\hymntitle{Jubilate Deo}
 
 \input jubilate
 
@@ -340,7 +349,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \invisiblesection{All Souls}
 
-\subsection{Dies Irae}
+\hymntitle{Dies Irae}
 
 \gregorioscore{gabc/se--dies_irae--vatican}
 
@@ -351,13 +360,13 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \invisiblesection{For Peace}
 
-\subsection{Dona nobis pacem}
+\hymntitle{Dona nobis pacem}
 
 \input dona-nobis
 
 % The title:
 %\begin{center}\begin{huge}\textsc{For Peace}\end{huge}\end{center}
-	\subsection{Da Pacem Dómine}
+	\hymntitle{Da Pacem Dómine}
 
 
 \gregorioscore{gabc/an--da_pacem_domine--solesmes}
@@ -375,5 +384,7 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 \invisiblesection{Benediction}
 
 \invisiblesection{Index}
+
+\printindex
 
 \end{document}

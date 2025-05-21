@@ -1,0 +1,39 @@
+\begin{lilypond}
+emphasize = {
+  \override Lyrics.LyricText.font-shape = #'italic
+}
+
+ \score {
+    \relative c' {
+      \key c \major
+      \time 2/2
+      c1^"I" g'2 e f g e2.^"II" d4 c2
+	c'2 c b \break c(^"III" g4 f e f) g2 a g g^"IV"
+	c2( c4 d e2) d1 c^"V"
+	r2 c d g, g^"VI" g g1 r1
+	\bar "||"
+    }
+
+    \addlyrics {
+Lau -- da -- te no -- men Do -- mi -- ni, Lau -- da -- te
+ser -- vi Do -- mi -- num qui sta -- tis
+in do -- mo Do -- mi -- ni.
+    }
+
+    \addlyrics {
+	    \emphasize
+Praise ye the name _ of the Lord, Praise the Lord all ye ser _ -- vants
+who dwell _ in the house of the Lord.
+    }
+\layout { 
+    \context {
+      \Score
+        \omit BarNumber
+}
+	} 
+  \midi { }
+ }
+
+\end{lilypond}
+
+{\tiny Singing the English is not guaranteed to work}

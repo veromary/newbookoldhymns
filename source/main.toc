@@ -1,6 +1,6 @@
 \contentsline {subsection}{Oremus pro Pontifice nostro}{iv}{}%
 \contentsline {section}{Advent}{1}{}%
-\contentsline {subsection}{Conditor Alme Siderum}{1}{}%
+\contentsline {subsection}{Conditor alme Siderum}{1}{}%
 \contentsline {subsection}{Veni O Sapientia}{2}{}%
 \contentsline {subsection}{Rorate Caeli}{3}{}%
 \contentsline {section}{Christmas}{6}{}%
@@ -10,6 +10,7 @@
 \contentsline {section}{Holy Name}{9}{}%
 \contentsline {subsection}{Jesu Dulcis Memoria}{9}{}%
 \contentsline {subsection}{Non nobis, Domine}{10}{}%
+\contentsline {subsection}{Laudate nomen Domini}{10}{}%
 \contentsline {section}{Epiphany}{10}{}%
 \contentsline {section}{Candlemas}{11}{}%
 \contentsline {subsection}{Lumen ad Revelationem Gentium}{11}{}%
@@ -35,3 +36,8 @@
 \contentsline {section}{For Peace}{22}{}%
 \contentsline {subsection}{Dona nobis pacem}{22}{}%
 \contentsline {subsection}{Da Pacem Dómine}{22}{}%
+\contentsline {section}{Thanksgiving}{23}{}%
+\contentsline {section}{Kyriale}{23}{}%
+\contentsline {section}{Benediction}{23}{}%
+\contentsline {section}{Index}{23}{}%
+\contentsline {chapter}{Index}{23}{}%

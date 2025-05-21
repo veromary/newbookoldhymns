@@ -1,10 +1,14 @@
 \begin{lilypond}
+emphasize = {
+  \override Lyrics.LyricText.font-shape = #'italic
+}
 
-	 \score {
+
+ \score {
     \relative c' {
       \key c \major
       \time 2/2
-      c2^\fermata d4^"* (5th below)" e | f4.^\fermata f8 e4^\fermata^"* (oct. below)" e | d2 c | r4 g' a8 a f4 |
+      c2^"I"^\fermata d4^"II*" e | f4.^\fermata f8 e4^\fermata^"III*" e | d2 c \break | r4 g' a8 a f4 |
       c'2 c4 bes | a4. a8 g2 | r4 d e8 e c4 |
       g'2 g4 f | e4. e8 d2 \bar "||"
     }
@@ -15,12 +19,21 @@
       sed no -- mi -- ni tu -- o da glo -- ri -- am.
     }
 
-    \header {
-      title = "Non nobis, Domine"
-      composer = "William Byrd?"
+    \addlyrics {
+	    \emphasize
+	    Not un -- to us O Lord, not us, _ but un -- to Thy name _ be the glo -- ry,
+	    but un -- to Thy name _ be the glo -- ry.
     }
+
+\layout { 
+    \context {
+      \Score
+        \omit BarNumber
+}
+	} 
+  \midi { }
   }
 
 \end{lilypond}
 
-The second part comes in on ‘g’ below middle ‘c’ and is sung a fourth below.
+* The second part comes in on ‘g’ below middle ‘c’ and is sung a fourth below.
