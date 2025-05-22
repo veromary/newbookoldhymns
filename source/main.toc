@@ -16,28 +16,28 @@
 \contentsline {subsection}{Lumen ad Revelationem Gentium}{11}{}%
 \contentsline {section}{Lent}{12}{}%
 \contentsline {subsection}{Attende Domine}{12}{}%
-\contentsline {subsection}{Parce Domine}{14}{}%
-\contentsline {section}{Passiontide}{15}{}%
-\contentsline {subsection}{Gloria Laus}{15}{}%
-\contentsline {subsection}{Vexilla Regis}{17}{}%
-\contentsline {section}{Easter}{18}{}%
-\contentsline {subsection}{Haec dies}{18}{}%
-\contentsline {subsection}{Jubilate Deo}{18}{}%
-\contentsline {section}{Ascension}{19}{}%
-\contentsline {section}{Pentecost}{19}{}%
-\contentsline {section}{Trinity}{19}{}%
-\contentsline {section}{Sacred Heart}{19}{}%
-\contentsline {section}{Corpus Christi}{19}{}%
-\contentsline {section}{Christ the King}{19}{}%
-\contentsline {section}{All Saints}{19}{}%
-\contentsline {section}{All Souls}{19}{}%
-\contentsline {subsection}{Dies Irae}{19}{}%
-\contentsline {section}{Marian}{22}{}%
-\contentsline {section}{For Peace}{22}{}%
-\contentsline {subsection}{Dona nobis pacem}{22}{}%
-\contentsline {subsection}{Da Pacem Dómine}{22}{}%
-\contentsline {section}{Thanksgiving}{23}{}%
-\contentsline {section}{Kyriale}{23}{}%
-\contentsline {section}{Benediction}{23}{}%
-\contentsline {section}{Index}{23}{}%
+\contentsline {subsection}{Parce Domine}{13}{}%
+\contentsline {section}{Passiontide}{14}{}%
+\contentsline {subsection}{Gloria Laus}{14}{}%
+\contentsline {subsection}{Vexilla Regis}{16}{}%
+\contentsline {section}{Easter}{17}{}%
+\contentsline {subsection}{Haec dies}{17}{}%
+\contentsline {subsection}{Jubilate Deo}{17}{}%
+\contentsline {section}{Ascension}{18}{}%
+\contentsline {section}{Pentecost}{18}{}%
+\contentsline {section}{Trinity}{18}{}%
+\contentsline {section}{Sacred Heart}{18}{}%
+\contentsline {section}{Corpus Christi}{18}{}%
+\contentsline {section}{Christ the King}{18}{}%
+\contentsline {section}{All Saints}{18}{}%
+\contentsline {section}{All Souls}{18}{}%
+\contentsline {subsection}{Dies Irae}{18}{}%
+\contentsline {section}{Marian}{21}{}%
+\contentsline {section}{For Peace}{21}{}%
+\contentsline {subsection}{Dona nobis pacem}{21}{}%
+\contentsline {subsection}{Da Pacem Dómine}{21}{}%
+\contentsline {section}{Thanksgiving}{22}{}%
+\contentsline {section}{Kyriale}{22}{}%
+\contentsline {section}{Benediction}{22}{}%
+\contentsline {section}{Index}{22}{}%
 \contentsline {chapter}{Index}{23}{}%
