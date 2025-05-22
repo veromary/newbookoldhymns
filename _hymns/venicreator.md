@@ -82,7 +82,7 @@ vitemus omne noxium.</p>
 pacemque dones protinus:
 ductore sic te praevio
 vitemus omne noxium.</p>
-<p>army repel {far away,} {and peace} {may you grant} immediately: {with the leader} thus thee {leading the way} {let us avoid} all hurtful</p>
+<p>enemy repel {far away,} {and peace} {may you grant} immediately: {with the leader} thus thee {leading the way} {let us avoid} all hurtful</p>
 <p>Far from us drive the foe we dread,
 and grant us Thy peace instead;
 so shall we not, with Thee for guide,
@@ -94,11 +94,11 @@ turn from the path of life aside.</p>
 noscamus atque Filium;
 Teque utriusque Spiritum
 credamus omni tempore.</p>
-<p>Per te sciamus da Patrem,
+<p>Per te da sciamus Patrem,
 noscamus atque Filium;
 Teque utriusque Spiritum
-credamus omni tempore.</p>
-<p>Through thee {may we know} give {the Father} {may we know} also {the Son} {and thee} {from both} Spirit {we may believe} all times</p>
+credamus {omni tempore.}</p>
+<p>Through thee grant {that we may know} {the Father} {may we become aquainted with} also {the Son} {and thee} {from both} Spirit {we may believe} {through all time}</p>
 <p>Oh, may Thy grace on us bestow
 the Father and the Son to know;
 and Thee, through endless times confessed,
