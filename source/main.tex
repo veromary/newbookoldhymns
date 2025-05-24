@@ -12,6 +12,7 @@
 \usepackage{multicol}
 \usepackage{graphicx} % support the \includegraphics command and options
 \usepackage[pass-fonts=true,program=/home/veronica/bin/lilypond]{lyluatex}
+\usepackage{lettrine}
 \setlength{\trimtop}{0pt}
 \setlength{\trimedge}{0pt}
 \settypeblocksize{173mm}{110mm}{*} % Was 101mm in a5
@@ -26,6 +27,8 @@
 
 \grechangestyle{translation}{\itshape \fontsize{10}{11}\selectfont}
 \newcommand\translationfont[1]{{\itshape \fontsize{10}{11}\selectfont #1}}
+
+\renewcommand{\LettrineFontHook}{\fontspec{Priory.ttf}}
 
 \grechangestyle{initial}{\priory \fontsize{30}{30}\selectfont}
 \grechangestyle{annotation}{\tiny}
@@ -364,6 +367,11 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \gresetinitiallines{1}
 
+\bigskip
+
+\mysource{St. Theodulf of Orleans, d.~821\\
+Translated by J.~M.~Neale, 1818--66}
+
 \newpage
 
 
@@ -373,8 +381,29 @@ Relevant recordings and resources at: newbookoldhymns.brandt.id.au
 
 \input vexilla
 
+
+\hymntitle{O Sacred Head sore wounded}
+
+\input osacredhead
+
 \newpage
 
+\hymntitle{Ubi Caritas}
+
+\gregorioscore{gabc/an--ubi_caritas--vatican}
+
+\mysource{10th century\\
+A common variant is: Ubi caritas et amor – Where charity and love are.\\
+Translation from the Roman Missal 1914}
+
+\begin{center}
+
+	\includegraphics[height=2cm]{images/fishbread}
+
+\end{center}
+
+
+\newpage
 
 \invisiblesection{Easter}
 

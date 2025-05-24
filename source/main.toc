@@ -20,24 +20,26 @@
 \contentsline {section}{Passiontide}{14}{}%
 \contentsline {subsection}{Gloria Laus}{14}{}%
 \contentsline {subsection}{Vexilla Regis}{16}{}%
-\contentsline {section}{Easter}{18}{}%
-\contentsline {subsection}{Haec dies}{18}{}%
-\contentsline {subsection}{Jubilate Deo}{18}{}%
-\contentsline {section}{Ascension}{19}{}%
-\contentsline {section}{Pentecost}{19}{}%
-\contentsline {section}{Trinity}{19}{}%
-\contentsline {section}{Sacred Heart}{19}{}%
-\contentsline {section}{Corpus Christi}{19}{}%
-\contentsline {section}{Christ the King}{19}{}%
-\contentsline {section}{All Saints}{19}{}%
-\contentsline {section}{All Souls}{19}{}%
-\contentsline {subsection}{Dies Irae}{19}{}%
-\contentsline {section}{Marian}{22}{}%
-\contentsline {section}{For Peace}{22}{}%
-\contentsline {subsection}{Dona nobis pacem}{22}{}%
-\contentsline {subsection}{Da Pacem Dómine}{22}{}%
-\contentsline {section}{Thanksgiving}{23}{}%
-\contentsline {section}{Kyriale}{23}{}%
-\contentsline {section}{Benediction}{23}{}%
-\contentsline {section}{Index}{23}{}%
-\contentsline {chapter}{Index}{23}{}%
+\contentsline {subsection}{O Sacred Head sore wounded}{17}{}%
+\contentsline {subsection}{Ubi Caritas}{18}{}%
+\contentsline {section}{Easter}{20}{}%
+\contentsline {subsection}{Haec dies}{20}{}%
+\contentsline {subsection}{Jubilate Deo}{20}{}%
+\contentsline {section}{Ascension}{21}{}%
+\contentsline {section}{Pentecost}{21}{}%
+\contentsline {section}{Trinity}{21}{}%
+\contentsline {section}{Sacred Heart}{21}{}%
+\contentsline {section}{Corpus Christi}{21}{}%
+\contentsline {section}{Christ the King}{21}{}%
+\contentsline {section}{All Saints}{21}{}%
+\contentsline {section}{All Souls}{21}{}%
+\contentsline {subsection}{Dies Irae}{21}{}%
+\contentsline {section}{Marian}{24}{}%
+\contentsline {section}{For Peace}{24}{}%
+\contentsline {subsection}{Dona nobis pacem}{24}{}%
+\contentsline {subsection}{Da Pacem Dómine}{24}{}%
+\contentsline {section}{Thanksgiving}{25}{}%
+\contentsline {section}{Kyriale}{25}{}%
+\contentsline {section}{Benediction}{25}{}%
+\contentsline {section}{Index}{25}{}%
+\contentsline {chapter}{Index}{25}{}%
