@@ -22,24 +22,27 @@
 \contentsline {subsection}{Vexilla Regis}{16}{}%
 \contentsline {subsection}{O Sacred Head sore wounded}{17}{}%
 \contentsline {subsection}{Ubi Caritas}{18}{}%
-\contentsline {section}{Easter}{20}{}%
-\contentsline {subsection}{Haec dies}{20}{}%
-\contentsline {subsection}{Jubilate Deo}{20}{}%
-\contentsline {section}{Ascension}{21}{}%
-\contentsline {section}{Pentecost}{21}{}%
-\contentsline {section}{Trinity}{21}{}%
-\contentsline {section}{Sacred Heart}{21}{}%
-\contentsline {section}{Corpus Christi}{21}{}%
-\contentsline {section}{Christ the King}{21}{}%
-\contentsline {section}{All Saints}{21}{}%
-\contentsline {section}{All Souls}{21}{}%
-\contentsline {subsection}{Dies Irae}{21}{}%
-\contentsline {section}{Marian}{24}{}%
-\contentsline {section}{For Peace}{24}{}%
-\contentsline {subsection}{Dona nobis pacem}{24}{}%
-\contentsline {subsection}{Da Pacem Dómine}{24}{}%
-\contentsline {section}{Thanksgiving}{25}{}%
-\contentsline {section}{Kyriale}{25}{}%
-\contentsline {section}{Benediction}{25}{}%
-\contentsline {section}{Index}{25}{}%
-\contentsline {chapter}{Index}{25}{}%
+\contentsline {subsection}{Pange Lingua}{20}{}%
+\contentsline {subsection}{Stabat Mater dolorosa}{22}{}%
+\contentsline {subsection}{Crux fidelis}{23}{}%
+\contentsline {section}{Easter}{24}{}%
+\contentsline {subsection}{Haec dies}{24}{}%
+\contentsline {subsection}{Jubilate Deo}{24}{}%
+\contentsline {section}{Ascension}{25}{}%
+\contentsline {section}{Pentecost}{25}{}%
+\contentsline {section}{Trinity}{25}{}%
+\contentsline {section}{Sacred Heart}{25}{}%
+\contentsline {section}{Corpus Christi}{25}{}%
+\contentsline {section}{Christ the King}{25}{}%
+\contentsline {section}{All Saints}{25}{}%
+\contentsline {section}{All Souls}{25}{}%
+\contentsline {subsection}{Dies Irae}{25}{}%
+\contentsline {section}{Marian}{28}{}%
+\contentsline {section}{For Peace}{28}{}%
+\contentsline {subsection}{Dona nobis pacem}{28}{}%
+\contentsline {subsection}{Da Pacem Dómine}{28}{}%
+\contentsline {section}{Thanksgiving}{29}{}%
+\contentsline {section}{Kyriale}{29}{}%
+\contentsline {section}{Benediction}{29}{}%
+\contentsline {section}{Index}{29}{}%
+\contentsline {chapter}{Index}{29}{}%

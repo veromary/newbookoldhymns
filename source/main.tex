@@ -108,6 +108,24 @@
 %  \lower\ht\linkbox%
   \box\wordbox \llap{\box\linkbox}}
 
+\newlength{\englishwidth}
+\newlength{\latinwidth}
+\newlength{\interwidth}
+\setlength{\englishwidth}{0.5\textwidth}
+\setlength{\latinwidth}{0.48\textwidth}
+\setlength{\interwidth}{10pt}
+\newcounter{VerseNumber}
+
+\newcommand\startverse[1]{\noindent\begin{minipage}[t]{\latinwidth}%
+	\setcounter{VerseNumber}{#1}%
+\hskip-3pt{#1 .}}
+\newcommand\divverse{\end{minipage}%
+	\hskip12pt%
+\begin{minipage}[t]{\englishwidth}\itshape%
+	\hskip-3pt{\theVerseNumber .} }
+\newcommand\finishverse{\end{minipage}}
+
+
 \begin{document}
 \pagenumbering{roman}
 \pagestyle{empty}
@@ -392,16 +410,38 @@ Translated by J.~M.~Neale, 1818--66}
 
 \gregorioscore{gabc/an--ubi_caritas--vatican}
 
+\bigskip
+
 \mysource{10th century\\
-A common variant is: Ubi caritas et amor – Where charity and love are.\\
-Translation from the Roman Missal 1914}
+A common variant is: Ubi caritas est vera – Where charity is true.}
+
+\bigskip
+
 
 \begin{center}
 
-	\includegraphics[height=2cm]{images/fishbread}
+	\includegraphics[width=5cm]{images/fishbread}
 
 \end{center}
 
+
+\newpage
+
+\hymntitle{Pange Lingua}
+
+\input pange
+
+\newpage
+
+\hymntitle{Stabat Mater dolorosa}
+
+\input stabat
+
+\newpage
+
+\hymntitle{Crux fidelis}
+
+\input crux
 
 \newpage
 
@@ -451,7 +491,7 @@ Translation from the Roman Missal 1914}
 
 % The title:
 %\begin{center}\begin{huge}\textsc{For Peace}\end{huge}\end{center}
-	\hymntitle{Da Pacem Dómine}
+	\hymntitle{Da Pacem Domine}
 
 
 \gregorioscore{gabc/an--da_pacem_domine--solesmes}
