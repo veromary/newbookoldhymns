@@ -24,25 +24,29 @@
 \contentsline {subsection}{Ubi Caritas}{18}{}%
 \contentsline {subsection}{Pange Lingua}{20}{}%
 \contentsline {subsection}{Stabat Mater dolorosa}{22}{}%
-\contentsline {subsection}{Crux fidelis}{23}{}%
-\contentsline {section}{Easter}{24}{}%
-\contentsline {subsection}{Haec dies}{24}{}%
-\contentsline {subsection}{Jubilate Deo}{24}{}%
-\contentsline {section}{Ascension}{25}{}%
-\contentsline {section}{Pentecost}{25}{}%
-\contentsline {section}{Trinity}{25}{}%
-\contentsline {section}{Sacred Heart}{25}{}%
-\contentsline {section}{Corpus Christi}{25}{}%
-\contentsline {section}{Christ the King}{25}{}%
-\contentsline {section}{All Saints}{25}{}%
-\contentsline {section}{All Souls}{25}{}%
-\contentsline {subsection}{Dies Irae}{25}{}%
-\contentsline {section}{Marian}{28}{}%
-\contentsline {section}{For Peace}{28}{}%
-\contentsline {subsection}{Dona nobis pacem}{28}{}%
-\contentsline {subsection}{Da Pacem Dómine}{28}{}%
-\contentsline {section}{Thanksgiving}{29}{}%
-\contentsline {section}{Kyriale}{29}{}%
-\contentsline {section}{Benediction}{29}{}%
-\contentsline {section}{Index}{29}{}%
-\contentsline {chapter}{Index}{29}{}%
+\contentsline {subsection}{Crux fidelis}{24}{}%
+\contentsline {section}{Easter}{27}{}%
+\contentsline {subsection}{Haec dies}{27}{}%
+\contentsline {subsection}{Jubilate Deo}{27}{}%
+\contentsline {subsection}{O filii et filiae}{28}{}%
+\contentsline {subsection}{Alleluia}{29}{}%
+\contentsline {subsection}{Victimae paschali laudes}{30}{}%
+\contentsline {subsection}{Salve festa dies}{31}{}%
+\contentsline {section}{Ascension}{33}{}%
+\contentsline {section}{Pentecost}{33}{}%
+\contentsline {section}{Trinity}{33}{}%
+\contentsline {section}{Sacred Heart}{33}{}%
+\contentsline {section}{Corpus Christi}{33}{}%
+\contentsline {section}{Christ the King}{33}{}%
+\contentsline {section}{All Saints}{33}{}%
+\contentsline {section}{All Souls}{33}{}%
+\contentsline {subsection}{Dies Irae}{33}{}%
+\contentsline {section}{Marian}{36}{}%
+\contentsline {section}{For Peace}{36}{}%
+\contentsline {subsection}{Dona nobis pacem}{36}{}%
+\contentsline {subsection}{Da Pacem Domine}{36}{}%
+\contentsline {section}{Thanksgiving}{37}{}%
+\contentsline {section}{Kyriale}{37}{}%
+\contentsline {section}{Benediction}{37}{}%
+\contentsline {section}{Index}{37}{}%
+\contentsline {chapter}{Index}{37}{}%

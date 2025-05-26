@@ -1,5 +1,7 @@
 \begin{lilypond}
-
+emphasize = {
+  \override Lyrics.LyricText.font-shape = #'italic
+}
   \score {
     \relative c'' {
       \key g \major
@@ -13,6 +15,9 @@
 ju -- bi -- la -- te om -- nis ter -- ra,
 psal -- li -- te in lae -- tí -- ti -- a.
     }
+	\addlyrics {
+		\emphasize Re _ -- joice, _ re _ -- joice, _ in God all the earth _ re _ -- joice _ all the  earth,  _ sing _ -- _ -- _ -- _ out with joy.
+	}
     \header {
       title = "Jubilate Deo"
       composer = "Michael Praetorius"
