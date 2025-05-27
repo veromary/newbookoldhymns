@@ -34,21 +34,21 @@
 \contentsline {subsection}{Salve festa dies}{32}{}%
 \contentsline {section}{Pentecost}{34}{}%
 \contentsline {subsection}{Veni Sancte Spiritus}{34}{}%
-\contentsline {subsection}{Veni Creator Spiritus}{35}{}%
-\contentsline {section}{Trinity}{36}{}%
-\contentsline {subsection}{Firmly I believe}{36}{}%
-\contentsline {section}{Sacred Heart}{37}{}%
-\contentsline {section}{Corpus Christi}{37}{}%
-\contentsline {section}{Christ the King}{37}{}%
-\contentsline {section}{All Saints}{37}{}%
-\contentsline {section}{All Souls}{37}{}%
-\contentsline {subsection}{Dies Irae}{37}{}%
-\contentsline {section}{Marian}{40}{}%
-\contentsline {section}{For Peace}{40}{}%
-\contentsline {subsection}{Dona nobis pacem}{40}{}%
-\contentsline {subsection}{Da Pacem Domine}{40}{}%
-\contentsline {section}{Thanksgiving}{41}{}%
-\contentsline {section}{Kyriale}{41}{}%
-\contentsline {section}{Benediction}{41}{}%
-\contentsline {section}{Index}{41}{}%
-\contentsline {chapter}{Index}{41}{}%
+\contentsline {subsection}{Veni Creator Spiritus}{36}{}%
+\contentsline {section}{Trinity}{37}{}%
+\contentsline {subsection}{Firmly I believe}{37}{}%
+\contentsline {section}{Sacred Heart}{38}{}%
+\contentsline {section}{Corpus Christi}{38}{}%
+\contentsline {section}{Christ the King}{38}{}%
+\contentsline {section}{All Saints}{38}{}%
+\contentsline {section}{All Souls}{38}{}%
+\contentsline {subsection}{Dies Irae}{38}{}%
+\contentsline {section}{Marian}{41}{}%
+\contentsline {section}{For Peace}{41}{}%
+\contentsline {subsection}{Dona nobis pacem}{41}{}%
+\contentsline {subsection}{Da Pacem Domine}{41}{}%
+\contentsline {section}{Thanksgiving}{42}{}%
+\contentsline {section}{Kyriale}{42}{}%
+\contentsline {section}{Benediction}{42}{}%
+\contentsline {section}{Index}{42}{}%
+\contentsline {chapter}{Index}{43}{}%
