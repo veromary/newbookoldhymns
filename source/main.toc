@@ -31,22 +31,24 @@
 \contentsline {subsection}{O filii et filiae}{28}{}%
 \contentsline {subsection}{Alleluia}{29}{}%
 \contentsline {subsection}{Victimae paschali laudes}{30}{}%
-\contentsline {subsection}{Salve festa dies}{31}{}%
-\contentsline {section}{Ascension}{33}{}%
-\contentsline {section}{Pentecost}{33}{}%
-\contentsline {section}{Trinity}{33}{}%
-\contentsline {section}{Sacred Heart}{33}{}%
-\contentsline {section}{Corpus Christi}{33}{}%
-\contentsline {section}{Christ the King}{33}{}%
-\contentsline {section}{All Saints}{33}{}%
-\contentsline {section}{All Souls}{33}{}%
-\contentsline {subsection}{Dies Irae}{33}{}%
-\contentsline {section}{Marian}{36}{}%
-\contentsline {section}{For Peace}{36}{}%
-\contentsline {subsection}{Dona nobis pacem}{36}{}%
-\contentsline {subsection}{Da Pacem Domine}{36}{}%
-\contentsline {section}{Thanksgiving}{37}{}%
-\contentsline {section}{Kyriale}{37}{}%
-\contentsline {section}{Benediction}{37}{}%
-\contentsline {section}{Index}{37}{}%
-\contentsline {chapter}{Index}{37}{}%
+\contentsline {subsection}{Salve festa dies}{32}{}%
+\contentsline {section}{Pentecost}{34}{}%
+\contentsline {subsection}{Veni Sancte Spiritus}{34}{}%
+\contentsline {subsection}{Veni Creator Spiritus}{35}{}%
+\contentsline {section}{Trinity}{36}{}%
+\contentsline {subsection}{Firmly I believe}{36}{}%
+\contentsline {section}{Sacred Heart}{37}{}%
+\contentsline {section}{Corpus Christi}{37}{}%
+\contentsline {section}{Christ the King}{37}{}%
+\contentsline {section}{All Saints}{37}{}%
+\contentsline {section}{All Souls}{37}{}%
+\contentsline {subsection}{Dies Irae}{37}{}%
+\contentsline {section}{Marian}{40}{}%
+\contentsline {section}{For Peace}{40}{}%
+\contentsline {subsection}{Dona nobis pacem}{40}{}%
+\contentsline {subsection}{Da Pacem Domine}{40}{}%
+\contentsline {section}{Thanksgiving}{41}{}%
+\contentsline {section}{Kyriale}{41}{}%
+\contentsline {section}{Benediction}{41}{}%
+\contentsline {section}{Index}{41}{}%
+\contentsline {chapter}{Index}{41}{}%
