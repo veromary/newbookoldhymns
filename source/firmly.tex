@@ -1,0 +1,74 @@
+
+\begin{lilypond}
+
+
+melody = \relative c' {
+  \clef treble
+  \key f \major
+  \time 3/2
+
+  \partial 2 f4 f g2 f a4 c bes2 a f4 g a c c2 bes c1 \break \bar "|"
+	c4 c d2 c bes4 a g2 a f4 g a bes g2. f4 f1
+	\bar "||"
+}
+
+text = \lyricmode {
+	Firm -- ly I be -- lieve and tru -- ly
+	God is Three and God is One;
+	And I next ac -- know -- ledge du -- ly
+	Man -- hood tak -- en by the Son.
+}
+
+\score{
+  <<
+    \new Voice = "one" {
+      \autoBeamOff
+      \melody
+    }
+    \new Lyrics \lyricsto "one" \text
+  >>
+
+\layout { 
+    \context {
+      \Score
+        \omit BarNumber
+}
+	} 
+  \midi { }
+}
+
+\end{lilypond}
+
+\hskip30mm
+\begin{minipage}{77mm}
+\hskip-3pt 2. And I trust and hope most fully\\
+In that manhood crucified;\\
+And each thought and deed unruly\\
+Do to death as He has died.
+
+~
+
+\hskip-3pt 3. Simply to His grace and wholly\\
+Light and life and strength belong,\\
+And I love supremely, solely,\\
+Him the holy, Him the strong.
+
+~
+
+\hskip-3pt 4. And I hold in veneration,\\
+For the love of Him alone,\\
+Holy Church as His creation,\\
+and her teachings as His own.
+
+~
+
+\hskip-3pt 5. Adoration ay be given,\\
+With and through th’angelic host,\\
+To the God of earth and heaven,\\
+Father, Son and Holy Ghost.
+\end{minipage}
+
+\bigskip
+
+\mysource{Ven.~John Henry Cardinal Newman, 1801--90}
+
