@@ -41,18 +41,23 @@
 \contentsline {subsection}{Adoro te devote}{38}{}%
 \contentsline {subsection}{Anima Christi}{39}{}%
 \contentsline {subsection}{Sacris solemniis}{40}{}%
-\contentsline {subsection}{Sweet Sacrament divine}{40}{}%
-\contentsline {section}{Sacred Heart}{41}{}%
-\contentsline {section}{Christ the King}{41}{}%
-\contentsline {section}{All Saints}{41}{}%
-\contentsline {section}{All Souls}{41}{}%
-\contentsline {subsection}{Dies Irae}{41}{}%
-\contentsline {section}{Marian}{44}{}%
-\contentsline {section}{For Peace}{44}{}%
-\contentsline {subsection}{Dona nobis pacem}{44}{}%
-\contentsline {subsection}{Da Pacem Domine}{44}{}%
-\contentsline {section}{Thanksgiving}{45}{}%
-\contentsline {section}{Kyriale}{45}{}%
-\contentsline {section}{Benediction}{45}{}%
-\contentsline {section}{Index}{45}{}%
-\contentsline {chapter}{Index}{45}{}%
+\contentsline {subsection}{Sweet Sacrament divine}{41}{}%
+\contentsline {subsection}{Ave verum}{42}{}%
+\contentsline {section}{Sacred Heart}{43}{}%
+\contentsline {subsection}{To Jesus' Heart}{43}{}%
+\contentsline {subsection}{Cor Jesu Sacratissimum}{43}{}%
+\contentsline {subsection}{Glory be to Jesus}{43}{}%
+\contentsline {section}{Christ the King}{44}{}%
+\contentsline {subsection}{Christus vincit}{44}{}%
+\contentsline {section}{All Saints}{45}{}%
+\contentsline {section}{All Souls}{45}{}%
+\contentsline {subsection}{Dies Irae}{45}{}%
+\contentsline {section}{Marian}{48}{}%
+\contentsline {section}{For Peace}{48}{}%
+\contentsline {subsection}{Dona nobis pacem}{48}{}%
+\contentsline {subsection}{Da Pacem Domine}{48}{}%
+\contentsline {section}{Thanksgiving}{49}{}%
+\contentsline {section}{Kyriale}{49}{}%
+\contentsline {section}{Benediction}{49}{}%
+\contentsline {section}{Index}{49}{}%
+\contentsline {chapter}{Index}{49}{}%
