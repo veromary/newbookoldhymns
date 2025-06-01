@@ -49,15 +49,16 @@
 \contentsline {subsection}{Glory be to Jesus}{43}{}%
 \contentsline {section}{Christ the King}{44}{}%
 \contentsline {subsection}{Christus vincit}{44}{}%
-\contentsline {section}{All Saints}{47}{}%
-\contentsline {section}{All Souls}{47}{}%
-\contentsline {subsection}{Dies Irae}{47}{}%
-\contentsline {section}{Marian}{50}{}%
-\contentsline {section}{For Peace}{50}{}%
-\contentsline {subsection}{Dona nobis pacem}{50}{}%
-\contentsline {subsection}{Da Pacem Domine}{50}{}%
-\contentsline {section}{Thanksgiving}{51}{}%
-\contentsline {section}{Kyriale}{51}{}%
-\contentsline {section}{Benediction}{51}{}%
-\contentsline {section}{Index}{51}{}%
-\contentsline {chapter}{Index}{51}{}%
+\contentsline {subsection}{Thee, O Christ}{47}{}%
+\contentsline {section}{All Saints}{48}{}%
+\contentsline {section}{All Souls}{48}{}%
+\contentsline {subsection}{Dies Irae}{48}{}%
+\contentsline {section}{Marian}{51}{}%
+\contentsline {section}{For Peace}{51}{}%
+\contentsline {subsection}{Dona nobis pacem}{51}{}%
+\contentsline {subsection}{Da Pacem Domine}{51}{}%
+\contentsline {section}{Thanksgiving}{52}{}%
+\contentsline {section}{Kyriale}{52}{}%
+\contentsline {section}{Benediction}{52}{}%
+\contentsline {section}{Index}{52}{}%
+\contentsline {chapter}{Index}{53}{}%

@@ -1,6 +1,4 @@
 
-\begin{lilypond}
-
 melody = \relative c' {
   \clef treble
   \key c \major
@@ -14,6 +12,4 @@ melody = \relative c' {
   \layout { }
   \midi { }
 }
-
-\end{lilypond}
 
