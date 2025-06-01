@@ -1,6 +1,6 @@
 name:Christus vincit;
 office-part:Varia;
-annotation: \emph{\large Schola};
+annotation: \emph{\normalsize Schola};
 book:Chants of the Church, 1956, p. 89;
 transcriber:Andrew Hinkley;
 %%
@@ -12,6 +12,6 @@ transcriber:Andrew Hinkley;
 <alt>Choir</alt>Au[Our help!](h)xí(i)li(h)um(g) no(h)strum.(h.) (::) 
 <alt>Schola</alt>For[Our strength!](g)ti(h)tú(h)do(g) no(h)stra.(h.) (::) 
 <alt>Choir</alt>Ar[Our invincible armory!](g)ma(h) no(g)stra(h) in(i)vi(g)ctís(h)si(h)ma.(h.) (::) 
-<alt>Schola</alt>Mu[Our impregnable fortress!](g)rus(h) no(h)ster(g) in(h)ex(i)pu(g)gná(h)bi(h)lis.(h.) (::) 
+<alt>Schola</alt>Mu[Our impregnable fortress!](g)rus(h) no(h)ster(g) in(h)ex(i)pu(g)gná(h)bi(h)lis.(h.) (::) (z)
 <alt>Choir</alt>De[Our Defence and Exaltation!](g)fén(h)si(h)o(h) et(h) ex(g)al(h)tá(i)ti(h)o(g) nos(h)tra!(h.) (::)
-%<alt>Schola and Choir</alt>Lux[Our Light, our Way, our Life!],(h_) vi(i)a(h_) (,) et(h) vi(h)ta(g) no(hg)stra.(fe..) (::)
+<alt>Schola and Choir</alt>Lux,[Our Light, our Way, our Life!](h_) vi(h)a(h_) (,) et(h) vi(h)ta(g) no(hg)stra.(fe..) (::)
