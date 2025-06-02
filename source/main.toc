@@ -54,14 +54,14 @@
 \contentsline {subsection}{Iste Confessor}{48}{}%
 \contentsline {subsection}{For all the Saints}{49}{}%
 \contentsline {subsection}{Corda pia}{50}{}%
-\contentsline {section}{All Souls}{51}{}%
-\contentsline {subsection}{Dies Irae}{51}{}%
-\contentsline {section}{Marian}{54}{}%
-\contentsline {section}{For Peace}{54}{}%
-\contentsline {subsection}{Dona nobis pacem}{54}{}%
-\contentsline {subsection}{Da Pacem Domine}{54}{}%
-\contentsline {section}{Thanksgiving}{55}{}%
-\contentsline {section}{Kyriale}{55}{}%
-\contentsline {section}{Benediction}{55}{}%
-\contentsline {section}{Index}{55}{}%
-\contentsline {chapter}{Index}{55}{}%
+\contentsline {section}{All Souls}{52}{}%
+\contentsline {subsection}{Dies Irae}{52}{}%
+\contentsline {section}{Marian}{56}{}%
+\contentsline {section}{For Peace}{56}{}%
+\contentsline {subsection}{Dona nobis pacem}{56}{}%
+\contentsline {subsection}{Da Pacem Domine}{56}{}%
+\contentsline {section}{Thanksgiving}{57}{}%
+\contentsline {section}{Kyriale}{57}{}%
+\contentsline {section}{Benediction}{57}{}%
+\contentsline {section}{Index}{57}{}%
+\contentsline {chapter}{Index}{57}{}%

@@ -111,16 +111,18 @@
 \newlength{\englishwidth}
 \newlength{\latinwidth}
 \newlength{\interwidth}
+\newlength{\preverseskip}
 \setlength{\englishwidth}{0.5\textwidth}
 \setlength{\latinwidth}{0.48\textwidth}
 \setlength{\interwidth}{10pt}
+\setlength{\preverseskip}{10pt}
 \newcounter{VerseNumber}
 
-\newcommand\startverse[1]{\noindent\begin{minipage}[t]{\latinwidth}%
+\newcommand\startverse[1]{\vskip\preverseskip\noindent\begin{minipage}[t]{\latinwidth}%
 	\setcounter{VerseNumber}{#1}%
 \hskip-3pt{#1 .}}
 \newcommand\divverse{\end{minipage}%
-	\hskip12pt%
+	\hskip\interwidth%
 \begin{minipage}[t]{\englishwidth}\itshape%
 	\hskip-3pt{\theVerseNumber .} }
 \newcommand\finishverse{\end{minipage}}
