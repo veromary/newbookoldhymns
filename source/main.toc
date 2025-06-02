@@ -63,13 +63,13 @@
 \contentsline {subsection}{Laudemus Virginem}{58}{}%
 \contentsline {subsection}{Marian antiphons}{59}{}%
 \contentsline {subsection}{Stella splendens}{62}{}%
-\contentsline {subsection}{Litany of Loreto}{63}{}%
-\contentsline {subsection}{Ave maris stella}{64}{}%
-\contentsline {section}{For Peace}{65}{}%
-\contentsline {subsection}{Dona nobis pacem}{65}{}%
-\contentsline {subsection}{Da Pacem Domine}{65}{}%
-\contentsline {section}{Thanksgiving}{66}{}%
-\contentsline {section}{Kyriale}{66}{}%
-\contentsline {section}{Benediction}{66}{}%
-\contentsline {section}{Index}{66}{}%
+\contentsline {subsection}{Litany of Loreto}{64}{}%
+\contentsline {subsection}{Ave maris stella}{65}{}%
+\contentsline {section}{For Peace}{66}{}%
+\contentsline {subsection}{Dona nobis pacem}{66}{}%
+\contentsline {subsection}{Da Pacem Domine}{66}{}%
+\contentsline {section}{Thanksgiving}{67}{}%
+\contentsline {section}{Kyriale}{67}{}%
+\contentsline {section}{Benediction}{67}{}%
+\contentsline {section}{Index}{67}{}%
 \contentsline {chapter}{Index}{67}{}%
