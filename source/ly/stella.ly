@@ -29,9 +29,11 @@ Gra -- ti -- is re -- ple -- ti.
 	}
 		\addlyrics { 
 \emphasize Bright _ star on the moun -- tain like a ray _ of sun,
-Mi -- ra -- cu -- lous -- ly glow -- ing hear your peo -- ple.
-Peo -- ple  _ from all lands come to -- ge -- ther rejoic -- ing
-Rich and poor, _ high _ and low.
+Mi -- ra -- cu -- lous -- ly glow -- ing hear _ your peo _ -- ple.
+Peo -- ple  _ from all lands come to -- ge -- ther rejoic _ -- ing
+Rich _ _ and poor, _ _ high _ and low _ -- ly.
+They climb the mount -- ain as soon as they see it.
+And they re -- turn from it filled with grace.
 		}
 	harmony = \relative c' {
 	\key f \major
@@ -55,6 +57,10 @@ d,2 d4 f a f c2 f g4 a d, c f g a r
     \context {
       \Score
         \omit BarNumber
+}
+\context {
+   \Staff
+      \omit TimeSignature
 }
 	}
 	}

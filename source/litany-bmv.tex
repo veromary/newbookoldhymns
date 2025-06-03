@@ -1,0 +1,94 @@
+\documentclass[a5paper,10pt,oneside]{memoir}
+\usepackage{fontspec}
+\setmainfont{Calluna}
+\newfontfamily{\callunablack}{Calluna}[BoldFont="Calluna Black"]
+\newfontface{\sans}{Linux Biolinum O}
+\usepackage[autocompile]{gregoriotex}
+\usepackage[savepos]{zref}
+\usepackage{multicol}
+\usepackage{lettrine}
+\usepackage{rotating}
+\setulmarginsandblock{.6in}{.6in}{*}
+\checkandfixthelayout
+
+\newcommand{\sideResponse}[2]{\makebox[\hsize]{#1 \hfill%
+            \begin{rotate}{-90}\textit{#2}\end{rotate}\hskip6pt}}
+
+		    \grechangestaffsize{16}
+
+\setlength{\parindent}{0pt}
+
+\gredefbarredsymbol{VBarBold}{V}{greVBarAlt}{12}{0mm}{0.5mm}
+\gredefbarredsymbol{RBarBold}{R}{greRBarAlt}{12}{1.2mm}{0.2mm}
+\renewcommand\Rbar{\textmd{\hbox to 1.4em{\RBarBold .}}}
+
+\renewcommand\Vbar{\textmd{\hbox to 1.4em{\VBarBold .}}}
+
+
+\makepagestyle{branded}
+\makeevenfoot{branded}{\thepage}{{\sans \small 2024 Mrs Veronica Brandt brandt.id.au}}{}
+\makeoddfoot{branded}{}{{\sans \small 2024 Mrs Veronica Brandt brandt.id.au}}{\thepage}
+\columnseprule=0.4pt
+
+\makeatletter  
+\newcounter{score}
+\newcounter{tabstop}[score]
+\newcommand{\grealign}{%
+	\@bsphack%
+	\ifgre@boxing\else%
+		\kern\gre@dimen@begindifference%
+		\stepcounter{tabstop}%
+		\expandafter\zsavepos{stop-\thescore-\thetabstop}%
+		\kern-\gre@dimen@begindifference%
+	\fi%
+	\@esphack%
+}
+
+\newcommand{\setstops}{%
+  \gdef\nstabbing@stops{%
+    \hspace*{-\oddsidemargin}\hspace{-1in}%
+    \hspace*{\zposx{stop-\thescore-1} sp}\=%
+  }%
+  \count@=\@ne
+  \loop\ifnum\count@<\value{tabstop}%
+    \begingroup\edef\x{\endgroup
+      \noexpand\g@addto@macro\noexpand\nstabbing@stops{%
+        \noexpand\hspace{-\noexpand\zposx{stop-\thescore-\the\count@} sp}%
+        \noexpand\hspace{\noexpand\zposx{stop-\thescore-\the\numexpr\count@+1} sp}\noexpand\=%
+      }%
+    }\x
+    \advance\count@\@ne
+  \repeat
+  \nstabbing@stops\kill
+}
+\makeatother
+
+\newenvironment{nstabbing}
+  {\setlength{\topsep}{0pt}%
+   \setlength{\partopsep}{0pt}%
+   \tabbing%
+   \setstops}
+  {\endtabbing\stepcounter{score}}
+
+\begin{document}
+
+\pagestyle{branded}
+
+\begin{center}
+	{\LARGE \bfseries \scshape Litaniae Beatae Mariae Virginis}
+\end{center}
+
+\input bvmlatin
+
+\newpage
+
+\begin{center}
+	{\LARGE \bfseries \scshape Litany of the Blessed Virgin Mary}
+\end{center}
+
+\bigskip
+
+%\input bvmenglish
+
+\end{document}
+

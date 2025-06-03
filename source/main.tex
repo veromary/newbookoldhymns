@@ -13,6 +13,8 @@
 \usepackage{graphicx} % support the \includegraphics command and options
 \usepackage[pass-fonts=true,program=/home/veronica/bin/lilypond]{lyluatex}
 \usepackage{lettrine}
+\usepackage[savepos]{zref}
+\usepackage{multicol}
 \setlength{\trimtop}{0pt}
 \setlength{\trimedge}{0pt}
 \settypeblocksize{173mm}{110mm}{*} % Was 101mm in a5
@@ -126,6 +128,48 @@
 \begin{minipage}[t]{\englishwidth}\itshape%
 	\hskip-3pt{\theVerseNumber .} }
 \newcommand\finishverse{\end{minipage}}
+
+%% For the Litany:
+\makeatletter  
+\newcounter{score}
+\newcounter{tabstop}[score]
+\newcommand{\grealign}{%
+	\@bsphack%
+	\ifgre@boxing\else%
+		\kern\gre@dimen@begindifference%
+		\stepcounter{tabstop}%
+		\expandafter\zsavepos{stop-\thescore-\thetabstop}%
+		\kern-\gre@dimen@begindifference%
+	\fi%
+	\@esphack%
+}
+
+\newcommand{\setstops}{%
+  \gdef\nstabbing@stops{%
+    \hspace*{-\oddsidemargin}\hspace{-1in}%
+    \hspace*{\zposx{stop-\thescore-1} sp}\=%
+  }%
+  \count@=\@ne
+  \loop\ifnum\count@<\value{tabstop}%
+    \begingroup\edef\x{\endgroup
+      \noexpand\g@addto@macro\noexpand\nstabbing@stops{%
+        \noexpand\hspace{-\noexpand\zposx{stop-\thescore-\the\count@} sp}%
+        \noexpand\hspace{\noexpand\zposx{stop-\thescore-\the\numexpr\count@+1} sp}\noexpand\=%
+      }%
+    }\x
+    \advance\count@\@ne
+  \repeat
+  \nstabbing@stops\kill
+}
+\makeatother
+
+\newenvironment{nstabbing}
+  {\setlength{\topsep}{0pt}%
+   \setlength{\partopsep}{0pt}%
+   \tabbing%
+   \setstops}
+  {\endtabbing\stepcounter{score}}
+
 
 
 \begin{document}
@@ -770,9 +814,23 @@ after Pentecost the Salve Regina is sung.
 
 \hymntitle{Litany of Loreto}
 
+\input litany
+
 \newpage
 
 \hymntitle{Ave maris stella}
+
+\input avemaris
+
+\newpage
+
+\hymntitle{Virgo Dei Genitrix}
+
+\input virgodei
+
+\begin{center}
+\includegraphics[width=5cm]{images/annun}
+\end{center}
 
 \newpage
 
