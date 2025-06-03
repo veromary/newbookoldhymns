@@ -68,9 +68,13 @@
 \contentsline {subsection}{Virgo Dei Genitrix}{68}{}%
 \contentsline {section}{For Peace}{69}{}%
 \contentsline {subsection}{Dona nobis pacem}{69}{}%
-\contentsline {subsection}{Da Pacem Domine}{69}{}%
-\contentsline {section}{Thanksgiving}{70}{}%
-\contentsline {section}{Kyriale}{70}{}%
-\contentsline {section}{Benediction}{70}{}%
-\contentsline {section}{Index}{70}{}%
-\contentsline {chapter}{Index}{71}{}%
+\contentsline {subsection}{Da Pacem Domine}{70}{}%
+\contentsline {section}{Thanksgiving}{71}{}%
+\contentsline {subsection}{Now thank we all our God}{71}{}%
+\contentsline {subsection}{Te Deum}{72}{}%
+\contentsline {section}{Kyriale}{75}{}%
+\contentsline {subsection}{Missa Orbis Factor --- Mass XI}{75}{}%
+\contentsline {subsection}{Credo I}{75}{}%
+\contentsline {section}{Benediction}{75}{}%
+\contentsline {section}{Index}{75}{}%
+\contentsline {chapter}{Index}{77}{}%

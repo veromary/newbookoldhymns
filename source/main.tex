@@ -129,6 +129,8 @@
 	\hskip-3pt{\theVerseNumber .} }
 \newcommand\finishverse{\end{minipage}}
 
+\newcommand\invoc[2]{\begin{minipage}[t]{0.5\textwidth}#1\end{minipage}\begin{minipage}[t]{0.5\textwidth}\textit{#2}\end{minipage}}
+
 \setlength{\parindent}{0pt}
 
 %% For the Litany:
@@ -148,7 +150,7 @@
 
 \newcommand{\setstops}{%
   \gdef\nstabbing@stops{%
-    \hspace*{-\oddsidemargin}\hspace{-1in}%
+    \hspace*{-\evensidemargin}\hspace{-1in}%
     \hspace*{\zposx{stop-\thescore-1} sp}\=%
   }%
   \count@=\@ne
@@ -838,26 +840,109 @@ after Pentecost the Salve Regina is sung.
 
 \invisiblesection{For Peace}
 
+\bigskip
+
 \hymntitle{Dona nobis pacem}
 
 \input dona-nobis
 
-% The title:
-%\begin{center}\begin{huge}\textsc{For Peace}\end{huge}\end{center}
-	\hymntitle{Da Pacem Domine}
+\newpage
 
+\hymntitle{Da Pacem Domine}
 
 \gregorioscore{gabc/an--da_pacem_domine--solesmes}
 
 \bigskip
 
+\emph{Alternate round setting:}
+
+\lilypondfile{ly/dapacem}
+
+\bigskip
+
+
+\emph{* The second and fourth parts comes in on ‘d’ and are sung a fourth below,
+rather like Non nobis Domine p.~10.}
+
+\bigskip
+
+
+\mysource{Melchior Franck, 1580--1639}
+
+\begin{center}
+\includegraphics[width=3cm]{images/lily}
+\end{center}
+
 
 \newpage
 
-
 \invisiblesection{Thanksgiving}
 
+\hymntitle{Now thank we all our God}
+
+\bigskip
+
+\hskip3cm\begin{minipage}{7cm}
+\lettrine{N}{ow} thank we all our God,\\
+With heart and mind and voices,\\
+Who wondrous things hath done,\\
+In whom the world rejoices;\\
+Who from our mother's arms\\
+Hath blessed us on our way\\
+With countless gifts of love,\\
+And still is ours today.
+
+~
+
+\hskip-3pt 2. Oh may this bounteous God\\
+Through all our life be near us,\\
+With ever joyful hearts\\
+And blessed peace to cheer us;\\
+And keep us in His grace,\\
+And guide us when perplexed,\\
+And free us from all ills\\
+I this world and the next.
+
+~
+
+\hskip-3pt 3. All praise and thanks to God\\
+The Father now be given,\\
+The Son, and Him who reigns\\
+With Them in highest heaven,\\
+Eternal Three in One\\
+Whom earth and heav'n adore;\\
+For thus it was, is now,\\
+And shall be ever more.
+\end{minipage}
+
+\mysource{Nun danket alle Gott\\
+M.~Rinkart, 1586--1649\\
+Translated by Catherine Winkworth, d.~1878.~et al.}
+
+\newpage
+
+\hymntitle{Te Deum}
+
+\gregorioscore{gabc/hy--te_deum--solesmes}
+
+\newpage
+
 \invisiblesection{Kyriale}
+
+\hymntitle{Missa Orbis Factor --- Mass XI}
+
+Kyrie
+
+Gloria
+
+Sanctus
+
+Agnus Dei
+
+Ite, missa est
+
+\hymntitle{Credo I}
+
 
 \invisiblesection{Benediction}
 
