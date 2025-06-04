@@ -72,9 +72,9 @@
 \contentsline {section}{Thanksgiving}{71}{}%
 \contentsline {subsection}{Now thank we all our God}{71}{}%
 \contentsline {subsection}{Te Deum}{72}{}%
-\contentsline {section}{Kyriale}{75}{}%
-\contentsline {subsection}{Missa Orbis Factor --- Mass XI}{75}{}%
-\contentsline {subsection}{Credo I}{75}{}%
-\contentsline {section}{Benediction}{75}{}%
-\contentsline {section}{Index}{75}{}%
+\contentsline {section}{Kyriale}{76}{}%
+\contentsline {subsection}{Missa Orbis Factor --- Mass XI}{76}{}%
+\contentsline {subsection}{Credo I}{76}{}%
+\contentsline {section}{Benediction}{76}{}%
+\contentsline {section}{Index}{76}{}%
 \contentsline {chapter}{Index}{77}{}%
