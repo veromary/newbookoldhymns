@@ -74,7 +74,10 @@
 \contentsline {subsection}{Te Deum}{72}{}%
 \contentsline {section}{Kyriale}{76}{}%
 \contentsline {subsection}{Missa Orbis Factor --- Mass XI}{76}{}%
-\contentsline {subsection}{Credo I}{76}{}%
-\contentsline {section}{Benediction}{76}{}%
-\contentsline {section}{Index}{76}{}%
-\contentsline {chapter}{Index}{77}{}%
+\contentsline {subsection}{Credo I}{80}{}%
+\contentsline {section}{Benediction}{83}{}%
+\contentsline {subsection}{O salutaris Hostia}{83}{}%
+\contentsline {subsection}{Tantum ergo Sacramentum}{84}{}%
+\contentsline {subsection}{Adoremus in aeternum}{86}{}%
+\contentsline {section}{Index}{86}{}%
+\contentsline {chapter}{Index}{87}{}%
