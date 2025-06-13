@@ -2,6 +2,7 @@
 title: Anima Christi
 layout: hymn
 sheet: anima.pdf
+crossword: anima.pdf
 quizlet: https://quizlet.com/au/1053945280/anima-christi-flash-cards/
 video: https://youtu.be/HXM1VdINphQ
 ---
