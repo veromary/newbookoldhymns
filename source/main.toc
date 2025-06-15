@@ -10,7 +10,7 @@
 \contentsline {section}{Holy Name}{9}{}%
 \contentsline {subsection}{Jesu Dulcis Memoria}{9}{}%
 \contentsline {subsection}{Non nobis, Domine}{10}{}%
-\contentsline {subsection}{Laudate nomen Domini}{10}{}%
+\contentsline {subsection}{Laudate Nomen Domini}{10}{}%
 \contentsline {section}{Epiphany}{10}{}%
 \contentsline {section}{Candlemas}{11}{}%
 \contentsline {subsection}{Lumen ad Revelationem Gentium}{11}{}%
@@ -72,6 +72,7 @@
 \contentsline {section}{Thanksgiving}{71}{}%
 \contentsline {subsection}{Now thank we all our God}{71}{}%
 \contentsline {subsection}{Te Deum}{72}{}%
+\contentsline {subsection}{Pater Noster}{75}{}%
 \contentsline {section}{Kyriale}{76}{}%
 \contentsline {subsection}{Missa Orbis Factor --- Mass XI}{76}{}%
 \contentsline {subsection}{Credo I}{80}{}%
