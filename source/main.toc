@@ -80,5 +80,5 @@
 \contentsline {subsection}{O salutaris Hostia}{83}{}%
 \contentsline {subsection}{Tantum ergo Sacramentum}{84}{}%
 \contentsline {subsection}{Adoremus in aeternum}{86}{}%
-\contentsline {section}{Index}{86}{}%
+\contentsline {section}{Index}{87}{}%
 \contentsline {chapter}{Index}{87}{}%
