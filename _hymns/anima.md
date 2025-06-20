@@ -33,6 +33,6 @@ Floriani recorded this one:
 [gregobase](https://gregobase.selapa.net/chant.php?id=18047)
 and [youtube](https://www.youtube.com/watch?v=FrOgmoqceLM) thanks to Verbum Gloriae
 
-### Marco Frisini
+### Marco Frisina
 
-and a polyphonic one by Marco Frisini which is still under copyright, so you'll need to buy the sheet music and it is so ubiquitous, I'm sure you can find recordings.
+and a polyphonic one by Marco Frisina which is still under copyright, so you'll need to buy the sheet music and it is so ubiquitous, I'm sure you can find recordings.
