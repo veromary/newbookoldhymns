@@ -38,8 +38,10 @@
 \grechangestaffsize{16}
 
 \makepagestyle{myheadings}
-\makeevenfoot{myheadings}{}{}{} % page numbers at the outside
-\makeoddfoot{myheadings}{}{}{}
+%\makeevenfoot{myheadings}{}{\small A New Book of Old Hymns Fifth Edition 2025}{} % page numbers at the outside
+%\makeoddfoot{myheadings}{}{\small A New Book of Old Hymns Fifth Edition 2025}{}
+\makeoddfoot{myheadings}{}{}{} 
+\makeevenfoot{myheadings}{}{}{} 
 \makeevenhead{myheadings}{\thepage}{\textsc{\leftmark}}{} % small caps
 \makeoddhead{myheadings}{}{\textsc{\rightmark}}{\thepage}
 
