@@ -5,6 +5,7 @@ sheet: subtuum.pdf
 lesson: 29
 gloss: true
 video: https://www.youtube.com/watch?v=_FJutFYnc50 
+quizlet: https://quizlet.com/au/1077851291/sub-tuum-praesidium-flash-cards
 ---
 
 This is the most ancient surviving hymn to Our Lady. [Preces Thesaurus](http://www.preces-latinae.org/thesaurus/BVM/SubTuum.html) says it's indulgenced - double your merit!
