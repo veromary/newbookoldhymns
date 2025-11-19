@@ -4,7 +4,7 @@ layout: hymn
 sheet: rorate.pdf
 crossword: rorate.pdf
 quizlet: https://quizlet.com/_2s8ei2
-video: https://www.youtube.com/watch?v=Rhf8ideKiYs
+video: https://www.youtube.com/watch?v=6VdF6xsMxhk
 lesson: 36
 pageno: 3
 gloss: true
@@ -19,7 +19,7 @@ spotify: 5JcEexyLT2CsoFbZ2ru4Fm
 </div>
 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Rhf8ideKiYs?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6VdF6xsMxhk" frameborder="0" allowfullscreen></iframe>
 
 ### First verse
 
