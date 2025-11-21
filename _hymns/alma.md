@@ -4,7 +4,7 @@ layout: hymn
 sheet: alma.pdf
 crossword: alma.pdf
 quizlet: https://quizlet.com/_2tdigl
-video: https://youtu.be/xQxzDAfgeH8
+video: https://www.youtube.com/watch?v=td9tdJKNS8c
 lesson: 37
 gloss: lastline
 spotify: 7tkQc1HeoZrJmJEdZQBW2d
