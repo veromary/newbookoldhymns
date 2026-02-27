@@ -15,6 +15,8 @@ An antiphon in honour of the Blessed Sacrament.
 
 Mozart's version of it is really famous, but there are lots and lots of others.
 
+Also, the translation in A New Book of Old Hymns is a metrical one by Fr Caswall. You can sort of sing it to Orienti Partibus, but someone on the Musica Sacra Forum made [this version](https://www.repleatur.net/pdf/hymns/hail-to-thee-CYS.pdf) which is reminiscent of the chant tune.
+
 The triple O at the end is a little like the Salve Regina
 
 <div data-gloss>
