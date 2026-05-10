@@ -6,6 +6,8 @@ lesson: 18
 video: https://www.youtube.com/watch?v=zcBM--G4CMM
 pageno: 36
 gloss: true
+crossword: venicreator.pdf
+quizlet: https://quizlet.com/au/1178839575/veni-creator-flash-cards/
 spotify: 2Pd1mEynYOQB8KMhPZg8gA
 ---
 
