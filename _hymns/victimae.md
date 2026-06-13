@@ -75,6 +75,29 @@ praecedet suos in Galilaeam. </p>
 <p>Christ my hope has risen: he will go before his own into Galilee.</p>
 </div>
 
+Next come some lines which were omitted in the reforms of the Missal by the Council of Trent:
+
+<div data-gloss>
+<p>Credendum est magis soli
+Mariae veraci</p>
+<p>Credendum est magis soli
+Mariae veraci</p>
+<p>{intending to believe} is greater alone {of Mary} truths</p>
+<p>More to be believed is
+truthful Mary by herself</p>
+</div>
+
+<div data-gloss>
+<p>Quam Judaeorum
+Turbae fallaci.</p>
+<p>Quam Judaeorum
+Turbae fallaci.</p>
+<p>than {of the Jews} {of the crowd} falsehoods.</p>
+<p>than the deceitful crowd of the Jews.</p>
+</div>
+
+Then back to the final lines like in the hymnbook:
+
 <div data-gloss>
 <p>Scimus Christum surrexisse
 a mortuis vere:</p>
